@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京邮电大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京邮电大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "通知公告-北京邮电大学",
+          "url": "https://jwc.bupt.edu.cn/tzgg1/34.htm",
+          "snippet": "2025-03-18关于开展2025年度北京邮电大学教学名师奖评选工作的通知 · 2025-03-12【竞赛通知】关于组织参加2025年睿抗机器人开发者大赛（RAICOM）的通知 · 2025-03-11关于2024 ...",
+          "source": "jwc.bupt.edu.cn"
+        },
+        {
+          "title": "北京邮电大学关于本科学生参加各类实践活动认定的实施细则",
+          "url": "https://yepeida.bupt.edu.cn/info/1005/1515.htm",
+          "snippet": "# 三、实践活动成果加分认定\n奖项分为一等奖、二等奖、三等奖共三个等级的竞赛，各等级之间的分差为0.5分。\n\n奖项分为一等奖、二等奖、三等奖共三个等级的竞赛，各等级之间的分差为0.5分。",
+          "source": "yepeida.bupt.edu.cn"
+        },
+        {
+          "title": "【竞赛通知】关于报名参加2025年全国大学生电子设计竞赛（北京赛区）的 ...",
+          "url": "https://jwc.bupt.edu.cn/info/1177/3345.htm",
+          "snippet": "本届竞赛由北京市教委主办，北京邮电大学承办，相关事宜通知如下。 一、竞赛时间. 7月30日（周三）8:00至8月2日（周六）20:00. 二、竞赛形式. 本次竞赛 ...",
+          "source": "jwc.bupt.edu.cn"
+        },
+        {
+          "title": "2025年全国大学生英语竞赛北京邮电大学分赛区",
+          "url": "https://www.saikr.com/vse/neccs/bupt/2025",
+          "snippet": "通知：我校网报系统退费退赛截止时间与报名截止日期为3月10日，请注意！报名结束后退费通道将永久关闭，请仔细确认后再报名。 ... 本届竞赛是第二十七届全国大学生英语竞赛。",
+          "source": "www.saikr.com"
+        },
+        {
+          "title": "重发【竞赛通知】关于举办第19届北京邮电大学程序设计竞赛的通知",
+          "url": "https://yepeida.bupt.edu.cn/info/1001/1940.htm",
+          "snippet": "报名问卷截止时间：2025年9月24日23:59。 赛事后续相关信息将在QQ群“北邮ICPC集训队2025年 ...",
+          "source": "yepeida.bupt.edu.cn"
+        },
+        {
+          "title": "北京邮电大学关于征集第七届“挑战杯”首都大学生课外学术科技作品竞赛 ...",
+          "url": "https://www.tiaozhanbei.net/article/11859/",
+          "snippet": "为积极备战第七届“挑战杯”首都大学生课外学术科技作品竞赛，校团委拟从即日起面向全校学生征集参赛作品，现将有关事项通知如下：. 一、征集对象.",
+          "source": "www.tiaozhanbei.net"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jw.beijing.gov.cn/gjc/tzgg_15688/",
+          "snippet": "关于举办2026年北京市大学生人文知识竞赛的通知; 2026-08-31 关于公示2026年北京市大学生广告艺术竞赛暨第十八届全国大学生广告艺术大赛（北京赛区）拟获奖名单的通知 ...",
+          "source": "jw.beijing.gov.cn"
+        },
+        {
+          "title": "社团组织",
+          "url": "https://guide.byrdocs.org/%E5%AD%A6%E7%94%9F%E7%BB%84%E7%BB%87/%E7%A4%BE%E5%9B%A2%E7%BB%84%E7%BB%87/",
+          "snippet": "你需要20 名以上无处分的在读学生联合发起社团申请，要求其来自不同学院、3个及以上专业。 · 明确你们的社团章程，重点是社团名称和类别。 · 需要寻找明确的业务指导机关和 ...",
+          "source": "guide.byrdocs.org"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.041,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.041
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:44:20.385Z",
+    "durationSeconds": 5.044
+  }
+}

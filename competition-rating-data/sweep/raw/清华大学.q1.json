@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "清华大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"清华大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "公开目录",
+          "url": "https://www.tsinghua.edu.cn/zjqh/xxgk1/gkml.htm",
+          "snippet": "公开目录 ; 学校概况 · 学校沿革 · 现任领导 ; 招生考试 · 招生章程及特殊类型招生办法 · 分批次、分科类招生计划 ; 财务、资产及收费 · 财务、资产管理制度 · 受捐赠财产的使用 ...",
+          "source": "www.tsinghua.edu.cn"
+        },
+        {
+          "title": "关于印发《长江大学学生竞赛管理办法》 的通知",
+          "url": "https://yl.yangtzeu.edu.cn/__local/E/F2/AE/0566AAFB8CE87F46F5ADE5B2F28_080C13C4_BE64C.pdf",
+          "snippet": "B 类赛事：中国高等教育学会《全国普通高校大学生竞赛分析报告》竞赛目录中未列入A类的其. 他赛事；或高校排行榜指标中赋分低的赛事；教育部学位与 ...",
+          "source": "yl.yangtzeu.edu.cn"
+        },
+        {
+          "title": "GIX创新大赛",
+          "url": "https://gix.tsinghua.edu.cn/hd/GIXcxds.htm",
+          "snippet": "GIX创新大赛是清华大学全球创新学院举办的国际性创新赛事，从2016年开始创办，在短短两年内迅速成为了具有重大国际影响力的赛事，吸引了来自北美、欧洲、亚洲等十几个 ...",
+          "source": "gix.tsinghua.edu.cn"
+        },
+        {
+          "title": "湖南财政经济学院学科竞赛类成果计分办法（试行）",
+          "url": "https://www.hufe.edu.cn/ggglxy/info/1069/12252.htm",
+          "snippet": "A+类学科竞赛项目清单（4项）. 2.A类学科竞赛项目清单（41项）. 3.B类学科竞赛项目清单（65项）. 附件1. A+类学科竞赛项目清单（4项）. 序号. 竞赛项目.",
+          "source": "www.hufe.edu.cn"
+        },
+        {
+          "title": "教字〔2025〕2号中国科学技术大学本科生学科竞赛管理办法",
+          "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/%E6%95%99%E5%AD%97%E3%80%942025%E3%80%952%E5%8F%B7-%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+          "snippet": "学科竞赛等级 为便于管理，对不同等级的学科竞赛项目 … 据竞赛项目类别与等级以及获奖情况申请相应学分（自由选修 类）其对应有效学分上限为4 学分。 … 采用五等级评分制，原 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "清华大学2024竞赛类保送生招生简章",
+          "url": "https://join-tsinghua.edu.cn/info/1006/1846.htm",
+          "snippet": "一、招收对象. 在五大学科奥林匹克竞赛（数学、物理、化学、生物、信息学）中获得符合教育部规定的具有保送生资格的优秀应届高中毕业生。 · 二、报名申请.",
+          "source": "join-tsinghua.edu.cn"
+        },
+        {
+          "title": "关于印发《中南大学本科生学科竞赛管理办法》的通知",
+          "url": "https://bksy.csu.edu.cn/info/1168/3379.htm",
+          "snippet": "大学生学科竞赛分为国际级、国家级、省级和校级学科竞赛四个层次： 1.国际级学科竞赛:指联合国教科文组织或其他国际学术团体组织的世界性学科竞赛。",
+          "source": "bksy.csu.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "省部级A类. 全国大学生国土空间规划技能大赛. 本科生. 教育部高校公共管理类学科专业教学指导委员会、全国. 高校土地资源管理院长（系主任）联席会、中国土地学. 会规划 ...",
+          "source": "cpp.cau.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.113,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.113
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:43:31.964Z",
+    "durationSeconds": 3.116
+  }
+}

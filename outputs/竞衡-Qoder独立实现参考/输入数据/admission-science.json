@@ -1,0 +1,303 @@
+[
+  {
+    "school": "复旦大学",
+    "unit": "数学科学学院",
+    "cohort": 2027,
+    "published": "2026-09-02",
+    "url": "https://math.fudan.edu.cn/0b/71/c30358a789361/page.htm",
+    "title": "数学科学学院推荐2027届优秀本科生免试攻读研究生工作细则",
+    "status": "final",
+    "locator": "第四部分第3项（2）及附件3",
+    "notes": "适用于本院推荐。学业综合成绩折合百分制后占70%，竞赛计入遴选总成绩，各项竞赛取最高一次。与直系亲属合作获奖不计分。",
+    "clauses": [
+      {
+        "events": [
+          "cumcm"
+        ],
+        "mechanism": "points",
+        "requirement": "数模全国赛一、二等奖，申请人须为经评审认定的主力队员，提交全队书面确认；每队主力一般至多五人。",
+        "effect": "一等奖每人3分，二等奖每人2分，直接计入遴选总成绩。附件3整张表的单项最高为5分。",
+        "locator": "附件3“全国大学生数学建模竞赛（全国赛）”行",
+        "awards": [
+          "nat1",
+          "nat2"
+        ],
+        "values": {
+          "nat1": 3,
+          "nat2": 2
+        },
+        "scaleMax": 5
+      }
+    ],
+    "attachment": {
+      "url": "https://math.fudan.edu.cn/_upload/article/files/1d/62/fb653ca8479c96b44b16269df061/479b2214-5c9c-43a7-8bc3-3a8d70023d41.doc",
+      "title": "细则附件3 · 学科竞赛全国赛获奖加分认定表"
+    }
+  },
+  {
+    "school": "云南民族大学",
+    "unit": "数学与计算机科学学院",
+    "cohort": 2027,
+    "published": "2026-08-12",
+    "url": "https://web.ymu.edu.cn/sxyjsj/info/1051/4614.htm",
+    "title": "数学与计算机科学学院2027年推免生工作实施细则公示",
+    "status": "final",
+    "locator": "第四部分（八）、第六部分、附件1至3",
+    "notes": "本院五个本科专业适用。学院已审定并报教务处备案；9月1日推荐结果公示明确以此细则排序。学科竞赛占普通推免总成绩5%，同一模块取最高一项。",
+    "clauses": [
+      {
+        "events": [
+          "cumcm",
+          "nuedc",
+          "computer",
+          "sanchuang"
+        ],
+        "mechanism": "points",
+        "requirement": "附件3的B类赛项。按认定的国家或省级一至三等奖取值，团体获奖须在前三位。",
+        "effect": "竞赛模块中，国家一、二、三等奖依次80、25、15分，省级依次10、8、5分。团队前三名再乘1、0.6、0.3，模块加权5%计入综合成绩。",
+        "locator": "附件2分值表B行，附件3的B类第5、6、14、15项",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3",
+          "prov1",
+          "prov2",
+          "prov3"
+        ],
+        "values": {
+          "nat1": 80,
+          "nat2": 25,
+          "nat3": 15,
+          "prov1": 10,
+          "prov2": 8,
+          "prov3": 5
+        },
+        "scaleMax": 100,
+        "places": [
+          1,
+          2,
+          3
+        ],
+        "factors": {
+          "1": 1,
+          "2": 0.6,
+          "3": 0.3
+        }
+      },
+      {
+        "events": [
+          "lanqiao",
+          "icpc"
+        ],
+        "mechanism": "points",
+        "requirement": "附件3的C类赛项。按学校认定的获奖级别和奖次申报，金、银、铜对应一至三等奖，团队须列前三。ICPC具体赛站的行政级别需学院确认。",
+        "effect": "竞赛模块中，国家一、二、三等奖依次15、10、8分，省级依次6、4、3分。前三名按1、0.6、0.3折算后，随模块以5%计入综合成绩。",
+        "locator": "附件2分值表C行，附件3的C类第5、9项",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3",
+          "prov1",
+          "prov2",
+          "prov3"
+        ],
+        "values": {
+          "nat1": 15,
+          "nat2": 10,
+          "nat3": 8,
+          "prov1": 6,
+          "prov2": 4,
+          "prov3": 3
+        },
+        "scaleMax": 100,
+        "places": [
+          1,
+          2,
+          3
+        ],
+        "factors": {
+          "1": 1,
+          "2": 0.6,
+          "3": 0.3
+        }
+      }
+    ],
+    "attachment": {
+      "url": "https://web.ymu.edu.cn/sxyjsj/info/1051/4654.htm",
+      "title": "学院推荐结果公示 · 确认该细则已实施"
+    }
+  },
+  {
+    "school": "武汉科技大学",
+    "unit": "法学与经济学院",
+    "cohort": 2027,
+    "published": "2026-09-01",
+    "url": "https://fxyjj.wust.edu.cn/info/1321/40012.htm",
+    "title": "法学与经济学院推荐2027届优秀本科毕业生免试攻读硕士学位研究生工作实施细则（试行）",
+    "status": "final",
+    "locator": "第五条、第六条（二）与（四）",
+    "notes": "适用于学院2027届普通本科毕业生，须先满足学业、外语等条件，包括平均学分绩点至少3.0。本院试行办法以学校最新标准为准。",
+    "clauses": [
+      {
+        "events": [
+          "cumcm"
+        ],
+        "mechanism": "route",
+        "requirement": "数模赛事最高奖项，且已满足学院推免基本条件。",
+        "effect": "获得申请创新人才推免计划的资格，学校创新创业学院另行择优推荐。",
+        "locator": "第六条（二）"
+      },
+      {
+        "events": [
+          "cumcm"
+        ],
+        "mechanism": "points",
+        "requirement": "专业相关B1及以上赛事，国家一等奖或同等及以上、团队排名前三，且未通过上述计划获推荐资格。",
+        "effect": "按学校认定的赛事类别加学分绩点的2%（B1）或3%（A2）。本条列举数模，但未逐项标明其具体类别。",
+        "locator": "第六条（四）",
+        "awards": [
+          "nat1"
+        ],
+        "places": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "school": "天津大学",
+    "unit": "软件学院",
+    "cohort": 2027,
+    "published": "2026-09-08",
+    "url": "https://scs.tju.edu.cn/info/1111/2091.htm",
+    "title": "软件学院2027年推荐优秀应届本科毕业生免试攻读研究生实施细则",
+    "status": "final",
+    "locator": "第六条（一）、第七条（二）至（五）",
+    "notes": "学院按专业遴选，在推免名额的150%范围内确定可申请优秀加分的名单。所有优秀加分合计不超过3分，同一方面原则上只取一项。",
+    "clauses": [
+      {
+        "events": [
+          "icpc"
+        ],
+        "mechanism": "points",
+        "requirement": "仅ACM-ICPC全球总决赛金、银、铜奖。团队需由指导教师出具签字证明，写明各成员贡献。",
+        "effect": "优秀加分分别为3、2.5、2分。表中仅列全球总决赛，该档待遇的适用范围限于该阶段。",
+        "locator": "第七条（三）5“重点支持竞赛加分”表"
+      }
+    ]
+  },
+  {
+    "school": "华中农业大学",
+    "unit": "外国语学院",
+    "cohort": 2027,
+    "published": "2026-09-05",
+    "url": "https://fld.hzau.edu.cn/info/1070/15421.htm",
+    "title": "外国语学院2027年推荐优秀应届本科毕业生免试攻读研究生推荐工作方案",
+    "status": "final",
+    "locator": "三（二）1、四（二）3及文末赛事名单",
+    "notes": "三创赛在本院赛事名单列为一类/A。队员贡献和获奖级别会改变实际加分，同一赛事跨届取最高。须满足专业英语和学业条件。",
+    "clauses": [
+      {
+        "events": [
+          "sanchuang"
+        ],
+        "mechanism": "points",
+        "requirement": "省级及以上获奖，团队仅前三名主力成员。名次、等级或设特等奖时按本院换算表认定。",
+        "effect": "学科竞赛项上限5分。全国第一名团队基准3分，省级第一名团队基准2分。团队前三位由基准分分别乘0.5、0.3、0.2。",
+        "locator": "四（二）3“学科竞赛”及名单第4项",
+        "places": [
+          1,
+          2,
+          3
+        ],
+        "factors": {
+          "1": 0.5,
+          "2": 0.3,
+          "3": 0.2
+        }
+      },
+      {
+        "events": [
+          "sanchuang"
+        ],
+        "mechanism": "priority",
+        "requirement": "经本院认定与专业相关，获赛事最高等级奖。团队赛事须为负责人。",
+        "effect": "满足基本资格并与其他申请人同等条件时优先推荐。",
+        "locator": "三（二）1“优先条件”及名单第4项"
+      }
+    ]
+  },
+  {
+    "school": "闽南师范大学",
+    "unit": "数学与统计学院",
+    "cohort": 2027,
+    "published": "2026-08-27",
+    "url": "https://math.mnnu.edu.cn/info/1091/65131.htm",
+    "title": "数学与统计学院推荐2027届优秀应届本科毕业生免试攻读硕士学位研究生工作实施细则",
+    "status": "final",
+    "locator": "四（二）3、附件1“学业竞赛”及同届实际加分公示",
+    "notes": "学业与全面发展测评按80%、20%合成，竞赛属于全面发展项。成果以本校为第一署名单位。学校审定赛事清单及类别。",
+    "clauses": [
+      {
+        "events": [
+          "cumcm"
+        ],
+        "mechanism": "points",
+        "requirement": "专业相关竞赛原则须独立参赛或为主力。学院同届执行公示逐项列出2025年全国赛二等奖及省赛一、二、三等奖。",
+        "effect": "上述奖项经公开答辩与学院审核获得竞赛加分。公示没有公布逐人分值。附件1按A、B类及团队身份折算，负责人按基准分，第2至5位按一半，其余团队成员按四分之一。",
+        "locator": "附件1“学业竞赛”及9月2日公示序号1至11",
+        "awards": [
+          "nat2",
+          "prov1",
+          "prov2",
+          "prov3"
+        ]
+      }
+    ],
+    "corroboration": {
+      "url": "https://math.mnnu.edu.cn/info/1091/65171.htm",
+      "title": "2027届推免学业竞赛及创新性成果加分公示",
+      "note": "同院同届公示逐项确认数模国家二等奖及省级一、二、三等奖通过加分审核，名单未给个人分值或接收录取结论。"
+    }
+  },
+  {
+    "school": "河北地质大学",
+    "unit": "校级推免推荐",
+    "cohort": 2027,
+    "published": "2026-09-04",
+    "url": "https://www.hgu.edu.cn/yzw/info/1102/2054.htm",
+    "title": "河北地质大学2027年推免生推荐加分竞赛认定目录",
+    "status": "final",
+    "locator": "表中第4至6、12、19、25、27、38项",
+    "notes": "校级目录证明该届认可这些赛名。此页未列奖级、名次和赋分数值，个体待遇仍须由适用的评审细则确认。",
+    "clauses": [
+      {
+        "events": [
+          "icpc",
+          "cumcm",
+          "nuedc",
+          "sanchuang",
+          "computer",
+          "lanqiao",
+          "software"
+        ],
+        "mechanism": "review",
+        "requirement": "列入推免推荐的加分竞赛认定目录；正式奖级、赛道及申请人身份要求须另核。",
+        "effect": "可作为赛事被校级推荐加分目录点名的证据。",
+        "locator": "校级认定目录第4、5、6、12、25、27、38项"
+      },
+      {
+        "events": [
+          "robomaster",
+          "robocon"
+        ],
+        "mechanism": "review",
+        "requirement": "目录第19项备注明确该项原含RoboMaster及RoboCon两个子赛；具体赛季与赛道需另核。",
+        "effect": "可核验系列赛事纳入当届目录。目录没有列出各子赛或奖项的分值。",
+        "locator": "校级认定目录第19项及其备注"
+      }
+    ]
+  }
+]

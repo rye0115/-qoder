@@ -1,0 +1,35 @@
+# Node 依赖、构建产物和测试覆盖率
+node_modules/
+dist/
+coverage/
+*.log
+
+# 本地环境配置，保留可共享的配置模板
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Qoder 构建脚本生成的部署文件及本机发布记录
+/jingheng-qoder-entry/competition-atlas/qoder-web/
+/jingheng-qoder-entry/competition-atlas/functions/index.ts
+/jingheng-qoder-entry/competition-atlas/functions/worker.js
+/jingheng-qoder-entry/competition-atlas/.*.qoder.site
+
+# 研究原型的本地运行记录与调试截图
+/jingheng-lab/data/store.json
+/jingheng-lab/data/store.json.*.tmp
+/jingheng-lab/.shots/
+
+# 打包副本。论坛稿、正式配图和复测材料仍可提交
+/outputs/*.tgz
+/outputs/*.zip
+/outputs/竞衡_StudyHack_原版参赛包/
+/outputs/竞衡_StudyHack_参赛材料_*/
+
+# Python 辅助脚本和系统产生的缓存
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

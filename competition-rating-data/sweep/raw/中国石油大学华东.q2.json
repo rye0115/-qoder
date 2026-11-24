@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中国石油大学(华东) 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中国石油大学(华东) 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "中国石油大学- 通知公告",
+          "url": "https://upc.edu.cn/tzxw/tzgg1/44.htm",
+          "snippet": "关于第九届全国大学生油气储运工程设计技能大赛决赛的通知 2024/05/27; 关于召开中 ... 竞赛第一轮通知 2024/04/02; 关于面向全校网络思政队伍长期征集优秀网络作品 ...",
+          "source": "upc.edu.cn"
+        },
+        {
+          "title": "关于开展第一批创新创业实验室认定工作的通知",
+          "url": "https://cup.edu.cn/ciee/xwzx/tz/7f78e210529c49eca51c33b6cc5a841e.htm",
+          "snippet": "关于开展第一批创新创业实验室认定工作的通知. 发布日期：2023-08 ... 附件4：中国石油大学（北京）大学生竞赛清单.docx · 附件3：创新创业实验室 ...",
+          "source": "cup.edu.cn"
+        },
+        {
+          "title": "第33届中国石油大学（华东）数学建模竞赛",
+          "url": "https://www.saikr.com/vse/57708",
+          "snippet": "应上级要求，第33届中国石油大学（华东）数学建模竞赛采用第三届山东省大学生数学建模竞赛赛题，具体通知看QQ群消息通知，QQ群：1074818647 ; 一、参赛要求 ; 二、报名时间.",
+          "source": "www.saikr.com"
+        },
+        {
+          "title": "关于举办第十五届中国石油工程设计大赛校内选拔赛的通知",
+          "url": "https://pe.upc.edu.cn/2025/0102/c20317a449777/page.htm",
+          "snippet": "参赛选手须在中国石油工程设计大赛官网（https://cpedc.cup.edu.cn/c/）并登录大赛网站或通过链接在手机端进行报名，填写指导教师以及参赛队员等相关信息 ...",
+          "source": "pe.upc.edu.cn"
+        },
+        {
+          "title": "石油工程学院学生综合测评办法（2024年1月修订）",
+          "url": "https://www.cup.edu.cn/oil/tzgg/630da986ddd94ec2972e7fd6f711e825.htm",
+          "snippet": "通知公告. 石油工程学院学生综合测评办法（2024年1月修订）. 发布 ... 附件：中国石油大学（北京）大学生竞赛清单.docx. 地址：北京市昌平区府学 ...",
+          "source": "www.cup.edu.cn"
+        },
+        {
+          "title": "通知公告-中国石油大学",
+          "url": "https://upc.edu.cn/tzxw/tzgg1.htm",
+          "snippet": "网站维护：中国石油大学(华东)新闻网糯客作坊. Email：netnews@upc.edu.cn. 中国石油大学（华东）地址：青岛市黄岛区长江西路66号. 邮编：266580. 版权所有：中国石油大学 ...",
+          "source": "upc.edu.cn"
+        },
+        {
+          "title": "关于举办第九届全国大学生油气储运工程设计技能大赛的通知",
+          "url": "http://nogstedc.cn/news/show-2958.html",
+          "snippet": "关于举办第九届全国大学生油气储运工程设计技能大赛的通知 · 1、参赛团队：参赛者须以小组形式参赛，每组不超过4人，最多可聘请指导教师1-2名（作品提交后不再更换）。 · 2、 ...",
+          "source": "nogstedc.cn"
+        },
+        {
+          "title": "关于举办中国国际大学生创新大赛（2026）中东地区海外区域赛的通知",
+          "url": "https://www.cup.edu.cn/tzygg/50f2172b82854a2690416b406c4adbdf.htm",
+          "snippet": "1.网上报名（即日起-2026年4月8日）：登录赛事网站https://middleeast.pilcchina.org/home进行网上报名。 2.资格审核（ ...",
+          "source": "www.cup.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.069,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.069
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:54:15.690Z",
+    "durationSeconds": 4.072
+  }
+}

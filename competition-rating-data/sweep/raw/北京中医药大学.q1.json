@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京中医药大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京中医药大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "... 学科竞赛分为A、B、C 三类，. 具体见《南京中医药大学高水平大学生学科竞赛项目目录》（附. 件1）。 Page 4. - 4 -. 第八条A 类竞赛项目相对固定，由学校指定；B 类、C 类 ...",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "山东中医药大学大学生学科竞赛管理办法（修订）",
+          "url": "https://cxcyxy.sdutcm.edu.cn/info/1078/1465.htm",
+          "snippet": "第五条 根据学科竞赛的组织机构、社会影响和获奖难度等方面综合考虑，将学科竞赛的类别分为A＋、A、B、C、D五类。",
+          "source": "cxcyxy.sdutcm.edu.cn"
+        },
+        {
+          "title": "我校在第十一届全国大学生医学创新大赛暨“一带一路”国际竞赛省级 ...",
+          "url": "https://www.bucm.edu.cn/rcpy/e3d3e07a1706470b9e0f2cc1f3fffcea.htm",
+          "snippet": "该赛事为教育部全国普通高校大学生竞赛分析报告（排行榜）的A类专业竞赛，是全国基础医学高等教育领域最具影响力的大学生创新大赛。本次复赛共吸引了来自 ...",
+          "source": "www.bucm.edu.cn"
+        },
+        {
+          "title": "普通高等学校本科专业设置申请表",
+          "url": "https://www.bucm.edu.cn/docs/20160720164040444837.pdf",
+          "snippet": "旨在培养具有中医药专业基本知识，系统掌握管理学、经济学、法学等社会. 学科的专业理论，具备人文精神、科学素养、国际化视野和社会责任感，能够在. 药品监督管理部门、 ...",
+          "source": "www.bucm.edu.cn"
+        },
+        {
+          "title": "教字〔2025〕2号中国科学技术大学本科生学科竞赛管理办法",
+          "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/%E6%95%99%E5%AD%97%E3%80%942025%E3%80%952%E5%8F%B7-%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+          "snippet": "通过明确不同等级的竞赛范围，学校为学生提供参与多层. 次、多领域的学科竞赛的机会，不断提升学生的学术水平和综合. 素质。 四、奖励认定和支持. （一）教师工作量认定.",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "省部级A类. 全国大学生国土空间规划技能大赛. 本科生. 教育部高校公共管理类学科专业教学指导委员会、全国. 高校土地资源管理院长（系主任）联席会、中国土地学. 会规划 ...",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "关于印发《中南大学本科生学科竞赛管理办法》的通知",
+          "url": "https://bksy.csu.edu.cn/info/1168/3379.htm",
+          "snippet": "各二级单位： 《中南大学本科生学科竞赛管理办法》已经2016年7月14日第十六次校务会议讨论通过，现印发给你们，请认真遵照执行。 中南大学.",
+          "source": "bksy.csu.edu.cn"
+        },
+        {
+          "title": "根据《北京信息科技大学大学生学科竞赛管理办法》（校教",
+          "url": "https://jxgl.bistu.edu.cn/docs/2025-04/45952637ff4d451bbc4c1175796e382f.pdf",
+          "snippet": "竞赛最高级别. 竞赛类别. 01. 教务处. 中国国际“互联网+”大学生创新创业. 大赛. 国际级 ... 中美青年创客大赛. 国际级. A2. 33. 信息与通信工程. 学院. Robocom 机器人开发者 ...",
+          "source": "jxgl.bistu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.144,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.144
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:44:41.119Z",
+    "durationSeconds": 3.147
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "mode": "search",
+  "query": "厦门大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"厦门大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于组织申报2025年本科生学业竞赛项目的通知-厦...",
+          "url": "https://jwc.xmu.edu.cn/info/1951/66381.htm",
+          "snippet": "为进一步加强学生实践能力、创新精神和创新创业能力的培养，2025年学校拟继续开展本科生学业竞赛平台建设，立项资助一批本科生学业竞赛项目。现将有关事项通知如下： · 1. 校级学业竞赛：由教务处等部门主办，学院...",
+          "source": "jwc.xmu.edu.cn"
+        },
+        {
+          "title": "关于开展厦门大学本科生校外学业竞赛项目库建设...",
+          "url": "https://jwc.xmu.edu.cn/info/1043/2779.htm",
+          "snippet": "我校自2013年起开始打造本科生学业竞赛平台，立项资助了一批校内外本科生学业竞赛，支持我校本科生积极参加高水平学业竞赛，取得了明显成效，参与数和获奖数逐年增长。为进一步规范我校本科生学业竞赛工作，进一...",
+          "source": "jwc.xmu.edu.cn"
+        },
+        {
+          "title": "厦门大学本科生创新网",
+          "url": "https://cxw.xmu.edu.cn/cms/3KXbEwHhM9xDxVZoAXd7U8-4",
+          "snippet": ">关于举办“宝太杯”厦门大学大学生创新大赛（2026）的预通知 2026-3-22 · >2026年厦门大学计算机设计竞赛 暨第2026年（19届）中国大学生计算机设计大赛 （校级）选拔赛报名通知 2026-3-19",
+          "source": "cxw.xmu.edu.cn"
+        },
+        {
+          "title": "厦门大学本科生创新网",
+          "url": "https://cxw.xmu.edu.cn/cms/2la29agd9tohup418qtzci-10",
+          "snippet": "首页 通知公告 新闻动态 大学生创新大赛 办事指南 创新论坛 成果展示 搜索 ... >关于2024年中国国际大学生创新大赛、福建省大学生创新大赛、“宝太杯”厦门大学大学生创新大赛获奖项目本科生学分公示 2024-12-12 · >我校学子在第十届全国大学生物理实验竞赛中喜获佳绩 2024-12-12",
+          "source": "cxw.xmu.edu.cn"
+        },
+        {
+          "title": "学科竞赛类别及创新创业实践活动申报主体清单 ...",
+          "url": "https://jwb.xujc.com/_upload/article/files/fc/d5/bc756a4e4ccfbef9d8fe5e139b10/936bfdfa-c2fe-48aa-bfb0-10898a733bae.pdf",
+          "snippet": "22 原为中国国际“互联网+”大学生创新创业大赛。 · 23 此前为B 类竞赛的省级赛事，自第10 届比赛起认定为C 类。 · 24 此前为B 类竞赛的省级赛事，自第14 届比赛起认定为C 类。 ... 1.上表根据《厦门大学嘉庚学院学生创新创业实践活动管理办法》中的《厦门大学",
+          "source": "jwb.xujc.com"
+        },
+        {
+          "title": "关于组织申报2023年本科生学业竞赛项目的通知-厦...",
+          "url": "https://jwc.xmu.edu.cn/info/1951/61081.htm",
+          "snippet": "为进一步加强学生实践能力、创新精神和创新创业能力的培养，2023年学校拟继续开展本科生学业竞赛平台建设，立项资助一批本科生学业竞赛项目。现将有关事项通知如下： · 1. 校级学业竞赛：由教务处等部门主办，学院...",
+          "source": "jwc.xmu.edu.cn"
+        },
+        {
+          "title": "厦门大学本科生创新网",
+          "url": "https://cxw.xmu.edu.cn/cms/3091dbc3audxorpnnargfg-8",
+          "snippet": ">厦大学子在第十六届全国大学生数学竞赛决赛中再创佳绩 2025-4-22 · >关于组织2025年厦门大学校长基金立项答辩的通知 2025-4-22",
+          "source": "cxw.xmu.edu.cn"
+        },
+        {
+          "title": "厦门大学本科生创新网",
+          "url": "https://cxw.xmu.edu.cn/cms/3KXbEwHhM9xDxVZoAXd7U8-1",
+          "snippet": ">关于第十八届全国大学生数学竞赛（福建赛区）报名的通知 2026-7-17 · >关于公布2026年第一批大学生创新训练计划项目名单的通知 2026-7-17 · >关于公布2026年厦门大学本科生科研攀登计划项目名单的通知 2026-7-13",
+          "source": "cxw.xmu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/4fbg2cdqe0rh for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/4fbg2cdqe0rh\"}) | keenable: keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/4fbg2cdqe0rh for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/4fbg2cdqe0rh\"})",
+          "durationSeconds": 1.416
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+          "durationSeconds": 10.22
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.75
+        }
+      ],
+      "durationSeconds": 1.75
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:53:31.742Z",
+    "durationSeconds": 13.391
+  }
+}

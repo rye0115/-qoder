@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中南财经政法大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中南财经政法大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "通知公告",
+          "url": "https://www.zuel.edu.cn/notice/",
+          "snippet": "### 通知公告\n2026/05",
+          "source": "www.zuel.edu.cn"
+        },
+        {
+          "title": "通知公告 - 本科生院- 中南财经政法大学",
+          "url": "https://jwc.zuel.edu.cn/tzgg/list.htm",
+          "snippet": "### 通知公告\n2026-09-24\n\n2026-11-04\n\n2026-10-29\n\n2026-10-29\n\n2026-10-23",
+          "source": "jwc.zuel.edu.cn"
+        },
+        {
+          "title": "中南财经政法大学| “正大杯”第十二届全国大学生市场调查与分析大赛 ...",
+          "url": "http://www.china-cssc.org/show-246-836-1.html",
+          "snippet": "请报名同学填写学生网考信息汇总表（附件于挂网通知http://tsxy.zuel.edu.cn/2021/1013/c4801a279391/page.htm）并于2021年10月27日24点前发送至统数学院创新创业中心邮箱 ...",
+          "source": "www.china-cssc.org"
+        },
+        {
+          "title": "【奖学金工作】关于印发《中南财经政法大学科研项目级别认定办法（ ...",
+          "url": "https://finance.zuel.edu.cn/2025/1219/c1157a417077/page.htm",
+          "snippet": "【奖学金工作】关于印发《中南财经政法大学科研项目级别认定办法（试行）》的通知. 发布者：王秀景发布时间：2025-12-19浏览次数：513. Thumbnails",
+          "source": "finance.zuel.edu.cn"
+        },
+        {
+          "title": "通知公告 - 本科生院- 中南财经政法大学",
+          "url": "https://jwc.zuel.edu.cn/tzgg/list17.psp",
+          "snippet": "通知公告. 关于做好2023级普通本科学生专业分流工作的通知. 2024-09-30. 2024“外研社•国才杯”“理解当代中国”全国大学生外语能力大赛英语组综合能力/笔译校赛报名通知. 2024 ...",
+          "source": "jwc.zuel.edu.cn"
+        },
+        {
+          "title": "规章制度",
+          "url": "https://finance.zuel.edu.cn/1157/list.htm",
+          "snippet": "【奖学金工作】校院奖学金评定认可的赛事（更新至2026年5月25日，供参考） · 【学校发文】关于印发《中南财经政法大学研究生奖助体系实施办法》等七个制度的通知.",
+          "source": "finance.zuel.edu.cn"
+        },
+        {
+          "title": "通知公告 - 信息工程学院- 中南财经政法大学",
+          "url": "https://xagx.zuel.edu.cn/tzgg_19075/list.htm",
+          "snippet": "各位同学：根据学校《关于做好“本研贯通”衔接阶段重要培养工作的通知》学院2026年“本研贯通”学生名单共13人，其中取得本校推免资格并继续参与计划、保留资格4人；已获本校 ...",
+          "source": "xagx.zuel.edu.cn"
+        },
+        {
+          "title": "学生竞赛分级分类认定 - 教务处- 南京航空航天大学",
+          "url": "https://aao.nuaa.edu.cn/8010/list.htm",
+          "snippet": "... 学生竞赛工作 · 竞赛通知 · 竞赛分级认定 · 竞赛获奖统计. +; 中国国际大学生创新大赛 · 大赛通知 · 历年获奖情况 · 优秀项目展示. +; 主题创新区 · 主题创新区介绍 · 主题 ...",
+          "source": "aao.nuaa.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.175,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.175
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:55:21.485Z",
+    "durationSeconds": 4.179
+  }
+}

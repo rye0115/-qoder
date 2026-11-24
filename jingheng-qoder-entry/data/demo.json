@@ -1,0 +1,87 @@
+{
+  "sample": "演示样本",
+  "note": "演示样本与右侧推荐榜的数据相互独立；这里只用于展示样本工作台如何处理质量分、外部采信率、核验状态与小样本限制。",
+  "updated": "2026-11-24",
+  "settings": {
+    "year": "2027 届",
+    "population": "本科",
+    "field": "工学",
+    "format": "工程实践",
+    "admission": "不限专业",
+    "target": "20 项"
+  },
+  "events": [
+    {
+      "name": "启明杯工程创新挑战赛",
+      "category": "行业联合主办",
+      "quality": 90,
+      "influence": 0.7,
+      "awardRecords": 3,
+      "verification": "资料齐全",
+      "note": "两个行业组织联合命题，公开了评分表和现场测试安排。"
+    },
+    {
+      "name": "远川杯工程设计竞赛",
+      "category": "民办专业团体",
+      "quality": 100,
+      "influence": 0.4,
+      "awardRecords": 2,
+      "verification": "资料齐全",
+      "note": "赛制完整，但外部采信记录只有两份。"
+    },
+    {
+      "name": "知行杯工程实践竞赛",
+      "category": "高校联合主办",
+      "quality": 85,
+      "influence": 0.6,
+      "awardRecords": 2,
+      "verification": "资料齐全",
+      "note": "校际联办，公开评审记录和获奖名单。"
+    },
+    {
+      "name": "云帆杯工程创新设计赛",
+      "category": "有官方认证",
+      "quality": 75,
+      "influence": 0.7,
+      "awardRecords": 3,
+      "verification": "资料齐全",
+      "note": "官方认证目录内有名称，但赛事自身材料偏少。"
+    },
+    {
+      "name": "方舟杯工程设计挑战赛",
+      "category": "民办专业团体",
+      "quality": 75,
+      "influence": 0.5,
+      "awardRecords": 2,
+      "verification": "资料齐全",
+      "note": "有完整章程，外部采信以企业公告为主。"
+    },
+    {
+      "name": "青禾杯工程实践挑战赛",
+      "category": "有官方认证",
+      "quality": 60,
+      "influence": 0.7,
+      "awardRecords": 2,
+      "verification": "资料齐全",
+      "note": "认证目录可查，但赛制披露不完整。"
+    },
+    {
+      "name": "星图杯工程创作竞赛",
+      "category": "高校联合主办",
+      "quality": 80,
+      "influence": null,
+      "awardRecords": 0,
+      "verification": "机构未查完",
+      "note": "找到赛事名称和主办方，尚未取得完整评审材料。"
+    },
+    {
+      "name": "栖山杯工程设计竞赛",
+      "category": "民办专业团体",
+      "quality": null,
+      "influence": null,
+      "awardRecords": 0,
+      "verification": "资格待核",
+      "note": "只有报名海报，无法确认主办方资质。"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+/* Shared shell and the competition finder. */
+.site-header .brand-mark {background: var(--accent); border-radius: 9px}
+.site-header .brand strong {letter-spacing: -.045em}
+.site-header .bar nav a {font-weight: 600}
+.site-header .bar nav a:hover {color: var(--deep)}
+
+main>.intro h1 {color: var(--ink); letter-spacing: -.05em}
+main :is(.panel,.rs-search,.rs-select) {border-radius: 10px}
+main .rs-search {border-top: 1px solid var(--line)}
+main .rs-select.chosen {border-color: var(--accent); background: var(--tint); box-shadow: inset 0 0 0 1px var(--accent)}
+main .stats {gap: 0; background: white; border: 1px solid var(--line); border-radius: 10px; overflow: hidden}
+main .stats .stat {border: 0; border-radius: 0; box-shadow: none}
+main .stats .stat+.stat {border-left: 1px solid var(--line)}
+main .stats .mini-icon {background: var(--light); color: var(--deep)}
+body:has(.atlas-page) {background: var(--canvas); color: var(--ink); font-family: Inter,"Microsoft YaHei UI","PingFang SC","Microsoft YaHei",sans-serif}
+body:has(.atlas-page) .shell {width: min(1240px, calc(100% - 7vw))}
+.atlas-page {--caption: var(--muted); --rule: var(--line); padding-top: clamp(25px,3.3vw,48px); color: var(--ink)}
+.atlas-page .career-query {border: 0}
+.atlas-titleband {
+  position: relative; isolation: isolate; overflow: hidden;
+  display: grid; gap: .5rem; margin: 0 0 .6rem; padding: clamp(17px,2vw,26px) clamp(18px,2.6vw,34px);
+  border-radius: 12px; background: linear-gradient(108deg,#252553 8%,#393773 72%,#555296);
+}
+.atlas-titleband::after {
+  content: ""; position: absolute; z-index: -1; pointer-events: none; inset: 0 0 0 36%;
+  background: repeating-radial-gradient(ellipse 68% 220% at 99% 130%,transparent 0 22px,#c9c7ff45 23px 24px,transparent 25px 42px);
+  mask-image: linear-gradient(90deg,transparent,#000 40%);
+}
+.atlas-titleband h1 {margin: 0; color: #fff; font-size: clamp(2rem,3.6vw,3.15rem); line-height: 1.2; font-weight: 750; letter-spacing: -.055em}
+.atlas-date {margin: 0; font-size: .86rem; color: #dfdff4; font-variant-numeric: tabular-nums}
+.atlas-date time {margin-left: .25em}
+.atlas-toolbar {border-bottom: 1px solid var(--rule)}
+.atlas-toolbar .career-modes {display: flex; width: fit-content; max-width: 100%; margin: 0; padding: 0; gap: 1.65rem; background: none}
+.atlas-toolbar .career-modes button {position: relative; padding: .8rem .05rem; min-height: 45px; border-radius: 0; font-weight: 600; color: var(--caption); background: transparent; box-shadow: none}
+.atlas-toolbar .career-modes button[aria-pressed=true] {color: var(--deep)}
+.atlas-toolbar .career-modes button[aria-pressed=true]::after {content:""; position: absolute; left: 0; right: 0; bottom: -1px; height: 3px; background: var(--accent)}
+.atlas-layout {display: grid; grid-template-columns: minmax(252px, .34fr) minmax(0, 1fr); gap: clamp(22px,2.5vw,36px); align-items: start; margin-top: 1.5rem}
+.atlas-work,.atlas-side {min-width: 0}
+.atlas-side .profile-adjust {margin: 0; padding: clamp(16px,1.6vw,24px); border: 1px solid var(--line); border-radius: 12px; background: var(--light)}
+.atlas-side .need-label {color: var(--ink); font-weight: 700; font-size: 1.18rem; letter-spacing: -.035em}
+.atlas-side summary.need-label {display: flex; align-items: center; justify-content: space-between; gap: .6rem; cursor: pointer; list-style: none}
+.atlas-side summary.need-label::-webkit-details-marker {display: none}
+.atlas-side summary.need-label::after {content: ""; width: .5rem; height: .5rem; border-right: 1.8px solid var(--accent); border-bottom: 1.8px solid var(--accent); transform: translateY(-2px) rotate(45deg); margin-right: 3px}
+.atlas-side details[open]>summary.need-label::after {transform: translateY(2px) rotate(225deg)}
+.atlas-side .need-composer {margin: .9rem 0 .6rem; padding: .7rem; border: 1px solid var(--line); border-radius: 7px}
+.atlas-side .need-composer textarea {min-height: 5rem; line-height: 1.6; font-size: .96rem}
+.atlas-side .need-actions {display: flex; flex-wrap: wrap; gap: .3rem .55rem; margin: 0}
+.need-actions [hidden],.atlas-discover[hidden] {display: none}
+.need-more {display: inline-flex; align-items: center; gap: .4rem; min-height: 40px; border: 0; background: none; color: var(--deep); padding: 0; margin-right: auto; font-size: .9rem}
+.need-more i {position: relative; width: 14px; height: 8px; border-block: 1.5px solid currentColor}
+.need-more i::before,.need-more i::after {content:""; position:absolute; width:3px; height:5px; border-radius:1px; background:currentColor}
+.need-more i::before {left:3px;top:-3px}.need-more i::after {right:2px;bottom:-3px}
+.need-more:hover,.need-clear:hover {color: var(--deep); text-decoration: underline}
+.atlas-side .need-actions .primary,.need-option-foot .primary {min-height: 40px; border-radius: 7px; padding: .5rem .85rem; background: var(--accent); box-shadow: none; color: white}
+.atlas-page .btn.primary:hover {background: var(--deep)}
+.weight-chart {margin: 1.45rem .15rem 0; padding: 1.15rem .35rem 0; border-top: 1px solid var(--rule)}
+.weight-chart figcaption {font-size: .97rem; color: var(--ink); font-weight: 650}
+.weight-chart ul {display: grid; gap: .68rem; list-style: none; margin: 1rem 0 0; padding: 0}
+.weight-chart li {display: grid; grid-template-columns: 6em minmax(24px,1fr) 3em; align-items: center; gap: .6rem; color: var(--caption); font-size: .85rem}
+.weight-chart li>i {height: 6px; background: var(--track); border-radius: 2px; overflow: hidden}
+.weight-chart li>i>i {display: block; height: 100%; background: var(--bar)}
+.weight-chart li b {text-align: right; color: var(--muted); font-variant-numeric: tabular-nums}
+.atlas-discover {display: flex; align-items: center; justify-content: space-between; gap: .7rem; flex-wrap: wrap}
+.atlas-search {display: flex; flex: 1 1 160px; align-items: center; min-width: 0; height: 43px; background: white; border: 1px solid var(--line); border-radius: 7px}
+.atlas-search:focus-within {border-color: var(--accent); box-shadow: 0 0 0 2px var(--light)}
+.atlas-search button {width: 39px; height: 40px; flex: none; position: relative; border: 0; background: none; color: #626776}
+.atlas-search button::before {content:""; position:absolute; left:13px; top:12px; width:11px; height:11px; border:1.7px solid currentColor; border-radius:50%}
+.atlas-search button::after {content:""; position:absolute; left:24px; top:24px; width:6px; height:1.7px; background:currentColor; transform:rotate(45deg)}
+.atlas-search input {width: 100%; min-width: 0; padding: 0 .65rem 0 0; min-height: 38px; font-size: .95rem; color: var(--ink); background: transparent; border: 0; outline: none}
+.coverage-filters {display: inline-flex; align-items: center; padding: 3px; background: #ebebf3; border-radius: 7px; gap: 2px}
+.coverage-filters button {padding: .35rem .65rem; border: 1px solid transparent; border-radius: 5px; color: #515560; font: inherit; font-size: .85rem; white-space: nowrap; background: transparent; min-height: 34px}
+.coverage-filters button span {font-size: .79rem; font-variant-numeric: tabular-nums}
+.coverage-filters button[aria-pressed=true] {background: var(--accent); border-color: var(--accent); color: white; font-weight: 650}
+.coverage-filters button:hover:not([aria-pressed=true]) {background: var(--light); color: var(--deep)}
+.atlas-page #career-results {margin: 1.15rem 0 0; min-width: 0}
+.atlas-page .ranking-heading {margin-bottom: .75rem; gap: .45rem .8rem; align-items: center}
+.atlas-page .ranking-heading>div {gap: .35rem .65rem}
+.atlas-page .ranking-heading h2 {font-size: clamp(1.15rem,1.6vw,1.45rem); color: var(--ink); letter-spacing: -.045em}
+.atlas-page .ranking-heading [role=status] {font-size: .8rem; color: var(--caption)}
+.atlas-page .ranking-tools {gap: .7rem}
+.atlas-page .ranking-tools button {background: transparent; border: 0; padding: .38rem 0; color: var(--muted); font-size:.85rem}
+.atlas-page .ranking-tools button+button::before {content:none}
+.atlas-page .rank-list {border: 1px solid var(--rule); border-radius: 10px; background: white}
+.atlas-page .ranking-table thead th {height: 41px; background: #efeff7; color: #545a66; font-weight: 600}
+.atlas-page .ranking-table .rank-row>* {padding-block: .83rem}
+.atlas-page .rank-name {text-align: left}
+.atlas-page .rank-name button {color: var(--ink); font-size: 1rem}
+.atlas-page .rank-name small {color: var(--caption); margin-top: .3rem; font-size: .79rem}
+.atlas-page .rank-row:hover,.atlas-page .rank-row:focus-within {background: var(--tint)}
+.rank-position {display: inline-grid; place-items: center; min-width: 1.8rem; height: 1.75rem; border-radius: 5px; color: #666b79; font: 600 .94rem/1.1 Inter,"Segoe UI",sans-serif; font-variant-numeric: tabular-nums}
+.rank-top {background: #e2dff9; color: var(--deep)}
+.atlas-page .rank-row .rank-position.rank-first {background: var(--deep); color: white}
+.atlas-page .rank-row:has([aria-expanded=true]) {background: var(--light)}
+.atlas-page .rank-row:has([aria-expanded=true])>.rank-number,
+.atlas-page .rank-row:focus-within>.rank-number {box-shadow: inset 3px 0 var(--accent)}
+.atlas-page .rank-detail-body {background: var(--tint)}
+.atlas-page .rank-row .rank-total {color: var(--deep); font-size: 1.32rem; letter-spacing: -.035em}
+.score-meter {display: block; width: 3.2rem; height: 3px; margin: .24rem 0 .1rem auto; background: var(--track); border-radius: 3px; overflow: hidden}
+.score-meter i {display: block; height: 100%; background: var(--bar)}
+.atlas-page .rank-row .rank-pending {font-size: .91rem; color: var(--caption)}
+.pending-ranks {margin-top: .9rem; border: 1px solid var(--rule); border-radius: 8px; background: white}
+.pending-ranks>summary {padding: .75rem 1rem; font-weight: 600; cursor: pointer; color: #454955}
+.pending-ranks>summary span {margin-left: .4rem; color: var(--caption); font-size: .85rem; font-weight: 400}
+.pending-ranks .rank-list {border: 0; border-top: 1px solid var(--rule); border-radius: 0 0 8px 8px}
+.atlas-job-form {margin-top: 1.25rem; padding: 1.2rem; background: white; border: 1px solid var(--rule); border-radius: 10px}
+.need-options {width:min(700px,calc(100% - 24px)); max-height:86dvh; padding:0; color:var(--ink)}
+.need-options[open] {display:flex; flex-direction:column}
+.need-options::backdrop {background:#17192570}
+.need-options header,.need-option-foot {display:flex; align-items:center; justify-content:space-between; gap:1rem; flex-shrink:0; padding:.8rem 1.25rem; background:white; border-bottom:1px solid var(--rule)}
+.need-options header button {width:40px; height:40px; border:0; border-radius:7px; background:#f1f2f5; font-size:1.3rem}
+.need-option-body {overflow-y:auto; padding:1rem 1.25rem; overscroll-behavior:contain}
+.need-option-body>.career-fields+.career-fields {margin-top:.85rem}
+.need-option-foot {justify-content:flex-end; border-bottom:0; border-top:1px solid var(--rule)}
+@media (max-width:950px) {
+  .atlas-layout {grid-template-columns: 235px minmax(0,1fr); gap: 18px}
+  .atlas-page .ranking-table .rank-number {width: 3rem}
+  .atlas-page .ranking-table .rank-metric {width: 4.5rem}
+  .atlas-page .ranking-table .rank-total {width: 5.4rem}
+  .atlas-page .ranking-table .rank-disclosure {width: 2rem}
+}
+@media (max-width:800px) {
+  body:has(.atlas-page) .shell {width: calc(100% - 32px)}
+  .atlas-layout {grid-template-columns: minmax(0,1fr); gap: 17px; margin-top: 16px}
+  .weight-chart {display: none}
+  .atlas-side .profile-adjust {padding: 13px 16px}
+  .atlas-side .need-composer {margin: .55rem 0 .35rem}
+  .atlas-side .need-composer textarea {min-height: 2.7rem; height: 2.7rem}
+  .atlas-titleband {margin-bottom: .6rem}
+}
+@media (min-width:561px) and (max-width:680px) {
+  .atlas-page .ranking-table .rank-metric {display: table-cell}
+  .atlas-page .rank-name .rank-mobile-metrics {display: none}
+}
+@media (max-width:560px) {
+  .site-header .bar nav {width: 100%; justify-content: space-between; gap: .35rem; overflow-x: auto; scrollbar-width: thin}
+  .site-header .bar nav a {font-size: .86rem}
+  body:has(.atlas-page) .shell {width: calc(100% - 26px)}
+  .atlas-page {padding-top: 18px}
+  .atlas-titleband {gap: .3rem; padding: .95rem 1rem}
+  .atlas-titleband h1 {font-size: 1.85rem}
+  .atlas-date {font-size: .76rem}
+  .atlas-toolbar .career-modes {gap: 1.2rem}
+  .atlas-toolbar .career-modes button {font-size: .9rem; min-height: 41px}
+  .atlas-discover {align-items: stretch; flex-direction: column; gap: .45rem}
+  .atlas-search {flex: auto}
+  .coverage-filters {align-self: start}
+  .coverage-filters button {min-height: 32px}
+  .atlas-page .ranking-heading {align-items: start}
+  .atlas-page .ranking-heading>div:first-child {align-items: start; flex-direction: column; gap: .13rem}
+  .atlas-page .ranking-tools {gap: .6rem}
+  .atlas-page .rank-name button {font-size: .95rem}
+  .atlas-page .ranking-table .rank-number {width: 2.4rem}
+  .atlas-page .rank-row .rank-total {font-size: 1.16rem}
+  .atlas-page .rank-row .rank-pending {font-size: .85rem}
+  .score-meter {width: 2.8rem}
+}
+@media (max-width:760px) {
+  main .stats .stat:nth-child(odd) {border-left: 0}
+  main .stats .stat:nth-child(n+3) {border-top: 1px solid var(--line)}
+}
+
+@media (hover:hover) {
+  .atlas-page .rank-row:hover>.rank-number {box-shadow: inset 3px 0 var(--accent)}
+  .atlas-page .rank-row:hover .rank-chevron {background: var(--light); color: var(--deep)}
+}
+@media (prefers-reduced-motion:no-preference) {
+  :is(.btn,.coverage-filters button,.career-modes button,.rs-select,.rank-row,.rank-chevron,.rank-number) {
+    transition: background-color 150ms ease, color 150ms ease, box-shadow 150ms ease, border-color 150ms ease;
+  }
+  .rank-chevron::after,.atlas-side summary.need-label::after {transition: transform 160ms ease}
+  .rank-detail:not([hidden]) .rank-detail-body,
+  .profile-adjust[open]>#profile-controls,
+  :is(.rank-help-dialog,.need-options)[open] {animation: reveal-details 160ms ease-out}
+  @keyframes reveal-details {
+    from {opacity: .4; transform: translateY(-4px)}
+    to {opacity: 1; transform: translateY(0)}
+  }
+}

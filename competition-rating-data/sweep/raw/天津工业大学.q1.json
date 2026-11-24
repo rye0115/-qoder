@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "天津工业大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"天津工业大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "天津工业大学文件 - 教学质量监控与评估中心",
+          "url": "https://jkpg.tiangong.edu.cn/_upload/article/files/d5/c5/57593456424e8287016d31307d63/e0d15aff-57fa-4d26-b97c-9795681e27dd.pdf",
+          "snippet": "学生学科竞. 赛和科技获. 奖. 0.4. 积极组织、承办市级及以上学科竞赛和科技活动，学. 生获奖（含论文、发明专利）项目及人数多，市级及. 以上获奖人次数占全院学生人数 ...",
+          "source": "jkpg.tiangong.edu.cn"
+        },
+        {
+          "title": "F587E0390F04CD82655DDC3B...",
+          "url": "https://www.tjnu.edu.cn/__local/A/0A/D8/F587E0390F04CD82655DDC3B8E0_A9F6D3E7_384EFD.pdf",
+          "snippet": "",
+          "source": "www.tjnu.edu.cn"
+        },
+        {
+          "title": "建筑与城市规划学院学科竞赛等级目录（2023）",
+          "url": "https://arch.kmust.edu.cn/info/1191/2433.htm",
+          "snippet": "1.教育部57项竞赛认定为A类国家级竞赛； · 2.除以上目录内的学科竞赛和教育部57项竞赛外，一般情况下，不在目录内的认定为校级及以下级别竞赛。 · 3.未尽 ...",
+          "source": "arch.kmust.edu.cn"
+        },
+        {
+          "title": "中国高校创新人才培养暨学科竞赛评估（2012-2017） - 中国科教战略 ...",
+          "url": "http://www.icstep.zju.edu.cn/_upload/article/files/2d/04/2574ac4e4f54957c9f675bf359cd/ed2e46be-cf5a-4448-886d-b51221b05ac0.pdf",
+          "snippet": "天津工业大学. 107. 69.06. 天津市. 88. 北京工业大学. 102 ... 在各类学科竞赛中的不同的等级奖获得赋予一定的 ... 于一流大学建设高校渊A 类+B 类冤共42 所袁其中国防 ...",
+          "source": "www.icstep.zju.edu.cn"
+        },
+        {
+          "title": "建筑与城市规划学院学科竞赛等级目录（2023）",
+          "url": "https://arch.kmust.edu.cn/info/1191/2433.htm",
+          "snippet": "1.教育部57项竞赛认定为A类国家级竞赛； · 2.除以上目录内的学科竞赛和教育部57项竞赛外，一般情况下，不在目录内的认定为校级及以下级别竞赛。 · 3.未尽 ...",
+          "source": "arch.kmust.edu.cn"
+        },
+        {
+          "title": "学术学位硕士研究生培养手册",
+          "url": "https://graduate.cugb.edu.cn/upload/resources/file/2022/08/29/205340.pdf",
+          "snippet": "建校以来，中国地质大学汇聚了一大批知名专家学者，培养了一代又一代优秀人才，. 创造了一批又一批重大科研成果，为经济发展、社会进步和地质事业的繁荣 ...",
+          "source": "graduate.cugb.edu.cn"
+        },
+        {
+          "title": "中华人民共和国教育行业标准",
+          "url": "http://www.moe.gov.cn/srcsite/A16/s3342/201203/W020220704498224866735.pdf",
+          "snippet": "... 大学、中国人民大学、北京师范大学、四川农业大学。 本标准主要 ... 本代码规定了各级各类学校（机构）变更的分类。适用于各级教育行政部门对 ...",
+          "source": "www.moe.gov.cn"
+        },
+        {
+          "title": "天津师范大学2027 年中国普通高等学校联合招收澳门保送生简章",
+          "url": "https://appl2.dsedj.gov.mo/ChinaUEnrollment/UPublic/DownloadUniDoc.jsp?u_id=110076&fileName=%E5%A4%A9%E6%B4%A5%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6.pdf",
+          "snippet": "2 个学科进入A. 类，B 类及以上学科/专业学位类别10 个。先后获批国家重点学科2 个，市顶尖. 学科培育建设学科4 个，市一流学科7 个，市重点学科18 个，市特色学科（群） ...",
+          "source": "appl2.dsedj.gov.mo"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 8.015,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 8.015
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:47:03.468Z",
+    "durationSeconds": 8.018
+  }
+}

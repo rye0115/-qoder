@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "东北大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"东北大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "东北大学学生创新创业竞赛星级分类表",
+          "url": "https://www.ise.neu.edu.cn/_upload/article/files/32/52/2aebc2d24fe189ead5bc1dd76349/f8f38cea-e387-4fa8-adfc-57e7eea04092.pdf",
+          "snippet": "东北大学学生创新创业竞赛星级分类表. 根据教育部、团中央、各教指委和行业学会等上级部门主办大学生. 创新创业竞赛 ... 注：带“*”为中国高等教育学会竞赛列表认定赛事.",
+          "source": "www.ise.neu.edu.cn"
+        },
+        {
+          "title": "学生竞赛获奖 - 计算机科学与工程学院",
+          "url": "http://www.cse.neu.edu.cn/6354/list.htm",
+          "snippet": "学生竞赛获奖. 东北大学2017年学生科技竞赛认定竞赛获奖信息表 2018-04-20; 东北大学2016年大学生科技竞赛获奖信息统计表 2018-04-20. 每页 14 记录 总共 2 记录 ...",
+          "source": "www.cse.neu.edu.cn"
+        },
+        {
+          "title": "东北大学秦皇岛分校学生创新创业竞赛星级分类表（2026年）",
+          "url": "https://cxcyzx.neuq.edu.cn/__local/B/13/B6/0EC54AD2C0F8BE5A64111124108_1720848A_28B95.pdf",
+          "snippet": "全国大学生地质技能竞赛 地质技能 … 全国大学生物理实验竞赛 … 认定赛事 制表时间：2026年1月",
+          "source": "cxcyzx.neuq.edu.cn"
+        },
+        {
+          "title": "东北大学",
+          "url": "https://www.neu.edu.cn/",
+          "snippet": "“华为杯”第51届ICPC国际大学生程序设计竞赛亚洲区域赛（沈阳）在东北大学举行 ... 关于开展2026年“东大传感”大学生科研创新基金“揭榜挂帅”项目申报工作的通知. 2026-10 ...",
+          "source": "www.neu.edu.cn"
+        },
+        {
+          "title": "关于印发《东北大学学生创新创业竞赛管理办法》的通知",
+          "url": "https://www.scribd.com/document/1067523843/%E5%85%B3%E4%BA%8E%E5%8D%B0%E5%8F%91-%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E7%AB%9E%E8%B5%9B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95-%E7%9A%84%E9%80%9A%E7%9F%A5",
+          "snippet": "东北大学发布了《学生创新创业竞赛管理办法》，旨在规范和促进学生的创新创业活动，提升其综合素质和实践能力。该办法涵盖了竞赛的组织、管理、奖励政策等方面，并设立 ...",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "东北师范大学本科生学科竞赛管理办法 - 教务处",
+          "url": "https://jwc.nenu.edu.cn/info/2494/6818.htm",
+          "snippet": "... 学生获奖认定范围以当年公布为准。 第十七条依据《东北师范大学本科生学科竞赛项目表》进行等级认定。项目表以外的其他学科竞赛由各学院(部)教务委员会认定并报学校审核。",
+          "source": "jwc.nenu.edu.cn"
+        },
+        {
+          "title": "东北大学2017年学生科技竞赛认定竞赛获奖信息表",
+          "url": "http://www.cse.neu.edu.cn/2018/0420/c6354a159559/page.htm",
+          "snippet": "东北大学2017年学生科技竞赛认定竞赛获奖信息表. 发布者：系统管理员发布时间：2018-04-20浏览次数：3612. 东北大学2017年学生科技竞赛认定竞赛获奖信息表： ...",
+          "source": "www.cse.neu.edu.cn"
+        },
+        {
+          "title": "关于做好2022年度大学生竞赛活动级别认定工作的通知 - 教务处",
+          "url": "https://aao.nuaa.edu.cn/2022/0225/c19103a346622/page.htm",
+          "snippet": "竞赛负责老师或学院管理员可在竞赛管理系统中（https://ipm.nuaa.edu.cn/cm/）登记申请竞赛级别认定（详见附件2、3），竞赛校内负责单位审核提交至学校。",
+          "source": "aao.nuaa.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.296,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.296
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:48:40.956Z",
+    "durationSeconds": 3.299
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "山东大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"山东大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "山东大学大学生（本科）重要学科竞赛赛事分级名单",
+          "url": "https://zhuanlan.zhihu.com/p/442207840",
+          "snippet": "说明：面向校级认定的国际性比赛、全国性竞赛A、B 类未能包含学院本科专业学科特色的专项高级别赛事，重点针对新文科、新理科、新医科特色专业。学院可 ...",
+          "source": "zhuanlan.zhihu.com"
+        },
+        {
+          "title": "山东中医药大学大学生学科竞赛管理办法（修订）",
+          "url": "https://cxcyxy.sdutcm.edu.cn/info/1078/1465.htm",
+          "snippet": "第五条 根据学科竞赛的组织机构、社会影响和获奖难度等方面综合考虑，将学科竞赛的类别分为A＋、A、B、C、D五类。",
+          "source": "cxcyxy.sdutcm.edu.cn"
+        },
+        {
+          "title": "关于《山东大学本科生综合评价办法（试行）》 创新素养部分的补充通知",
+          "url": "https://www.art.sdu.edu.cn/info/1301/16683.htm",
+          "snippet": "学生积极参加各类竞赛、创新创业项目，科研成果、发表论文、申请专利等，并取得一定成绩 ; A(A*)类科创竞赛国家一等奖项目. 5. 5. 4. 3 ; A(A*)类科创竞赛 ...",
+          "source": "www.art.sdu.edu.cn"
+        },
+        {
+          "title": "山大管理字[2019]7 号山东大学管理学院研究生科技竞赛及学术成果 ...",
+          "url": "https://glzx.sdu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=2142397950&wbfileid=16480377",
+          "snippet": "生创新创业大赛”以外的国家级、省部级赛事，如创青春两大专项赛、. 全国英语竞赛、齐鲁大学生创业大赛等（商业性竞赛不计分），具体级. 别由学术委员会认定。",
+          "source": "glzx.sdu.edu.cn"
+        },
+        {
+          "title": "山东青年政治学院学科竞赛管理办法",
+          "url": "https://jwc.sdyu.edu.cn/info/1208/10414.htm",
+          "snippet": "1.国家级A类：中国高等教育学会当年公布的普通高校学科竞赛排行榜所列竞赛的全国决赛。 2.国家级B类：教育部等国家政府 ...",
+          "source": "jwc.sdyu.edu.cn"
+        },
+        {
+          "title": "山东工商学院大学生学科竞赛管理办法 - 信息公开",
+          "url": "https://xxgk.sdtbu.edu.cn/info/1078/5243.htm",
+          "snippet": "第二条 根据竞赛主办单位、竞赛规模、竞赛声誉度、竞赛影响力等情况，以及是否纳入中国高等教育学会大学生竞赛排行榜等情况，结合学校实际，将竞赛分为A、 ...",
+          "source": "xxgk.sdtbu.edu.cn"
+        },
+        {
+          "title": "山东石油化工学院文件",
+          "url": "https://jwc.sdipct.edu.cn/__local/4/A9/92/3434966F59A06D55B183B82A983_942D08CB_73670.pdf",
+          "snippet": "A、B 类竞赛目录具体见附件。 第五条类别认定。学校组织专家认定竞赛类别并公示，公. 示期满无异议的，予以认定， ...",
+          "source": "jwc.sdipct.edu.cn"
+        },
+        {
+          "title": "山东大学本科学生综合素质测评办法",
+          "url": "https://www.art.sdu.edu.cn/info/1324/15295.htm",
+          "snippet": "（1）科技学术竞赛. 由学校组织参加的各级各类科技学术竞赛，以获奖证书或文件为依据，按以下标准加分：. 奖项. 级别. 一等奖. 二等奖. 三等奖. 优秀奖.",
+          "source": "www.art.sdu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 2.905,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 2.905
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:53:55.965Z",
+    "durationSeconds": 2.908
+  }
+}

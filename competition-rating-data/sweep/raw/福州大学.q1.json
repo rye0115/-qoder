@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "福州大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"福州大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "福州大学学生文化科技创新创业奖学金学科竞赛等级目录",
+          "url": "https://stuic.fzu.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1961412083&wbfileid=16756076",
+          "snippet": "“外研社·国才杯”“理解当代. 中国”全国大学生外语能力大赛-. ①英语演讲、②英语辩论、③英. 语写作、④英语阅读（原外研社. 全国大学生英语系列赛-①英语.",
+          "source": "stuic.fzu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖证书、参赛项目竞赛秩序册（体育类）等获奖支撑材料 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "转发《福州大学至诚学院学生文化科技创新竞赛等级分类一览表 ...",
+          "url": "https://www.fdzcxy.edu.cn/2023/1221/c532a97157/page.htm",
+          "snippet": "B类. 70. 全国大学生创业设计暨沙盘模拟经营大赛. 教育部高等学校工商管理类专业教学指导委员会. 国家级. B类. 71. 全国大学生水利创新设计大赛. 中国水利 ...",
+          "source": "www.fdzcxy.edu.cn"
+        },
+        {
+          "title": "关于公布《福州大学文化科技创新创业奖学金学科竞赛等级目录 ...",
+          "url": "https://stuic.fzu.edu.cn/info/1032/6931.htm",
+          "snippet": "关于公布《福州大学文化科技创新创业奖学金学科竞赛等级目录（2026年版）》的通知 ... 上一条：福州大学关于印发本科生奖学金评定管理办法的通知 · 下一条： ...",
+          "source": "stuic.fzu.edu.cn"
+        },
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "关于福州大学环境与安全工程学院本科生国家奖学金评审细则的公示",
+          "url": "https://es.fzu.edu.cn/info/1413/9931.htm",
+          "snippet": "根据《福州大学文化科技创新创业奖学金学科竞赛等级目录（2026年版）》及学校动态调整的最新目录认定竞赛等级。 竞赛等级. 前三名或一等奖. 前六名或 ...",
+          "source": "es.fzu.edu.cn"
+        },
+        {
+          "title": "附件1：学生学科科技竞赛A类、B类项目列表",
+          "url": "https://www.scribd.com/document/825795179/%E9%99%84%E4%BB%B61-%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%A7%91%E7%A7%91%E6%8A%80%E7%AB%9E%E8%B5%9BA%E7%B1%BB-B%E7%B1%BB%E9%A1%B9%E7%9B%AE%E5%88%97%E8%A1%A8",
+          "snippet": "学生学科/科技竞赛A 类、B 类项目列表 · 1 美国大学生数学建模竞赛国际级教务处 · 2 全国大学生数学建模大赛国家级教务处 · 3 全国大学生机械创新设计大赛国家级教务处 · 4 ...",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "关于印发《温州大学大学大学生学科竞赛管理办法的通知》",
+          "url": "https://chem.wzu.edu.cn/info/2652/29412.htm",
+          "snippet": "为进一步规范大学生学科竞赛管理工作，提高学校师生参与各类竞赛的积极性，提升学科竞赛水平，扩大竞赛受益面，促进学生创新精神和实践能力的培养，特制定本管理办法。",
+          "source": "chem.wzu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.828,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.828
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:53:37.881Z",
+    "durationSeconds": 5.831
+  }
+}

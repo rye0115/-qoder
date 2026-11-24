@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京理工大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京理工大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于开展2026年度南京理工大学本科生A类学科竞赛申报及认定工作的 ...",
+          "url": "https://jwc.njust.edu.cn/81/0c/c1216a360716/page.htm",
+          "snippet": "为进一步规范学校学科竞赛管理，强化高质量竞赛的引导和支持，充分发挥学科竞赛育人实效，学校现组织开展2026年度本科生A类学科竞赛申报及认定工作。A类 ...",
+          "source": "jwc.njust.edu.cn"
+        },
+        {
+          "title": "关于开展2024年度南京理工大学本科生A类学科竞赛申报及认定工作的通知",
+          "url": "https://jwc.njust.edu.cn/08/93/c1216a329875/page.htm",
+          "snippet": "A类竞赛是水平高、影响大、参赛学校层次高、学校重点支持的省级及以上学科竞赛。本次申报条件及认定方式见下表。 级别 申报条件 认定",
+          "source": "jwc.njust.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "请相关院系、单位重视此项工作，参照以上竞赛等级认定的条件以及南京大学本科生学科竞赛等级认定一览表（2025年版），对于竞赛认定情况进行更新与补充,并 ...",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "关于组织录入学生竞赛获奖及成果信息的通知",
+          "url": "https://jwc.njust.edu.cn/17/b3/c1217a333747/page.htm",
+          "snippet": "一、学科竞赛获奖信息录入. 1.学校或学院统一组织的学科竞赛由负责教师填写获奖信息，并上传获奖证书照片等证明材料，由竞赛项目牵头学院管理员负责审核。",
+          "source": "jwc.njust.edu.cn"
+        },
+        {
+          "title": "转：关于公布2022年度大学生竞赛级别认定结果的通知 - 航天学院",
+          "url": "https://astro.nuaa.edu.cn/2023/0223/c11549a303439/page.htm",
+          "snippet": "2022 年度，共认定竞赛420 项，其中Ⅰ级甲等27 项，Ⅰ级乙等82 项，Ⅱ级甲等106 项，Ⅱ级乙等91 项，Ⅲ级甲等52 项，Ⅲ级乙等62 项。现将新增和变更认定 ...",
+          "source": "astro.nuaa.edu.cn"
+        },
+        {
+          "title": "南京邮电大学研究生学科竞赛管理办法",
+          "url": "https://pg.njupt.edu.cn/_upload/article/files/d4/f0/a9565c83414dac727b27f843c283/a927cf1d-0df9-4299-a0ef-dedcb18ef8ca.pdf",
+          "snippet": "第一章竞赛等级与分类. 第一条为促进竞赛活动管理工作的规范化、科学化、制度. 化，学校对竞赛活动实行分级分类管理。竞赛分级分类遵循以下. 基本原则：.",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "NEWCCS通知| 部分高校竞赛认定情况参考",
+          "url": "https://www.saikr.com/c/nd/40484",
+          "snippet": "通知概要:一、部分高校竞赛认定情况参考大赛官网：https://www.saikr.com/vse/newccs/2026 说明：以下信息均由大赛组委会收集-大学生竞赛活动社区.",
+          "source": "www.saikr.com"
+        },
+        {
+          "title": "南京理工大学",
+          "url": "https://www.njust.edu.cn/",
+          "snippet": "学校概况 · 学校简介 · 学校章程 · 历史沿革 · 治理结构 · 学校文化 · 信息公开 · 校园地图 · 党群工作 · 党建动态 · 反腐倡廉 · 统一战线 · 工会教代会 · 青年在线.",
+          "source": "www.njust.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.161,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.161
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:51:25.785Z",
+    "durationSeconds": 3.164
+  }
+}

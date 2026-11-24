@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "上海财经大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"上海财经大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "通知公告",
+          "url": "https://www.sufe.edu.cn/tzgg/list.htm",
+          "snippet": "如在公示期有任何意见建议，请通过以下方式实名联系上海财经大学第十五届“挑战杯”中国大学生创业计划竞赛组委会办公室：联系人：任老师联系电话：65904247联系邮箱： ...",
+          "source": "www.sufe.edu.cn"
+        },
+        {
+          "title": "上海财经大学创业学院创业赛事管理平台",
+          "url": "https://cs.sufe.edu.cn/_d2/c8/19700101/i0.phtml?matchId=22",
+          "snippet": "... 竞赛 ... 认定”认定相关成果。 六、联系方式. 联系人：徐老师 梁老师. 联系电话：65901178. 电子邮箱：sei@mail.shufe.edu.cn. 附件1：中国国际大学生创新大赛（2024）通知.",
+          "source": "cs.sufe.edu.cn"
+        },
+        {
+          "title": "上海财经大学学术委员会文件",
+          "url": "https://iaf.sufe.edu.cn/_upload/article/files/93/04/98ce1f454a2499a9fdb4eb1528f3/a8b9643f-4235-4140-8885-1724de105d34.pdf",
+          "snippet": "第一条为进一步深化我校学术成果评价改革，完善学术成. 果认定标准体系，调动全校师生科研积极性和主动性，鼓励多出. 高质量、高水平的学术成果，扩大国内 ...",
+          "source": "iaf.sufe.edu.cn"
+        },
+        {
+          "title": "关于报名参加第十三届上海市大学生数学竞赛（非数学组） 财大校内 ...",
+          "url": "https://math.sufe.edu.cn/28/b4/c1991a141492/page.htm",
+          "snippet": "报名截止时间 请各学院于2021年4月23日（周五）之前将报名汇总表电子版发送至zhangyan7986@mail.shufe.edu.cn。联系人：张老师，联系电话：65904320。",
+          "source": "math.sufe.edu.cn"
+        },
+        {
+          "title": "上海财经大学浙江学院第七届大学生金融创新大赛报名通知",
+          "url": "https://sjjxzx.shufe-zj.edu.cn/info/1070/2148.htm",
+          "snippet": "上海财经大学浙江学院第七届大学生金融创新大赛报名通知. 发布日期：2025 ... 竞赛（经营创新实践赛道）选拔赛报名通知. 附件【附件：浙江省大学生 ...",
+          "source": "sjjxzx.shufe-zj.edu.cn"
+        },
+        {
+          "title": "关于印发《浙江财经大学科技竞赛管理办法》 的通知",
+          "url": "https://pgw.zufe.edu.cn/__local/6/E3/08/7C847F659AB262759541EB7CEB5_AF501ABB_3B14E.pdf",
+          "snippet": "浙江财经大学创新创业竞赛级别认定表. 序号. 名称. 级别. 1. 中国国际“互联网+”大学生创新创业大赛. 国A. 2. “挑战杯”大学生课外学术作品竞赛. 国A. 3. “挑战杯”大学生创业 ...",
+          "source": "pgw.zufe.edu.cn"
+        },
+        {
+          "title": "我校在第五届全国大学生数学竞赛上海赛区比赛中喜获佳绩",
+          "url": "https://www.sufe.edu.cn/45/cf/c15a17871/page.htm",
+          "snippet": "月26日在上海大学举行，日前上海市数学会公布了本次竞赛的获奖情况：我校获上海市非数学类一等奖4名，其中1名将于明年3月参加全国决赛",
+          "source": "www.sufe.edu.cn"
+        },
+        {
+          "title": "关于统计2025年学生科研成果、省级及以上竞赛获奖的通知",
+          "url": "https://jinrong.swufe.edu.cn/info/1097/32327.htm",
+          "snippet": "各位同学：. 为做好2025年学生科研成果及竞赛获奖的奖励工作，现通知如下：. 一、统计时间范围. 2025年1月1日—2025年12月31日. 二、统计内容.",
+          "source": "jinrong.swufe.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.415,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.415
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:50:44.597Z",
+    "durationSeconds": 3.418
+  }
+}

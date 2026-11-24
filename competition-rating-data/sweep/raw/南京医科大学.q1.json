@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京医科大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京医科大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "江南大学无锡医学院大学生学科竞赛管理办法",
+          "url": "https://wxms.jiangnan.edu.cn/info/1023/2496.htm",
+          "snippet": "A类赛事全国赛最高奖. 1000分/项(团队总分). B类赛事下降一个级别(B类赛事全国赛三等奖200分/项). A类赛事全国赛次高奖. 600分/项(团队总分). A类赛事全国赛三等奖. 400分/ ...",
+          "source": "wxms.jiangnan.edu.cn"
+        },
+        {
+          "title": "南京工业大学生学科竞赛和创新创业实践活动管理办法",
+          "url": "https://fzxy.njtech.edu.cn/info/1019/3329.htm",
+          "snippet": "备注：1.本目录1-53项为全国普通高校学科竞赛排行榜的竞赛活动，每年根据全国普通高校学科竞赛评估结果动态调整。C类竞赛根据主办单位级别、赛事规模、 ...",
+          "source": "fzxy.njtech.edu.cn"
+        },
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "... 学科竞赛分为A、B、C 三类，. 具体见《南京中医药大学高水平大学生学科竞赛项目目录》（附. 件1）。 Page 4. - 4 -. 第八条A 类竞赛项目相对固定，由学校指定；B 类、C 类 ...",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "南京邮电大学研究生学科竞赛管理办法",
+          "url": "https://pg.njupt.edu.cn/_upload/article/files/d4/f0/a9565c83414dac727b27f843c283/a927cf1d-0df9-4299-a0ef-dedcb18ef8ca.pdf",
+          "snippet": "竞赛奖励范围仅限于我校当年竞赛等级目录中所列A 类、B. 类、C 类赛事，其他竞赛获奖学校不予奖励。学生和指导教师在. 同一年度同类竞赛获多个等级奖的按最高等级奖励。",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "规章制度",
+          "url": "https://jwc.njmu.edu.cn/gzzd/list.htm",
+          "snippet": "南京医科大学2025年学科竞赛项目认定清单 2025-05-06; 南京医科大学学生学科竞赛组织管理办法（2024年12月印发） 2024-12-31; 2024年学科竞赛项目认定结果 2024-04-08 ...",
+          "source": "jwc.njmu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "竞赛等级是学校和院系单位编制学科竞赛经费预算、获奖学生创新学分转换、指导教师成果认定、教学评奖评优的参考依据。根据《南京大学普通全日制本科生创新 ...",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "防灾科技学院学科竞赛管理办法（修订）",
+          "url": "https://pjb.cidp.edu.cn/info/1085/1698.htm",
+          "snippet": "第九条按照高等教育学会发布的学科分类指导意见与学校的实际情况，依照竞赛规模、鼓励方向与重要程度将学科竞赛分为A类竞赛、B类竞赛与C类竞赛。A类竞赛 ...",
+          "source": "pjb.cidp.edu.cn"
+        },
+        {
+          "title": "附件3： 学科竞赛类别及其标准分值",
+          "url": "https://linxue.njfu.edu.cn/DFS//file/2025/09/03/202509031953337469dds4w.pdf",
+          "snippet": "学生在《南京林业. 大学大学生学科竞赛目录》所列同一竞赛项目中获多个奖项的，按最高级别计算。 对于设有特等奖的竞赛，特等奖按一等奖计算，一等奖按二 ...",
+          "source": "linxue.njfu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.011,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.011
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:20.946Z",
+    "durationSeconds": 4.015
+  }
+}

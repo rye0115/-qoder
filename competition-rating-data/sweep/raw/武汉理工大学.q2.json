@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "武汉理工大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"武汉理工大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "武汉理工大学本科生学科竞赛认定一览表",
+          "url": "http://scea.whut.edu.cn/bksjy/zlgc/202410/P020241022396772817297.pdf",
+          "snippet": "序号. 竞赛名称. 认定级别. 1. 中国“互联网+”大学生创新创业大赛. A类（国家级）. 2. “挑战杯”全国大学生课外学术科技作品竞赛. A类（国家级）.",
+          "source": "scea.whut.edu.cn"
+        },
+        {
+          "title": "武汉理工大学文件",
+          "url": "https://stle.whut.edu.cn/bks/jxwj/202412/P020241231652686468394.pdf",
+          "snippet": "《武汉理工大学本科生学科竞赛组织实施细则（试行）》经. 2024 年第6 次校长办公会审议通过，现印发执行。 附件：武汉理工大学本科生学科竞赛组织实施细则（试行）. 武汉 ...",
+          "source": "stle.whut.edu.cn"
+        },
+        {
+          "title": "创新创业竞赛",
+          "url": "http://sen.whut.edu.cn/jsykc/",
+          "snippet": "【竞赛通知】关于组织参加中国国际大学生创新大赛（2024）国际项目的通知2024-07-09; 【竞赛通知】关于参加中国国际大学生创新大赛(2024)产业命题赛道的通知2024-07-03.",
+          "source": "sen.whut.edu.cn"
+        },
+        {
+          "title": "武汉大学本科生学科竞赛认定信息表（2023年）",
+          "url": "https://www.whuss.com/attachments/C/C0/C0iu/C0iul6rHFrrquwndDyYVWsZnc0DfulwV9cIyVdL5.pdf/C0iul6rHFrrquwndDyYVWsZnc0DfulwV9cIyVdL5.pdf?filename=%E9%99%84%E4%BB%B67%EF%BC%9A%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E8%AE%A4%E5%AE%9A%E4%BF%A1%E6%81%AF%E8%A1%A8%EF%BC%882023%E5%B9%B4%EF%BC%89.pdf",
+          "snippet": "武汉大学本科生学科竞赛认定信息表（2023年） … 武汉大学本科生学科竞赛认定信息表（2023年） 推荐单位 赛事名称 主办/承办单位 认定级别 备注",
+          "source": "www.whuss.com"
+        },
+        {
+          "title": "武汉理工大学欢迎您",
+          "url": "https://www.whut.edu.cn/",
+          "snippet": "学校举行“材科8501班卓越发展基金”设立仪式. 2026年11月17日 ; 校领导率团访问挪威、瑞典拓展学校国际合作网络. 2026年11月16日 ; 2026年袁润章奖学金颁奖仪式举行. 2026年11 ...",
+          "source": "www.whut.edu.cn"
+        },
+        {
+          "title": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的 ...",
+          "url": "https://jgxy.cug.edu.cn/info/1133/10732.htm",
+          "snippet": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的通知 ... 全院师生：. 根据上一年度各项竞赛的发生情况及相关政策，经意见征集和研究论证 ...",
+          "source": "jgxy.cug.edu.cn"
+        },
+        {
+          "title": "暨第十四届湖北省大学生数学竞赛",
+          "url": "https://www.saikr.com/vse/cmathc/whlgmfs/2025",
+          "snippet": "系统开放时段： 9 月1 日上午9 时至10 月10 日下午6 时 ; 证书领取通知. 2026-03-09 14:42:18 ; 关于十七届数学竞赛获奖填报问题. 2025-12-02 10:32:09 ; 成绩查询，后续证书 ...",
+          "source": "www.saikr.com"
+        },
+        {
+          "title": "学生学科竞赛 - 信息公开- 华东理工大学",
+          "url": "https://xxgk.ecust.edu.cn/xsxkjsqk/list.htm",
+          "snippet": "学校认定的竞赛级别及名录 · 华东理工大学学科竞赛级别认定名录2026-10-28. 赛事通知 · 获奖与表彰 · 华东理工大学在中国国际大学生创新大赛（2025）的获奖项目2026-10-28 ...",
+          "source": "xxgk.ecust.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 6.245,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 6.245
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:55:01.872Z",
+    "durationSeconds": 6.248
+  }
+}

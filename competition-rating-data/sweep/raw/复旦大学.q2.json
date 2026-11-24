@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "复旦大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"复旦大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "规章制度",
+          "url": "https://jwc.fudan.edu.cn/gzzd_27280/list.htm",
+          "snippet": "复旦大学本科生学科竞赛工作管理办法（2024年9月24日教务处处务会批准修订 ... 关于印发《复旦大学大学生创新创业训练计划管理办法》的通知, 2022-05-18. 复旦大学 ...",
+          "source": "jwc.fudan.edu.cn"
+        },
+        {
+          "title": "实习实践",
+          "url": "https://jwc.fudan.edu.cn/9387/list.htm",
+          "snippet": "关于2026年春季学期“大学生创新实践”学分认定延长申请期限的通知, 2026-07-09. 快速链接. Quick Links. 复旦大学相辉学堂 · 教与学发展中心 · 通识教育中心.",
+          "source": "jwc.fudan.edu.cn"
+        },
+        {
+          "title": "复旦大学国际金融学院推荐2027届优秀本科毕业生免试攻读研究生 ...",
+          "url": "https://fisf.fudan.edu.cn/zt/fisfGBF/notice_detail.html",
+          "snippet": "国内权威竞赛（全国赛本科组）或相当的国际赛事，获得第三等级及以上奖项，申请人需提供获奖证书原件和复印 免生遴选工作小组和指导教师团队",
+          "source": "fisf.fudan.edu.cn"
+        },
+        {
+          "title": "2026年复旦大学“卓越杯”创新创业大赛报名通知",
+          "url": "https://econ.fudan.edu.cn/info/1669/40317.htm",
+          "snippet": "(4) 在大赛中获奖的学生可根据学校有关规定申请对应奖学金、推免加分、科创人才培养计划认定等资格。 (5) 同一项目在当年度各类比赛重复获奖的，只就高 ...",
+          "source": "econ.fudan.edu.cn"
+        },
+        {
+          "title": "复旦大学管理学院2027年优秀本科毕业生推免生推荐工作细则",
+          "url": "https://www.fdsm.fudan.edu.cn/upec/2026/0903/c2097a37206/page.htm",
+          "snippet": "竞赛认定范围以《复旦大学本科生学科竞赛工作管理办法》附录中最新公布的竞赛为准。在多项竞赛中获奖不累积计分。申请人与直系亲属或学历、职务明显高 ...",
+          "source": "www.fdsm.fudan.edu.cn"
+        },
+        {
+          "title": "核科学与技术系推荐优秀本科毕业生免试攻读研究生综合发展潜力评分细则",
+          "url": "https://imp.fudan.edu.cn/09/de/c48959a788958/page.htm",
+          "snippet": "（2）对通过认定的全国比赛：第一等级奖项满分2分，第二等级奖项满分1分；若获奖学生超过1人，每个学生的得分由指导教师（团队）分配。 （3）对通过认定的 ...",
+          "source": "imp.fudan.edu.cn"
+        },
+        {
+          "title": "2021-2022学年研究生奖学金评定规则公示",
+          "url": "https://sirpa.fudan.edu.cn/f9/76/c35247a457078/page.htm",
+          "snippet": "复旦大学国际关系与公共事务学院2021-2022学年研究生奖学金评定规则公示为了鼓励研究生在校期间勤奋学习，潜心科研，根据复旦大学研究生奖学金评定的相关规定， ...",
+          "source": "sirpa.fudan.edu.cn"
+        },
+        {
+          "title": "7467a53c-9d12-407f-bce7-3fa842be1ab6 | PDF",
+          "url": "https://www.scribd.com/document/789113809/7467a53c-9d12-407f-bce7-3fa842be1ab6",
+          "snippet": "对于符合要求的申请人，以申请人本科阶段所有已修课程的平均绩点作为其学业综合成绩，先按《复旦大学推免生遴选学业综合成绩折算表》折算为百分制“学业综合成绩”，再按70% ...",
+          "source": "www.scribd.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.728,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.728
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:49:48.284Z",
+    "durationSeconds": 3.731
+  }
+}

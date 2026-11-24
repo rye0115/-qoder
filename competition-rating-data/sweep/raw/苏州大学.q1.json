@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "苏州大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"苏州大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "关于做好2026年学科竞赛参赛项目分级认定工作的通知",
+          "url": "https://cxcy.usts.edu.cn/info/1041/2101.htm",
+          "snippet": "为使学科竞赛组织管理工作更加规范化、科学化、制度化，现开展2026年度学科竞赛项目分级认定工作，请各学院结合学科专业特点，做好本年度大学生学科 ...",
+          "source": "cxcy.usts.edu.cn"
+        },
+        {
+          "title": "关于印发《苏州大学专业技术职务评聘工作实施办法（2022年修订）》的 ...",
+          "url": "https://jdxy.suda.edu.cn/_upload/article/files/4f/a5/d6f4a79f4e4787de39ac6c2212b1/4f1fe987-3335-4fa4-af37-4e580817ec56.pdf",
+          "snippet": "第三条按照“总量控制、分类指导、强化师德、科学评价、. 规范程序、择优聘用”的原则进行专业技术职务评聘。重点考察. 申报人员的实际水平、发展潜力和岗位匹配度，加强对 ...",
+          "source": "jdxy.suda.edu.cn"
+        },
+        {
+          "title": "教字〔2025〕2号中国科学技术大学本科生学科竞赛管理办法",
+          "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/%E6%95%99%E5%AD%97%E3%80%942025%E3%80%952%E5%8F%B7-%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+          "snippet": "采用五等级评分制，原则上，各类评分等级不高于以下标准：. 注：无特等奖的竞赛评分等级依次提高；奖项名称不同的竞赛评分等级参照表格依次对应。 所有竞赛活动在综合 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "江苏科技大学文件",
+          "url": "https://cxcyxy.just.edu.cn/_upload/article/files/8a/b6/8040260a441987a6cac83e4a78bc/154bd06a-b54b-4144-bf6c-a936b29e7a2c.pdf",
+          "snippet": "大赛年度报告》将学科竞赛分为A1、A2、B 三个类别，竞赛目录. 由竞赛管理 ... 第十二条原《江苏科技大学大学生学科竞赛组织管理办法》. （江科大校 ...",
+          "source": "cxcyxy.just.edu.cn"
+        },
+        {
+          "title": "学科竞赛",
+          "url": "https://cxcy.suda.edu.cn/32067/list.htm",
+          "snippet": "中国国际大学生创新大赛 · “挑战杯”全国大学生课外学术科技作品竞赛 · “挑战杯”中国大学生创业计划竞赛 · 大学生职业规划大赛 · 其他创业类竞赛.",
+          "source": "cxcy.suda.edu.cn"
+        },
+        {
+          "title": "关于印发《中南大学本科生学科竞赛管理办法》的通知",
+          "url": "https://bksy.csu.edu.cn/info/1168/3379.htm",
+          "snippet": "一、竞赛层次. 大学生学科竞赛分为国际级、国家级、省级和校级学科竞赛四个层次： · 二、竞赛组织. 学科竞赛的整体组织和协调管理由学校本科生院负责，各二 ...",
+          "source": "bksy.csu.edu.cn"
+        },
+        {
+          "title": "江苏大学学生学科竞赛管理办法",
+          "url": "https://rgzn.ujs.edu.cn/xsjs.pdf",
+          "snippet": "第四条根据学科竞赛的主办单位、举办规模、知名度和影. 响力等因素，学校对学科竞赛进行分级、分类管理。 ... 第十三条负责国家级A 类及B 类学科竞赛的学院应认真做. 好相关 ...",
+          "source": "rgzn.ujs.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.541,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.541
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:51:16.547Z",
+    "durationSeconds": 3.545
+  }
+}

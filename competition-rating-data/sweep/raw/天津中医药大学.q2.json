@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "天津中医药大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"天津中医药大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "以赛促创展风采！天津中医药大学在中国国际大学生创新大赛（2026） ...",
+          "url": "https://www.tjutcm.edu.cn/info/1040/3297.htm",
+          "snippet": "近日，中国国际大学生创新大赛（2026）天津赛区比赛落幕，在学校党委、行政的科学谋划和统筹部署下，在校团委的精心组织与持续指导下，天津中医药大学 ...",
+          "source": "www.tjutcm.edu.cn"
+        },
+        {
+          "title": "通知公告-天津中医药大学官网",
+          "url": "https://www.tjutcm.edu.cn/index/tzgg.htm",
+          "snippet": "通知公告 ; 25 2026-06. 关于公布天津中医药大学视觉形象规范化标准的通知 ; 03 2026-11. 天津中医药大学三届党委第四轮巡察公告 ; 22 2026-10. 等你来晒！2026天津中医药大学 ...",
+          "source": "www.tjutcm.edu.cn"
+        },
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "参照《江苏省普通高校本专科生学科竞赛等级认定实施办法》，. 结合学校学科专业特色，将我校的学科竞赛分为A、B、C 三类，. 具体见《南京中医药大学高水平大学生学科竞赛 ...",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "推荐工作要求",
+          "url": "https://medu.bjmu.edu.cn/cms/document/attach_manager!download.action?id=4af037e1786d65b60178f24eff560270",
+          "snippet": "二、推荐工作要求. 1.中国大学生医学技术技能大赛优秀选手. 授予对象为历届临床、中医、预防、护理大赛参赛选手。 要求既往参加过大赛总决赛并取得较好成绩，目前仍 ...",
+          "source": "medu.bjmu.edu.cn"
+        },
+        {
+          "title": "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/20690.html",
+          "snippet": "一、竞赛成果申报 · 1. 系统开放时间：2026年11月14日-2026年11月27日 · 2. 认定细则：自2024春季学期开始，自由选修学分中，大研、大创等“项目制活动”有效 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "山东中医药大学大学生学科竞赛管理办法（修订）",
+          "url": "https://cxcyxy.sdutcm.edu.cn/info/1078/1465.htm",
+          "snippet": "学生获奖级别以竞赛组委会颁奖文件或证书为依据，同一作品以最高奖 ... 通知等相关规定进行认定并奖励（详见附件1）。 3.鼓励各学院（部门、研究 ...",
+          "source": "cxcyxy.sdutcm.edu.cn"
+        },
+        {
+          "title": "教育部办公厅关于举办第十届中国大学生医学技术技能大赛的通知",
+          "url": "http://www.moe.gov.cn/srcsite/A08/moe_740/s3864/202101/t20210104_508666.html",
+          "snippet": "1.参赛院校：开设临床医学、中医学、预防医学、护理学等本科专业及临床医学八年制专业的有关高等学校。 · 2.参赛选手：毕业（生产）实习阶段的相关专业本科 ...",
+          "source": "www.moe.gov.cn"
+        },
+        {
+          "title": "天津教育报| 我市这一比赛落幕，这些学校学生获奖！",
+          "url": "https://www.tjutcm.edu.cn/info/1047/3312.htm",
+          "snippet": "本次大赛由天津市新闻出版局、天津市教育委员会主办，天津市高等学校图书情报工作委员会、天津高等教育文献信息中心、天津工业大学承办。来自全市52所院校 ...",
+          "source": "www.tjutcm.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.485,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.485
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:47:27.462Z",
+    "durationSeconds": 5.489
+  }
+}

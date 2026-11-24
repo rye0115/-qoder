@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京中医药大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京中医药大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "FEMA Disaster Response Crew Violated Law and Policy by ...",
+          "url": "https://www.oig.dhs.gov/sites/default/files/assets/2026-08/OIG-26-21-Aug26.pdf",
+          "snippet": "A Federal Emergency Management Agency (FEMA) Disaster. Survivor Assistance (DSA) crew skipped homes during the response to Hurricane Milton ...",
+          "source": "www.oig.dhs.gov"
+        },
+        {
+          "title": "关于印发《未成年人用户数量巨大和对未成年人群体具有显著影响的 ...",
+          "url": "https://www.cac.gov.cn/2026-02/28/c_1774010730056867.htm",
+          "snippet": "关于印发《未成年人用户数量巨大和对未成年人群体具有显著影响的网络平台服务提供者认定办法》的通知. 国信办发文〔2026〕2号.",
+          "source": "www.cac.gov.cn"
+        },
+        {
+          "title": "工业和信息化部关于印发《技术合同认定登记管理办法》的通知",
+          "url": "https://www.ncsti.gov.cn/zcfg/zcwj/202602/t20260211_238073.html",
+          "snippet": "工业和信息化部关于印发《技术合同认定登记管理办法》的通知. 工信部科〔2026〕18号. 各省、自治区、直辖市及计划单列市、新疆生产建设兵团工业和信息 ...",
+          "source": "www.ncsti.gov.cn"
+        },
+        {
+          "title": "国家卫生健康委涉外专业技术人员资格认定",
+          "url": "https://www.21wecan.com/wsrcw/c100265/shewairending.shtml",
+          "snippet": "认定中心挂靠国家卫生健康委人才交流服务中心管理。 公布栏更多+ · 关于涉外认定系统开放时间调整的公告 2026-09-24; 关于 ...",
+          "source": "www.21wecan.com"
+        },
+        {
+          "title": "国际法院认定缅甸对罗兴亚人实施种族灭绝",
+          "url": "https://webtv.un.org/zh/asset/k18/k18etu810u",
+          "snippet": "",
+          "source": "webtv.un.org"
+        },
+        {
+          "title": "Antidumping and Countervailing Duty Orders on Certain Aluminum Foil ...",
+          "url": "https://www.federalregister.gov/documents/2023/11/27/2023-26030/antidumping-and-countervailing-duty-orders-on-certain-aluminum-foil-from-the-peoples-republic-of",
+          "snippet": "These circumvention inquiries cover aluminum foil, assembled or completed in Korea and Thailand using Chinese-origin aluminum foil and/or sheet, ...",
+          "source": "www.federalregister.gov"
+        },
+        {
+          "title": "驰名商标认定和保护规定",
+          "url": "https://www.cnipa.gov.cn/art/2024/1/30/art_3323_190073.html",
+          "snippet": "中华人民共和国国家工商行政管理总局令（第66号）《驰名商标认定和保护规定》已经国家工商行政管理总局局务会议审议通过，现予公布，自公布之日起30 ...",
+          "source": "www.cnipa.gov.cn"
+        },
+        {
+          "title": "福州市高层次人才认定_市人社局",
+          "url": "https://www.fuzhou.gov.cn/nrrh/fzsrlzyhshbzj/202310/t20231010_4695340.htm",
+          "snippet": "在我市申报省级高层次人才（特级、A 类、B 类、C类）的，可登入福建省海纳百川网（ https://fjhnbc.hxrc.com ）进行申报。经我市推荐认定的，自然纳入 ...",
+          "source": "www.fuzhou.gov.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.525,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.525
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:44:45.937Z",
+    "durationSeconds": 4.528
+  }
+}

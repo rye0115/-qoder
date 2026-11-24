@@ -1,0 +1,22 @@
+{
+  "cumcm": {
+    "major":{"kind":"open","from":2023,"scope":"本科组、高职高专组","note":"现行章程明确专业不限，学历和组队资格另有规定。","url":"https://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html"},
+    "calendars":[{"year":2026,"scope":"全国统一作答窗口","kind":"window","slots":[{"name":"竞赛作答","start":"2026-09-10","end":"2026-09-13"}],"note":"9 月 10 日 18:00 开题，13 日 20:00 截止提交文件指纹，作品文件另须在 14 日 14:00 前上传。","url":"https://www.mcm.edu.cn/upload_cn/node/779/D3txF20S95f4041e22b41b4a1f9e0e22ac8a1389.pdf"}]
+  },
+  "nuedc": {
+    "calendars":[{"year":2025,"scope":"全国统一设计与制作阶段","kind":"window","slots":[{"name":"设计与制作","start":"2025-07-30","end":"2025-08-02"}],"note":"7 月 30 日 08:00 开始，8 月 2 日 20:00 结束。后续测评另行安排。","url":"https://www.nuedc-training.com.cn/index/news/details/new_id/330"}]
+  },
+  "lanqiao": {
+    "calendars":[{"year":2027,"scope":"第十八届软件赛省赛","hours":4,"kind":"session","slots":[{"name":"C/C++、Java、Python、Web","terms":["C/C++","C++","Java","Python","Web"],"start":"2027-04-10","end":"2027-04-10"},{"name":"软件测试、网络安全","terms":["软件测试","网络安全"],"start":"2027-04-24","end":"2027-04-24"}],"note":"两个科目组均拟于 09:00–13:00 举行。分科目报名，最终安排以准考证为准，晋级后的决赛另排。","url":"https://tuanwei.hbu.edu.cn/upload/files/2026/10/d12642afdc02570d.pdf"}]
+  },
+  "sanchuang": {
+    "major":{"kind":"open","year":2027,"scope":"第十七届常规赛","note":"全日制在校专科生、本科生、研究生均可组队，专业不限。","url":"https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2026-11-03/2117506872721129472_20261101%20%20%20%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E6%8A%A5%E5%90%8D%E9%80%9A%E7%9F%A5.pdf"},
+    "calendars":[{"year":2027,"scope":"第十七届常规赛校赛","kind":"local","slots":[{"name":"各校办赛范围","start":"2027-03-01","end":"2027-04-10"}],"note":"各校在此期间组织校赛，学生的实际参赛日期须查本校通知。省赛和国赛取决于晋级。","url":"https://sanchuang-bodao.oss-cn-hangzhou.aliyuncs.com/system/2026-11-03/2117506872721129472_20261101%20%20%20%E7%AC%AC%E5%8D%81%E4%B8%83%E5%B1%8A%E4%B8%89%E5%88%9B%E8%B5%9B%E6%8A%A5%E5%90%8D%E9%80%9A%E7%9F%A5.pdf"}]
+  },
+  "computer": {
+    "major":{"kind":"open","year":2026,"scope":"第十九届本科组","note":"各专业在籍本科生均可参赛。部分作品类别按艺术类专业名录分组。","url":"https://jwc.ustb.edu.cn/docs/2026-03/aec2284456ea4b00848d819edb8aa651.pdf"}
+  },
+  "catalog-4-61":{
+    "major":{"kind":"related","year":2026,"scope":"第九届全国大学生化工实验大赛","accepts":["化学工程与工艺","制药工程"],"note":"参赛对象为化工与制药类及相关专业的全日制在校本科生。其他专业是否属于相关专业，须由学校或组委会确认。","url":"https://hgxy.hfut.edu.cn/_upload/article/files/2a/a3/90f6475b45d3a88778a739e48679/48601720-aee0-42d4-beb5-535c3023d396.pdf"}
+  }
+}

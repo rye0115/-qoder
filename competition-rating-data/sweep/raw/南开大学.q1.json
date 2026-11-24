@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南开大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南开大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "规章制度 - 教务部- 南开大学",
+          "url": "https://jwcold.nankai.edu.cn/2418/list.htm",
+          "snippet": "学科竞赛 规章制度 工作程序 竞赛项目 竞赛成绩 常用表格 毕业论文（设计）",
+          "source": "jwcold.nankai.edu.cn"
+        },
+        {
+          "title": "2026年计算机伯苓班项目简介",
+          "url": "https://cc.nankai.edu.cn/2026/0810/c13295a601128/page.htm",
+          "snippet": "考生需参加全校统一组织的“二次选拔”笔试，按照笔试成绩由高到底排序，排名在前15的同学可以进入复试；获得“数学/物理学/信息学”省级奥林匹克竞赛一等奖的 ...",
+          "source": "cc.nankai.edu.cn"
+        },
+        {
+          "title": "目录",
+          "url": "https://zsb.nankai.edu.cn/Upload/file/20180621/1529546797956353.pdf",
+          "snippet": "2017 年9 月，入. 选国家42所世界一流大学建设高校，且为36所A类高校之一。 南开大学坚持“允公允能，日新月异”的校训，弘扬“爱国、. 敬业、创新、乐群”的传统 ...",
+          "source": "zsb.nankai.edu.cn"
+        },
+        {
+          "title": "关于印发《西南大学研究项目与成果分类分级办法（试行）》的通知",
+          "url": "https://ceie.swu.edu.cn/__local/2/E3/91/D3CF764E87CC628A9E8B0252664_B6540F20_83FF5.pdf",
+          "snippet": "第一条根据中共中央、国务院《深化新时代教育评价改革. 总体方案》，为进一步深化学校研究项目与成果分类评价改革，. 促进师生学术创新活力、提升研究 ...",
+          "source": "ceie.swu.edu.cn"
+        },
+        {
+          "title": "南开大学本科学生学则（二〇一三年修订）",
+          "url": "https://jwcold.nankai.edu.cn/2016/0524/c5093a42347/page.htm",
+          "snippet": "学校公共必修课（A类课）；. 学院公共必修课（B类课）；. 专业必修课（C类课）。 选修课分为：. （四）专业选修课（D类课），D类课学分可以代替E类课 ...",
+          "source": "jwcold.nankai.edu.cn"
+        },
+        {
+          "title": "目录",
+          "url": "https://chem.nankai.edu.cn/_upload/article/files/22/8b/e52be5e94360bf024c9a54a7a170/973793e4-2e79-48af-9ab9-8266b053f2db.pdf",
+          "snippet": "（3）评选方式. 学院根据学校下发的奖学金名额和各年级、专业人数比例，将名额按年级、专业进. 行分配。该奖项由学生本人申请，学院将申请学生的A/B/C 类课程学分绩进行 ...",
+          "source": "chem.nankai.edu.cn"
+        },
+        {
+          "title": "中华人民共和国教育行业标准",
+          "url": "http://www.moe.gov.cn/srcsite/A16/s3342/201203/W020220704498224866735.pdf",
+          "snippet": "Educational management information – Educational management general codes 2012 … 本标准规定了全国教育管理基础代码集。适用于各级各类教育机构如幼 ...",
+          "source": "www.moe.gov.cn"
+        },
+        {
+          "title": "学术学位硕士研究生培养手册",
+          "url": "https://graduate.cugb.edu.cn/upload/resources/file/2022/08/29/205340.pdf",
+          "snippet": "研究生课程教学管理办法》； … 学科培养方案 (0202) … 本学科硕士生的培养强调德、智、体全面发展，要求学生热爱祖国 … 第十二条本管理办法由研究生院负责 ...",
+          "source": "graduate.cugb.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.76,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.76
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:46:45.769Z",
+    "durationSeconds": 5.763
+  }
+}

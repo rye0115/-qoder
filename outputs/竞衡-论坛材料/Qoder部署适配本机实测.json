@@ -1,0 +1,252 @@
+{
+  "time": "2026-11-24T20:01:03+08:00",
+  "site": "http://127.0.0.1:48740/functions/v1/app",
+  "access": "无登录 HTTP 请求",
+  "eventCount": 15,
+  "ranked": 7,
+  "ranking": [
+    [
+      "nuedc",
+      87.8
+    ],
+    [
+      "software",
+      84.2
+    ],
+    [
+      "computer",
+      83.6
+    ],
+    [
+      "cumcm",
+      83.4
+    ],
+    [
+      "sanchuang",
+      80.4
+    ],
+    [
+      "robomaster",
+      78.8
+    ],
+    [
+      "lanqiao",
+      67.1
+    ],
+    [
+      "mati",
+      null
+    ],
+    [
+      "leetcode",
+      null
+    ],
+    [
+      "robocon",
+      null
+    ],
+    [
+      "icpc",
+      null
+    ],
+    [
+      "tianchi",
+      null
+    ],
+    [
+      "graduateElectronics",
+      null
+    ],
+    [
+      "graduateMath",
+      null
+    ],
+    [
+      "kaggle",
+      null
+    ]
+  ],
+  "rankingMatches": true,
+  "scenarios": [
+    {
+      "path": "/api/recommend",
+      "body": {
+        "need": "云南民族大学数学与计算机科学学院，2027届想保研，目标国一，团队第二。"
+      },
+      "expected": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 89.6,
+        "base": 87.8,
+        "target": 79.2
+      },
+      "actual": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 89.6,
+        "base": 87.8,
+        "target": 79.2
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "need": "云南民族大学数学与计算机科学学院，2027届想保研，目标国一，团队第二。",
+        "place": "1"
+      },
+      "expected": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 96,
+        "base": 87.8,
+        "target": 92
+      },
+      "actual": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 96,
+        "base": 87.8,
+        "target": 92
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "eventYear": "2027",
+        "maxHours": "3"
+      },
+      "expected": {
+        "event": "lanqiao",
+        "rank": null,
+        "score": null,
+        "base": 67.1,
+        "fit": "conflict"
+      },
+      "actual": {
+        "event": "lanqiao",
+        "rank": null,
+        "score": null,
+        "base": 67.1,
+        "fit": "conflict"
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "eventYear": "2027",
+        "maxHours": "4"
+      },
+      "expected": {
+        "event": "lanqiao",
+        "rank": 1,
+        "base": 67.1,
+        "fit": "eligible"
+      },
+      "actual": {
+        "event": "lanqiao",
+        "rank": 1,
+        "base": 67.1,
+        "fit": "eligible"
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "全国大学生数学建模竞赛",
+        "employer": "腾讯",
+        "job": "后端"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "outcome",
+          "value": 1,
+          "unit": "个签约或入职案例",
+          "range": null
+        },
+        "confidence": 31,
+        "independent": 1
+      },
+      "actual": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "outcome",
+          "value": 1,
+          "unit": "个签约或入职案例",
+          "range": null
+        },
+        "confidence": 31,
+        "independent": 1
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "全国大学生数学建模竞赛",
+        "employer": "腾讯",
+        "job": "视觉设计"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "none",
+          "value": 0,
+          "unit": "条适用证据",
+          "range": null
+        },
+        "confidence": 0,
+        "independent": 0
+      },
+      "actual": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "none",
+          "value": 0,
+          "unit": "条适用证据",
+          "range": null
+        },
+        "confidence": 0,
+        "independent": 0
+      },
+      "passed": true
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "ICPC",
+        "employer": "华为"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "community",
+          "value": 1,
+          "unit": "条已收录自述",
+          "range": null
+        },
+        "confidence": 5,
+        "independent": 1
+      },
+      "actual": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "community",
+          "value": 1,
+          "unit": "条已收录自述",
+          "range": null
+        },
+        "confidence": 5,
+        "independent": 1
+      },
+      "passed": true
+    }
+  ]
+}

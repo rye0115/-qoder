@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中国海洋大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中国海洋大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于印发《江苏海洋大学大学生学科竞赛工作组织管理办法》的通知",
+          "url": "https://jwc.jou.edu.cn/info/1162/4270.htm",
+          "snippet": "第六条竞赛项目实行定期认定、年度复审、动态调整。 第七条竞赛项目的认定采用学院推荐和大学生学科竞赛工作领导小组审定相结合的方式确定。",
+          "source": "jwc.jou.edu.cn"
+        },
+        {
+          "title": "关于印发《广东海洋大学大学生课外学术科技竞赛管理办法》的通知",
+          "url": "https://www.gdou.edu.cn/cxcyxy/info/1049/1806.htm",
+          "snippet": "关于印发《广东海洋大学大学生课外学术科技竞赛管理办法》的通知 ; 获奖等级. 金奖. 银奖 ; 全国赛. 50000元. 30000元 ; 省赛. 10000元. 5000元 ; 校内赛.",
+          "source": "www.gdou.edu.cn"
+        },
+        {
+          "title": "全国大学生第14届海洋文化创意设计大赛: 首页 - 中国海洋大学",
+          "url": "http://mcd.ouc.edu.cn/",
+          "snippet": "2026年5月30日至31日，第十四届全国大学生海洋文化创意设计大赛（以下简称“大赛”）终审会在中国海洋大学顺利举办。中国海洋大学党委常委、副校长刘勇，广州美术学院原副院 ...",
+          "source": "mcd.ouc.edu.cn"
+        },
+        {
+          "title": "通知公告 - 大学生创新网- 上海海洋大学",
+          "url": "https://cxw.shou.edu.cn/1523/list.htm",
+          "snippet": "返回校园网 · 首页 · 信息动态 · 通知公告 · 新闻动态 · 图片新闻 · 学科竞赛 · 赛事立项 ... 认定工作的通知. 2025-12-03. 2024-2025学年第二学期本科生创新创业教育实践 ...",
+          "source": "cxw.shou.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "中国农业大学学科竞赛级别认定（2026-2027年） … 主办单位 1 国家级A类 中国国际大学生创新 … 全国大学生物理实验竞赛 … 主办单位 138 校级 中国农业大学大学生化学竞赛",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "中国海洋工程设计大赛",
+          "url": "https://www.cup.edu.cn/coedc/tzgg/index.htm",
+          "snippet": "2026-06-29 第八届中国海洋工程设计大赛作品有效性认定最终结果及参赛团队编号... 2026-06-26 关于公布第八届中国海洋工程设计大赛作品有效性认定结果的通知 ... 中国海洋 ...",
+          "source": "www.cup.edu.cn"
+        },
+        {
+          "title": "分级认定申请 - 教务处- 南京航空航天大学",
+          "url": "https://aao.nuaa.edu.cn/8173/list.htm",
+          "snippet": "新增竞赛级别认定申请。如竞赛未认定级别，请填写《南京航空航天大学大学生新增竞赛级别认定申请表》（文件见附件2），描述竞赛信息和我校近年参赛情况，以及其他参赛高校 ...",
+          "source": "aao.nuaa.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。同时学科竞赛获奖等级认定条件 ...",
+          "source": "jwch.fzu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.969,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.969
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:54:08.419Z",
+    "durationSeconds": 3.972
+  }
+}

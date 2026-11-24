@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京医科大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京医科大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "规章制度",
+          "url": "https://jwc.njmu.edu.cn/gzzd/list.htm",
+          "snippet": "南京医科大学2025年学科竞赛项目认定清单 2025-05-06; 南京医科大学学生学科竞赛组织管理办法（2024年12月印发） ... 通知 2022-04-25. 每页 14 记录 总共 9 记录; 第一页 ...",
+          "source": "jwc.njmu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "请相关院系、单位重视此项工作，参照以上竞赛等级认定的条件以及南京大学本科生学科竞赛等级认定一览表（2025年版），对于竞赛认定情况进行更新与补充,并 ...",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "关于开展南京医科大学本科生创新创业学分统计工作的通知",
+          "url": "https://jwc.njmu.edu.cn/_t1064/2025/0307/c18960a280512/page.htm",
+          "snippet": "1.学生申报：请各学院通知本学院学生进行申报，提供获奖支撑材料（获奖证书扫描件）。 · 2.学院审核：各学院双创负责人审核、学院领导复审后填报《南京医科 ...",
+          "source": "jwc.njmu.edu.cn"
+        },
+        {
+          "title": "分级认定申请 - 教务处- 南京航空航天大学",
+          "url": "https://aao.nuaa.edu.cn/8173/list.htm",
+          "snippet": "新增竞赛级别认定申请。如竞赛未认定级别，请填写《南京航空航天大学大学生新增竞赛级别认定申请表》（文件见附件2），描述竞赛信息和我校近年参赛情况，以及其他参赛高校 ...",
+          "source": "aao.nuaa.edu.cn"
+        },
+        {
+          "title": "南京医科大学2026年学科竞赛项目认定清单",
+          "url": "https://jwc.njmu.edu.cn/2026/0408/c18961a299363/page.htm",
+          "snippet": "南京医科大学2026年学科竞赛项目认定清单. 发布者：教务处发布时间：2026-04-08浏览次数：3681. 附件：南京医科大学2026年学科竞赛项目认定清单.xlsx.",
+          "source": "jwc.njmu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度南京理工大学本科生A类学科竞赛申报及认定工作的 ...",
+          "url": "https://jwc.njust.edu.cn/81/0c/c1216a360716/page.htm",
+          "snippet": "为进一步规范学校学科竞赛管理，强化高质量竞赛的引导和支持，充分发挥学科竞赛育人实效，学校现组织开展2026年度本科生A类学科竞赛申报及认定工作。A类 ...",
+          "source": "jwc.njust.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jwc.njmu.edu.cn/_t1064/tzgg/list3.htm",
+          "snippet": "通知公告 · 1 关于举办中国国际大学生创新大赛（2025）南京医科大学校级决赛的通知 · 2 关于开展南京医科大学本科生创新创业学分统计工作的通知 · 3 关于公布南京医科大学2024 ...",
+          "source": "jwc.njmu.edu.cn"
+        },
+        {
+          "title": "全国大学生医学创新大赛暨“一带一路”国际竞赛",
+          "url": "http://www.jcyxds.com/",
+          "snippet": "大赛秘书处 · ycsmsc@163.com ; 官网联系人 · 1923594101@qq.com ; 北部赛区联系人 · 孟晓娜（中国医科大学，联系电话：18900911693 电子邮箱：xnmeng@cmu.edu.cn） ; 东部赛区 ...",
+          "source": "www.jcyxds.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.181,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.181
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:24.419Z",
+    "durationSeconds": 3.185
+  }
+}

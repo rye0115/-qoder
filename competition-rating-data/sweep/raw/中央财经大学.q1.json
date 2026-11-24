@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中央财经大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中央财经大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "省部级A类. 全国大学生国土空间规划技能大赛. 本科生. 教育部高校公共管理类学科专业教学指导委员会、全国. 高校土地资源管理院长（系主任）联席会、中国土地学. 会规划 ...",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "贵州财经大学本科生学术创新与科技竞赛学业奖励办法",
+          "url": "https://jwc.gufe.edu.cn/info/1105/1831.htm",
+          "snippet": "学科竞赛管理办法》规定的 A 类学科竞赛并获省级二等奖（银奖）及以上奖项或国家级奖项的，参加B 类学科竞赛并获省级一等奖（金奖）及以上奖项的。",
+          "source": "jwc.gufe.edu.cn"
+        },
+        {
+          "title": "关于印发《浙江财经大学科技竞赛管理办法》 的通知",
+          "url": "https://pgw.zufe.edu.cn/__local/6/E3/08/7C847F659AB262759541EB7CEB5_AF501ABB_3B14E.pdf",
+          "snippet": "第八条对各等级的竞赛，学校又按照参赛面、知名度、举. 办历史等，分为A 类、B 类和C 类三类竞赛。 （一）A 类竞赛：指纳入省教育厅普通本科高校评价体系考. 核的竞赛。",
+          "source": "pgw.zufe.edu.cn"
+        },
+        {
+          "title": "湖南财政经济学院学科竞赛类成果计分办法（试行）",
+          "url": "https://www.hufe.edu.cn/ggglxy/info/1069/12252.htm",
+          "snippet": "A+类竞赛项目详见附件1，A类竞赛项目详见附件2，B类竞赛项目详见附件3；C类主要包括除A+、A、B类竞赛以外的学科竞赛，其认定由教学单位每年集中申报，经 ...",
+          "source": "www.hufe.edu.cn"
+        },
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "关于印发《中南大学本科生学科竞赛管理办法》的通知",
+          "url": "https://bksy.csu.edu.cn/info/1168/3379.htm",
+          "snippet": "一、竞赛层次. 大学生学科竞赛分为国际级、国家级、省级和校级学科竞赛四个层次： · 二、竞赛组织. 学科竞赛的整体组织和协调管理由学校本科生院负责，各二 ...",
+          "source": "bksy.csu.edu.cn"
+        },
+        {
+          "title": "会计学院学科竞赛奖励管理办法（试行）",
+          "url": "http://kjxy.jxufe.edu.cn/news-show-7627.html",
+          "snippet": "会计学院学科竞赛奖励管理办法（试行） ; 获奖等级. 国赛. 省赛 ; 一等奖（冠军）. 4000. 1000 ; 二等奖（亚军）. 2500. 800 ; 三等奖（季军）. 1800. 600 ; 入围奖励. 1000.",
+          "source": "kjxy.jxufe.edu.cn"
+        },
+        {
+          "title": "本科生学科竞赛管理办法",
+          "url": "https://civil.ncut.edu.cn/__local/8/78/7F/F0C587D583E0F619B8C7D718385_C6AF529B_39174.pdf",
+          "snippet": "管理办法 鼓励大学生参加各级各类学科竞赛、课外科技创新 … 一、竞赛级别的划分 根据主办者、性质、影响、参加范围等因素，将竞赛分为以下等级： 国家级竞赛：教育部、财政部 ...",
+          "source": "civil.ncut.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.984,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.984
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:45:23.364Z",
+    "durationSeconds": 4.987
+  }
+}

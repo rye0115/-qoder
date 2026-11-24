@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南昌大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南昌大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于2026年春季学期新增C级学科竞赛项目认定工作的通知 - 教务处",
+          "url": "https://jwc.ncu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1541&wbnewsid=56851",
+          "snippet": "1.各学院根据《关于印发〈南昌大学学生学科竞赛管理及激励办法〉的通知》有关C级学科竞赛项目要求组织申报； · 2.各学院进行初审； · 3.教务处组织认定； · 4 ...",
+          "source": "jwc.ncu.edu.cn"
+        },
+        {
+          "title": "关于公布2026年春季学期新增C级学科竞赛项目认定结果的通知 - 教务处",
+          "url": "https://jwc.ncu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1541&wbnewsid=56991",
+          "snippet": "本次新增的C级学科竞赛名单将导入至南昌大学创新创业教育管理平台，学生可参与学分认定。 ... 附件：南昌大学2026年春季学期新增C级学科竞赛项目名单 .",
+          "source": "jwc.ncu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年春季学期创新创业教育课程学分认定工作的通知 - 教务处",
+          "url": "https://jwc.ncu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1541&wbnewsid=57001",
+          "snippet": "6.根据《关于印发《南昌大学学生学科竞赛管理及激励 办法》的通知》（南大校发〔2026〕5 号），各类学科竞赛项目，按获奖当年级别（A、B、C级）认定学分。",
+          "source": "jwc.ncu.edu.cn"
+        },
+        {
+          "title": "关于开展2024-2025-2学期创新创业教育课程学分认定工作的通知 - 教务处",
+          "url": "https://jwc.ncu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1541&wbnewsid=42091",
+          "snippet": "（一）5月26日前，学生登录“南昌大学创新创业教育管理平台”（网址：https://scjypt.ncu.edu.cn/ieems-portal/credit/index）申请双创学分认定，具体操作详 ...",
+          "source": "jwc.ncu.edu.cn"
+        },
+        {
+          "title": "关于开展2025年秋季学期创新创业教育课程学分认定工作的通知 - 教务处",
+          "url": "https://jwc.ncu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1541&wbnewsid=55961",
+          "snippet": "根据《关于印发〈南昌大学大学生学科竞赛管理办法(修订)〉的通知》（南大教函〔2019〕61号），各类学科竞赛项目，按获奖当年级别（A、B、C级）认定学分。",
+          "source": "jwc.ncu.edu.cn"
+        },
+        {
+          "title": "南昌大学创新创业教育管理平台",
+          "url": "https://scjypt.ncu.edu.cn/ieems-portal/credit/index",
+          "snippet": "工业工程竞赛系列｜我院学子在“学创杯”江西省赛斩获省级一等奖. 2026-10-15. 南大创函〔2026〕2号--关于公布南昌大学大学生创新大赛（2026）获奖作品结果的通知. 南大创函 ...",
+          "source": "scjypt.ncu.edu.cn"
+        },
+        {
+          "title": "南大创函〔2026〕1号-关于举办南昌大学大学生创新大赛（2026）的通知",
+          "url": "https://jxmu.ncu.edu.cn/article.jsp?urltype=news.NewsContentUrl&wbtreeid=1471&wbnewsid=18911",
+          "snippet": "本次大赛在南昌大学创新创业教育改革工作领导小组的领导下开展，由创新创业学院、教务处联合主办。 大赛设立校级组织委员会（简称 ...",
+          "source": "jxmu.ncu.edu.cn"
+        },
+        {
+          "title": "南昌大学部门函件",
+          "url": "https://jwc.ncu.edu.cn/__local/C/30/BA/8B0373687DF44B473D4C76B9A0A_A1A1AF12_2BA0C.pdf?e=.pdf",
+          "snippet": "学分认定：根据《南昌大学学生成绩评定及管理办法》予. 以认定。 2 ... 根据《南昌大学大学生学科竞赛管理办法(修订)通知》（南. 大教函〔2019〕 ...",
+          "source": "jwc.ncu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 6.328,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 6.328
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:53:52.765Z",
+    "durationSeconds": 6.331
+  }
+}

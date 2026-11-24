@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中国地质大学(武汉) 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中国地质大学(武汉) 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "自动化学院关于开展2023-2024学年校友奖学金（创新创业类）评选工作 ...",
+          "url": "https://au.cug.edu.cn/info/1096/9041.htm",
+          "snippet": "为做好奖学金评选工作，根据《中国地质大学（武汉）本科生奖励资助管理办法》和研究生奖助学金管理的有关规定，特制定本奖学金评选办法。",
+          "source": "au.cug.edu.cn"
+        },
+        {
+          "title": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的 ...",
+          "url": "https://jgxy.cug.edu.cn/info/1133/10732.htm",
+          "snippet": "根据上一年度各项竞赛的发生情况及相关政策，经意见征集和研究论证，学院对学生竞赛项目级别认定一览表中部分竞赛作如下调整：. 中国国际“互联网+”大学生 ...",
+          "source": "jgxy.cug.edu.cn"
+        },
+        {
+          "title": "中国地质大学（北京）大学生学科竞赛认定目录（2023版） - 教务处",
+          "url": "https://jwc.cugb.edu.cn/c/2023-09-06/786205.shtml",
+          "snippet": "一、认定基本原则. A类：中国国际“互联网+”大学生创新创业大赛. B类：“挑战杯”全国大学生课外学术科技作品竞赛、“挑战杯”中国大学生创业计划竞赛 · 二、 ...",
+          "source": "jwc.cugb.edu.cn"
+        },
+        {
+          "title": "关于印发《武汉科技大学学生学科和科技竞赛管理办法（修订）》的通知",
+          "url": "https://cxcy.wust.edu.cn/__local/D/54/93/E305FA682197AE46BE9B12751AB_36D0FB39_5C9E9.pdf",
+          "snippet": "第十九条获得A类和B类竞赛奖项的学生，依据学校相关规定，. 在评先评优和总结表彰中，给予奖励和表彰；并纳入推荐优秀应届. 本科毕业生免试就读硕士研究生 ...",
+          "source": "cxcy.wust.edu.cn"
+        },
+        {
+          "title": "【学科竞赛】关于开展中国地质大学（武汉） 第十五届“挑战杯”课外学术 ...",
+          "url": "https://lsgxy.cug.edu.cn/info/1028/3926.htm",
+          "snippet": "... 竞赛哲学社会科学类参赛指引》）. 3.科技发明制作类分为A、B两类：A类指科技含量较高、制作投入较大的作品；B类指投入较少，且为生产技术或社会生活带 ...",
+          "source": "lsgxy.cug.edu.cn"
+        },
+        {
+          "title": "竞赛",
+          "url": "https://bksy.cug.edu.cn/xs1/tzgg2/js/8.htm",
+          "snippet": "2023年中国地质大学（武汉）数学竞赛暨全国大学生数学竞赛选拔赛报名通知. 2023-05-19. 关于表彰2022年学科竞赛表现突出个人的决定. 2023-05-16. 关于举办2023年中国大学生 ...",
+          "source": "bksy.cug.edu.cn"
+        },
+        {
+          "title": "武汉工程大学学科竞赛管理办法",
+          "url": "https://jwc.wit.edu.cn/info/3131/13711.htm",
+          "snippet": "A类：国际性学科竞赛与国家级重要大赛。 … B类：一般性全国大赛和省级政府及其各厅、局、委主办的重大比赛。 … 参加的各类学科竞赛。 … 负责收集发布竞赛信息，遴选申报竞赛 ...",
+          "source": "jwc.wit.edu.cn"
+        },
+        {
+          "title": "中国地质大学（北京）大学生学科竞赛认定目录（2023版） - 北地公告",
+          "url": "https://bjcugb.com/forum.php?mod=viewthread&tid=10352",
+          "snippet": "A类：中国国际“互联网+”大学生创新创业大赛. B类：“挑战杯”全国大学生课外学术科技作品竞赛、“挑战杯”中国大学生创业计划竞赛. C类：纳入中国高等教育 ...",
+          "source": "bjcugb.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.341,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.341
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:54:49.822Z",
+    "durationSeconds": 4.344
+  }
+}

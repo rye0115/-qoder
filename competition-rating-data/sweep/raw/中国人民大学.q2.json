@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中国人民大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中国人民大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "学科竞赛",
+          "url": "http://jiaowu.ruc.edu.cn/xsym/kysjxs/xkjsky/index1.htm",
+          "snippet": "学科竞赛 24 2022-10 … 电话：62515217、6251 … 电话：400-0123-517 邮箱：zsb@ruc.edu.cn",
+          "source": "jiaowu.ruc.edu.cn"
+        },
+        {
+          "title": "学科竞赛",
+          "url": "http://jiaowu.ruc.edu.cn/xsym/kysjxs/xkjsky/index.htm",
+          "snippet": "学科竞赛- 中国人民大学本科生 … 学科竞赛 28 2023-12 … 电话：62515217 … 电话：400-0123-517 邮箱：zsb@ruc.edu.cn",
+          "source": "jiaowu.ruc.edu.cn"
+        },
+        {
+          "title": "通知公告- 中国人民大学本科生院",
+          "url": "http://jiaowu.ruc.edu.cn/xsym/kysjxs/index.htm",
+          "snippet": "通知公告- 中国人民大学本科 … 学科竞赛 10 2026-10 … 电话：62515217、62511276 邮箱：bksy@ruc. … 电话：400-0123-517 邮箱：zsb@ruc.edu.cn",
+          "source": "jiaowu.ruc.edu.cn"
+        },
+        {
+          "title": "关于开展大学生创新实验计划和本科生科研基金2023年项目结项评审 ...",
+          "url": "http://jiaowu.ruc.edu.cn/xsym/kysjxs/tzggky/28911083149a441791eb5ac8c9fede6e.htm",
+          "snippet": "大创项目和科研基金项目评审结果分为“优秀”、“良好”、“合格”和“不合格”四个等级。凡“不合格”的项目，学校将在一定范围内予以通报，取消相关政策支持。 五 ...",
+          "source": "jiaowu.ruc.edu.cn"
+        },
+        {
+          "title": "关于2025秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/19615.html",
+          "snippet": "一、竞赛成果申报 · 1. 系统开放时间：2025年11月14日-2025年11月26日 · 2. 认定细则：自2024春季学期开始，自由选修学分中，大研、大创等“项目制活动”有效 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "对学科竞赛进行等级认定，是评价竞赛活动效果的方法，也是制定竞赛经费预算、对获奖学生和指导教师成果认定，以及教学评奖评优和制定激励政策的基本依据",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "转发中国统计教育学会关于举办2023年（第九届）全国大学生 ...",
+          "url": "http://jiaowu.ruc.edu.cn/xsym/kysjxs/xkjsky/93d7509f811b4b48a33ccfbf72c31efc.htm",
+          "snippet": "中国人民大学本科生院 … 如有校级报名相关问题， … 电话：62515217、62511276 … 电话：400-0123-517 邮箱：zsb@ruc.edu.cn",
+          "source": "jiaowu.ruc.edu.cn"
+        },
+        {
+          "title": "正大杯”第十二届全国大学生市场调查与分析大赛开始报名啦~ - 新闻中心",
+          "url": "http://www.china-cssc.org/show-246-802-1.html",
+          "snippet": "本次大赛设知识赛和实践赛两个竞赛环节。其中知识赛为个人赛，采取在线网考方式，地点为报名所在院校；实践赛为团体赛形式，分为分区赛和全国总决赛(海峡两岸暨港澳大学生 ...",
+          "source": "www.china-cssc.org"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.841,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.841
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:43:28.551Z",
+    "durationSeconds": 4.844
+  }
+}

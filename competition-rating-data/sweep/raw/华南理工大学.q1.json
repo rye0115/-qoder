@@ -1,0 +1,97 @@
+{
+  "mode": "search",
+  "query": "华南理工大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"华南理工大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "学科竞赛等级分类示例",
+          "url": "https://jwc.shnu.edu.cn/92/2f/c17086a430639/page.htm",
+          "snippet": "",
+          "source": "jwc.shnu.edu.cn",
+          "published_at": "2016-04-21T00:00:00"
+        },
+        {
+          "title": "全国大学生学科竞赛分类名单一览_学术活动_汉口...",
+          "url": "https://jsj.hkxy.edu.cn/2021_01/10_10/content-14753.html",
+          "snippet": "下一篇：关于举办第五届“蓝桥杯”全国软件和信息技术专业人才大赛校内选拔赛（软件类）的通知",
+          "source": "jsj.hkxy.edu.cn"
+        },
+        {
+          "title": "以“素质发展学分与第二成绩单”为抓手， ...",
+          "url": "https://jwc.hhu.edu.cn/_upload/article/files/4f/b6/d0c079ac4a69b434af7b3be8b490/79e16795-02c6-4a9c-b701-cccd5cc5e523.pdf",
+          "snippet": "– 专利授权：专利名称、专利类型、授权号、个人排名、时间；",
+          "source": "jwc.hhu.edu.cn"
+        },
+        {
+          "title": "【通知】关于进一步规范和加强本科生学科竞赛组...",
+          "url": "https://jiaowu.sdau.edu.cn/_t47/2024/0514/c403a236818/page.htm",
+          "snippet": "大学生学科竞赛是以学科专业为依托开展的学业成果竞技展评活动，是培养大学生创新意识、创新精神和创业实践能力的有效载体，为推进学科竞赛成绩实现新突破，现就进一步规范和加强本科生学科竞赛管理工作有关事...",
+          "source": "jiaowu.sdau.edu.cn",
+          "published_at": "2024-05-14T00:00:00"
+        },
+        {
+          "title": "广州华立学院学科竞赛管理办法_规章制度_教务处",
+          "url": "https://www.hualixy.edu.cn/jwc/gzzd/content_62352",
+          "snippet": "B2 类：各司局级、厅级政府机构组织的学科竞赛、省级教学指导委员会、 国家级学会、协会主办的学科竞赛，以及列入当年《全国普通高校大学生竞赛分析报告》观察目录的学科竞赛。 · C 类竞赛为其他有一定影响力的由政府部门、省级协会、学会主办的学科竞赛，或由学校批准组织的校级学科竞赛。 · 第六条 学校对学科竞赛进行分级分类管理，编制《广州华立学院大学生学科竞赛分级分类目录》 （见附件 1） 。学科竞赛分级分类目录实行动态调整， 由学校定期认定发布。",
+          "source": "www.hualixy.edu.cn",
+          "published_at": "2022-11-17T11:40:00"
+        },
+        {
+          "title": "華南理工大学",
+          "url": "https://www2.scut.edu.cn/_upload/article/files/ea/5d/4283777d402dac0f1ecb3aa602fa/01bca2fd-159a-470d-8baf-f01c93003c7d.pdf",
+          "snippet": "",
+          "source": "www2.scut.edu.cn"
+        },
+        {
+          "title": "《哈尔滨理工大学本科生研究性学习与学科竞赛管...",
+          "url": "https://xxgk.hrbust.edu.cn/info/1072/2422.htm",
+          "snippet": "当前位置： 首页>>公开清单列表>>基本信息>>学校章程及制定的各项规章制度>>正文 · 第一条 研究性学习与学科竞赛分类",
+          "source": "xxgk.hrbust.edu.cn",
+          "published_at": "2023-10-26T00:00:00"
+        },
+        {
+          "title": "序号 学科竞赛名称 备注 备注 1 中国国际“互联...",
+          "url": "https://finance.hutb.edu.cn/upload/history/u/cms/czjr/202508/23155309z6ry.pdf",
+          "snippet": "中国国际“互联网+”大学生创新创业大赛（2024年更名为：中国国际大学生创新大赛） · “挑战杯”全国大学生课外学术科技作品竞赛",
+          "source": "finance.hutb.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/jczd1k7bvh94\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53926,\"signup_url\":\"https://firecrawl.dev/k/jczd1k7bvh94\"} | keenable: keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/jczd1k7bvh94\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53926,\"signup_url\":\"https://firecrawl.dev/k/jczd1k7bvh94\"}",
+          "durationSeconds": 1.477
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+          "durationSeconds": 10.145
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.812
+        }
+      ],
+      "durationSeconds": 1.812
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:56:06.653Z",
+    "durationSeconds": 13.437
+  }
+}

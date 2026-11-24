@@ -1,0 +1,96 @@
+{
+  "mode": "search",
+  "query": "东北大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"东北大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "东北石油大学本科生学科竞赛管理办法（2020年修...",
+          "url": "https://jwc.nepu.edu.cn/info/1104/6084.htm",
+          "snippet": "为适应高等教育改革发展需要，进一步加强我校本科生学科竞赛管理规范，鼓励全校师生积极参与学科竞赛，提高学科竞赛水平，特修订本办法。 · 一、学科竞赛等级分类",
+          "source": "jwc.nepu.edu.cn"
+        },
+        {
+          "title": "东北师范大学本科生学科竞赛管理办法 - 教务处",
+          "url": "https://jwc.nenu.edu.cn/info/2494/6818.htm",
+          "snippet": "This is my page",
+          "source": "jwc.nenu.edu.cn"
+        },
+        {
+          "title": "东北大学学生课外学术科技竞赛管理办法",
+          "url": "http://www.cse.neu.edu.cn/2010/0518/c6353a159554/page.htm",
+          "snippet": "第一章 总则 第一条 学生课外学术科技竞赛是学校素质教育的重要组成部分，是推动学校教育教学改革，培养学生创新精神、实践能力和理论联系实际学风的重要环节，是展示学生综合素质、学校教学水平和教学改革成果的窗口。为了鼓励广大师生参加竞赛工作，提高我校学生的科技竞赛水平，促进学生科技创新能力的不断提高，结合学校有关规定，制定本办法。 第二条 本管理办法所规定的学生课外学术科技竞赛，是指具有东北大学全日制在校本科生、研究生参加由权威机构组织的、经我校认定有参加价值且有必要由学校统一组织的国际级、国家级、省级、校级的学术科技竞赛。",
+          "source": "www.cse.neu.edu.cn"
+        },
+        {
+          "title": "东北大学学科评估结果 - 圆梦小灯塔",
+          "url": "https://www.6617.com/yuanxiao/xueke_314.html",
+          "snippet": "摘要： 根据教育部全国第四轮学科评估结果可知，东北大学学科评估结果共有A、B、C三类专业的评级排名。这些上榜学科均属于东北大学的优势学科，实力强盛。（教育部暂未公布第五轮学科评估结果名单）",
+          "source": "www.6617.com"
+        },
+        {
+          "title": "学科竞赛等级分类示例",
+          "url": "https://jwc.shnu.edu.cn/92/2f/c17086a430639/page.htm",
+          "snippet": "",
+          "source": "jwc.shnu.edu.cn",
+          "published_at": "2016-04-21T00:00:00"
+        },
+        {
+          "title": "东北大学学科评估结果排名_大学生必备网",
+          "url": "https://www.dxsbb.com/news/71258.html",
+          "snippet": "C类：40%～50%为C+，50%～60%为C，60%～70%为C-。 · 东北大学第二轮双一流建设学科：冶金工程、控制科学与工程",
+          "source": "www.dxsbb.com",
+          "published_at": "2026-05-19T00:00:00"
+        },
+        {
+          "title": "东北大学A+类学科名单有哪些（含A、B、C类）_大学...",
+          "url": "https://www.dxsbb.com/news/89251.html",
+          "snippet": "东北大学（Northeastern University），坐落于辽宁省沈阳市，是中华人民共和国教育部直属的全国重点大学，由教育部、辽宁省、沈阳市三方重点共建，是国家“双一流”建设高校， 国家首批“211工程”和“985工程”重点建设高校，教育部确定的首批12个未来技术学院建设高校，入选的国家级科教类项目有“强基计划 ”、“2011计划”、“111计划”、卓越工程师教育培养计划、国家级新工科研究与实践项目、国家建设高水平大学公派研究生项目、中国政府奖",
+          "source": "www.dxsbb.com",
+          "published_at": "2026-05-17T00:00:00"
+        },
+        {
+          "title": "东北林业大学土木工程学院本科生学科竞赛管理...",
+          "url": "https://civil.nefu.edu.cn/info/2400/2542.htm",
+          "snippet": "土木工程系交通土建方向-道路 · 土木工程系交通土建方向-桥梁",
+          "source": "civil.nefu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/4fbg2cdqe0rh for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/4fbg2cdqe0rh\"}) | keenable: keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/4fbg2cdqe0rh for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/4fbg2cdqe0rh\"})",
+          "durationSeconds": 1.422
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+          "durationSeconds": 10.24
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.999
+        }
+      ],
+      "durationSeconds": 1.999
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:48:37.349Z",
+    "durationSeconds": 13.664
+  }
+}

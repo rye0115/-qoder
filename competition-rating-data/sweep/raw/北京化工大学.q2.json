@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京化工大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京化工大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "关于B类和C类学科竞赛等级认定的公示 发布时间：2024-04-10 … 联系人：周秋霜，电话：0371-61912758。",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "通知公告 - 信息科学与技术学院",
+          "url": "https://cist.buct.edu.cn/983/listm5.htm",
+          "snippet": "通知公告 · 1 关于参加2016年全国大学生西门子杯工业自动化挑战赛的通知 · 2 关于组织参加第七届蓝桥杯全国软件和信息技术专业人才大赛通知 · 3 北京化工大学关于开展2015年 ...",
+          "source": "cist.buct.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "北京大学生数学竞赛. 本科生. 北京市数学会. 97. 省部级B类. 北京市大学生物理实验竞赛 ... 全国大学生化工实验大赛华北赛区. 本科生. 教育部高等学校化工类专业教学指导 ...",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "关于新增本科生科技竞赛项目认定的通知",
+          "url": "https://undergrad.bjut.edu.cn/info/1230/3786.htm",
+          "snippet": "根据《北京工业大学本科生科技竞赛管理办法》，经竞赛负责人申请和专家评议，现将以下两项竞赛项目纳入《北京工业大学本科生科技竞赛认定目录（2025 ...",
+          "source": "undergrad.bjut.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/20690.html",
+          "snippet": "下拉，从竞赛目录内选择。如选择“其他”，可以填报非目录竞赛获奖，但无法认定成绩和学分。 · 请按以下规格填写：竞赛届数+竞赛名称+竞赛等级+赛道，例如： ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "根据《北京信息科技大学大学生学科竞赛管理办法》（校教",
+          "url": "https://jxgl.bistu.edu.cn/docs/2025-04/45952637ff4d451bbc4c1175796e382f.pdf",
+          "snippet": "... 竞赛认定名单调整工作的. 通知》要求，学校组织开展了北京信息科技大学学科竞赛的认定. 工作。在学院提出申请、教务处汇总信息的基础上，2022 年1. 月11 日，北京信息科技 ...",
+          "source": "jxgl.bistu.edu.cn"
+        },
+        {
+          "title": "关于举办第十六届北京市大学生化学实验竞赛的通知",
+          "url": "https://jw.beijing.gov.cn/gjc/tzgg_15688/202504/t20250416_4066269.html",
+          "snippet": "请在2025年9月30日前将第十六届北京市大学生化学实验竞赛学校联系人及预报名表(详见附件2)发送至电子邮箱：bjsdxshxsyjs2025@163.com。初赛及复赛时间另行 ...",
+          "source": "jw.beijing.gov.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.393,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.393
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:44:11.800Z",
+    "durationSeconds": 3.396
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "江南大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"江南大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "江南大学无锡医学院大学生学科竞赛管理办法",
+          "url": "https://wxms.jiangnan.edu.cn/info/1023/2496.htm",
+          "snippet": "为：A类(含1级、2级、3级)、B类(含1级、2级)、C类(含1级、2级)等三类。具体分类分级详见年度江南大学学科竞赛目录。",
+          "source": "wxms.jiangnan.edu.cn"
+        },
+        {
+          "title": "江南大学校长办公室文件江大校办（2020）30号关于印发 ...",
+          "url": "https://slshe.jiangnan.edu.cn/info/1219/5001.htm",
+          "snippet": "第五条根据学科竞赛的主办单位、举办规模、知名度和影响力等因素，学校对学科竞赛进行分类、分级管理。具体分为：A类（含1级、2级）、B类（含1级、2级）和 ...",
+          "source": "slshe.jiangnan.edu.cn"
+        },
+        {
+          "title": "关于开展2024年江南大学学科竞赛获奖统计工作的通知",
+          "url": "https://foodsci.jiangnan.edu.cn/info/1107/17829.htm",
+          "snippet": "请学院师生填报《2024年江南大学A类、B类学科竞赛获奖统计表》（附件），包括竞赛名称、竞赛信息、获奖类别、获奖等级、获奖师生信息等。",
+          "source": "foodsci.jiangnan.edu.cn"
+        },
+        {
+          "title": "江南大学大学生学科竞赛目录（2026年认定）",
+          "url": "https://www.scribd.com/document/1018678362/%E6%B1%9F%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%9B%AE%E5%BD%95-2026%E5%B9%B4%E8%AE%A4%E5%AE%9A-1",
+          "snippet": "该文档列出了江南大学在2026年认定的大学生学科竞赛目录，包括竞赛名称、主办单位和竞赛类别。竞赛分为多个类别，涵盖创新、科技、艺术、设计等领域，旨在促进学生的 ...",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "北方工业大学学科竞赛管理实施办法",
+          "url": "https://yjsy.ncut.edu.cn/20190527yjsjs.PDF",
+          "snippet": "（二）省部级A 类学科竞赛：指省（直辖市、自治区）级政. 府及其直属机构，或省（直辖市、自治区）级学会等重要学术团. 体主办并具有较大社会影响力的学科竞赛，以及国家级 ...",
+          "source": "yjsy.ncut.edu.cn"
+        },
+        {
+          "title": "学科竞赛",
+          "url": "https://jwc.jiangnan.edu.cn/sjjx/xkjs.htm",
+          "snippet": "教务管理 · 通知公告 · 考试安排 · 违纪通告 · 推免工作 · 等级考试 · 学籍管理 · 教学建设 · 教学改革 · 专业建设 · 课程建设 · 教材建设 · 教学成果 · 实践教学 · 毕业 ...",
+          "source": "jwc.jiangnan.edu.cn"
+        },
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "江南大学大学生学科竞赛目录（2024年认定）",
+          "url": "https://sodcn.jiangnan.edu.cn/info/1018/7217.htm",
+          "snippet": "附件【江南大学大学生学科竞赛目录（2024年认定）.pdf】已下载次. 教育版块EDUCATION. 学科专业 · 本科生教育 · 研究生教育 · 国际交流. Events展览讲座.",
+          "source": "sodcn.jiangnan.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.168,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.168
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:51:51.391Z",
+    "durationSeconds": 3.171
+  }
+}

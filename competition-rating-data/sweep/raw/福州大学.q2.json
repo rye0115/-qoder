@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "福州大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"福州大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛级别认定结果的通知",
+          "url": "https://zjxy.fzu.edu.cn/info/1077/7213.htm",
+          "snippet": "校教（2026）9号各学院、各单位：根据学科竞赛级别认定工作安排，经各学院申报、学校审批，现将大学生学科竞赛级别认定结果予以公布（详见附件）。",
+          "source": "zjxy.fzu.edu.cn"
+        },
+        {
+          "title": "关于做好大学生学科竞赛项目级别认定工作的通知 - 信息公开- 福州大学",
+          "url": "https://xwgk.fzu.edu.cn/info/1014/4666.htm",
+          "snippet": "1.各申请单位应依照本通知要求确定相关学科竞赛活动申报级别，认真填写《福州大学大学生学科竞赛级别认定申请表》，描述竞赛信息和我校近年参赛情况，以及 ...",
+          "source": "xwgk.fzu.edu.cn"
+        },
+        {
+          "title": "实践科",
+          "url": "https://jwch.fzu.edu.cn/jxtz/sjk/48.htm",
+          "snippet": "关于公布大学生学科竞赛级别认定结果的通知 2026-03-06 【实践科 … 关于做好大学生学科竞赛项目认定工作的通知 2025-10-24",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于大学生学科竞赛项目级别认定结果的公示",
+          "url": "https://bio.fzu.edu.cn/info/1064/3840.htm",
+          "snippet": "关于大学生学科竞赛项目级别认定结果的公示. 发布日期：2021-05-31. 各学院、各单位：. 根据《关于做好大学生学科竞赛项目认定工作的通知》（校教〔2020〕37号）公布的 ...",
+          "source": "bio.fzu.edu.cn"
+        },
+        {
+          "title": "附件1：福州大学大学生学科竞赛级别直接认定项目汇总表（2022年1月版）",
+          "url": "https://www.scribd.com/document/824849151/%E9%99%84%E4%BB%B61-%E7%A6%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%BA%A7%E5%88%AB%E7%9B%B4%E6%8E%A5%E8%AE%A4%E5%AE%9A%E9%A1%B9%E7%9B%AE%E6%B1%87%E6%80%BB%E8%A1%A8-2022%E5%B9%B41%E6%9C%88%E7%89%88-1",
+          "snippet": "福州大学大学生学科竞赛级别直接认定项目一览表（2022 年1 月版）. 序号竞赛名称主办单位竞赛时间涉及专业认定依据认定级别. 区域赛每年9-12. ACM 国际大学生程序设计 ...",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "转发《福州大学至诚学院学生文化科技创新竞赛等级分类一览表 ...",
+          "url": "https://www.fdzcxy.edu.cn/2023/1221/c532a97157/page.htm",
+          "snippet": "《福州大学至诚学院学生文化科技创新竞赛等级分类 … 联系人：吴老师 联系方式：0591-83728193",
+          "source": "www.fdzcxy.edu.cn"
+        },
+        {
+          "title": "福州大学2026年第十八届“电工杯”数模竞赛暨“高教社杯”国赛选拔赛",
+          "url": "https://www.saikr.com/vse/2025MCIM",
+          "snippet": "本次校赛将与第十七届“中国电机工程学会杯”全国大学生电工数学建模竞赛同时段进行，现将有关事项通知如下。 一、参赛条件与报名方式. 1.参赛条件. （1）资格：我校在读全日 ...",
+          "source": "www.saikr.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.13,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.13
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:53:43.331Z",
+    "durationSeconds": 5.133
+  }
+}

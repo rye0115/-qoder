@@ -1,0 +1,727 @@
+{
+  "revision": "a4d58e457b075cbd7496e69d1fc4fa82c9ed1751",
+  "basis": "原版内置档案与 2026 年 11 月口径。模拟外部搜索服务不可用，以固定档案做回归对照。联网检索与动态新增证据另行实测。",
+  "inputs": [
+    {
+      "file": "admission-engineering.json",
+      "sha256": "c55df0f147b14a4844bff31caf212498b0651594d60e167e62789275148a999a"
+    },
+    {
+      "file": "admission-science.json",
+      "sha256": "405e5146c23694b5f80800ec803ebc482a7d4c9ca11492c1fede86d32ff316af"
+    },
+    {
+      "file": "catalog.json",
+      "sha256": "db7d85d31549d6f21879acb3c5744b12791c0290b146ed688b199bcf8852d042"
+    },
+    {
+      "file": "competition-evidence.json",
+      "sha256": "80f7cabeb31dc9717c280b527a411c22d337ca7284ef8ce2da1a0993db353a3d"
+    },
+    {
+      "file": "employment-data.json",
+      "sha256": "b8c1129e2401548c60d8d8a9a0ac0eed91e1176140fbb601a32b52443cf6ee3d"
+    },
+    {
+      "file": "participation.json",
+      "sha256": "29f81147d6cc3a082e7aa7fe8e8bf147a80bcd5a92647e450fa4731c109e8f5f"
+    }
+  ],
+  "rubric": [
+    {
+      "id": "task",
+      "name": "任务挑战",
+      "weight": 25,
+      "levels": [
+        "有明确的任务和交付物",
+        "需要独立完成专业解题或技术实现",
+        "还要展示实物、验证结果或答辩论证"
+      ]
+    },
+    {
+      "id": "review",
+      "name": "评审与复核",
+      "weight": 20,
+      "levels": [
+        "公开计分依据",
+        "有明确的专家评审或系统测试",
+        "另有实质复测、复议或答辩环节"
+      ]
+    },
+    {
+      "id": "selection",
+      "name": "选拔强度",
+      "weight": 15,
+      "levels": [
+        "按成绩排名",
+        "通过资格赛或分阶段选拔",
+        "同届同口径全国晋级或获奖比例有不超过 10% 的明确上限或实绩"
+      ]
+    },
+    {
+      "id": "disclosure",
+      "name": "结果透明",
+      "weight": 10,
+      "levels": [
+        "可追溯到规则或结果",
+        "规则和对应结果或统计均可查",
+        "另有明文异议渠道和期限"
+      ]
+    },
+    {
+      "id": "employment",
+      "name": "就业帮助",
+      "weight": 15
+    },
+    {
+      "id": "admission",
+      "name": "保研帮助",
+      "weight": 15
+    }
+  ],
+  "ratings": [
+    {
+      "event": "nuedc",
+      "name": "全国大学生电子设计竞赛",
+      "score": 87.8,
+      "coverage": 100,
+      "range": [
+        87.8,
+        87.8
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 100
+        },
+        {
+          "id": "disclosure",
+          "score": 100
+        },
+        {
+          "id": "employment",
+          "score": 44
+        },
+        {
+          "id": "admission",
+          "score": 74.4
+        }
+      ]
+    },
+    {
+      "event": "software",
+      "name": "中国软件杯",
+      "score": 84.2,
+      "coverage": 100,
+      "range": [
+        84.2,
+        84.2
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 100
+        },
+        {
+          "id": "disclosure",
+          "score": 66.7
+        },
+        {
+          "id": "employment",
+          "score": 47
+        },
+        {
+          "id": "admission",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "event": "computer",
+      "name": "中国大学生计算机设计大赛",
+      "score": 83.6,
+      "coverage": 100,
+      "range": [
+        83.6,
+        83.6
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 100
+        },
+        {
+          "id": "employment",
+          "score": 52
+        },
+        {
+          "id": "admission",
+          "score": 71.7
+        }
+      ]
+    },
+    {
+      "event": "cumcm",
+      "name": "全国大学生数学建模竞赛",
+      "score": 83.4,
+      "coverage": 100,
+      "range": [
+        83.4,
+        83.4
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 100
+        },
+        {
+          "id": "employment",
+          "score": 47
+        },
+        {
+          "id": "admission",
+          "score": 75.8
+        }
+      ]
+    },
+    {
+      "event": "sanchuang",
+      "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "score": 80.4,
+      "coverage": 100,
+      "range": [
+        80.4,
+        80.4
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 66.7
+        },
+        {
+          "id": "employment",
+          "score": 52
+        },
+        {
+          "id": "admission",
+          "score": 72.9
+        }
+      ]
+    },
+    {
+      "event": "robomaster",
+      "name": "RoboMaster 机甲大师赛",
+      "score": 78.8,
+      "coverage": 100,
+      "range": [
+        78.8,
+        78.8
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 100
+        },
+        {
+          "id": "review",
+          "score": 100
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 66.7
+        },
+        {
+          "id": "employment",
+          "score": 44
+        },
+        {
+          "id": "admission",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "event": "lanqiao",
+      "name": "蓝桥杯",
+      "score": 67.1,
+      "coverage": 100,
+      "range": [
+        67.1,
+        67.1
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 66.7
+        },
+        {
+          "id": "review",
+          "score": 66.7
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 100
+        },
+        {
+          "id": "employment",
+          "score": 42
+        },
+        {
+          "id": "admission",
+          "score": 71.7
+        }
+      ]
+    },
+    {
+      "event": "mati",
+      "name": "码蹄杯",
+      "score": null,
+      "coverage": 85,
+      "range": [
+        50.4,
+        65.4
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 66.7
+        },
+        {
+          "id": "review",
+          "score": 66.7
+        },
+        {
+          "id": "selection",
+          "score": 66.7
+        },
+        {
+          "id": "disclosure",
+          "score": 33.3
+        },
+        {
+          "id": "employment",
+          "score": 47
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    },
+    {
+      "event": "leetcode",
+      "name": "LeetCode 周赛",
+      "score": null,
+      "coverage": 85,
+      "range": [
+        47.2,
+        62.2
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": 66.7
+        },
+        {
+          "id": "review",
+          "score": 66.7
+        },
+        {
+          "id": "selection",
+          "score": 33.3
+        },
+        {
+          "id": "disclosure",
+          "score": 66.7
+        },
+        {
+          "id": "employment",
+          "score": 37
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    },
+    {
+      "event": "robocon",
+      "name": "ROBOCON 机器人赛事",
+      "score": null,
+      "coverage": 30,
+      "range": [
+        16.1,
+        86.1
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": 37
+        },
+        {
+          "id": "admission",
+          "score": 70
+        }
+      ]
+    },
+    {
+      "event": "icpc",
+      "name": "ICPC 国际大学生程序设计竞赛",
+      "score": null,
+      "coverage": 15,
+      "range": [
+        10.8,
+        95.8
+      ],
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": null
+        },
+        {
+          "id": "admission",
+          "score": 71.7
+        }
+      ]
+    },
+    {
+      "event": "tianchi",
+      "name": "天池平台赛事",
+      "score": null,
+      "coverage": 0,
+      "range": null,
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": null
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    },
+    {
+      "event": "graduateElectronics",
+      "name": "中国研究生电子设计竞赛",
+      "score": null,
+      "coverage": 0,
+      "range": null,
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": null
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    },
+    {
+      "event": "graduateMath",
+      "name": "中国研究生数学建模竞赛",
+      "score": null,
+      "coverage": 0,
+      "range": null,
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": null
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    },
+    {
+      "event": "kaggle",
+      "name": "Kaggle 平台赛事",
+      "score": null,
+      "coverage": 0,
+      "range": null,
+      "dimensions": [
+        {
+          "id": "task",
+          "score": null
+        },
+        {
+          "id": "review",
+          "score": null
+        },
+        {
+          "id": "selection",
+          "score": null
+        },
+        {
+          "id": "disclosure",
+          "score": null
+        },
+        {
+          "id": "employment",
+          "score": null
+        },
+        {
+          "id": "admission",
+          "score": null
+        }
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "path": "/api/recommend",
+      "body": {
+        "need": "云南民族大学数学与计算机科学学院，2027届想保研，目标国一，团队第二。"
+      },
+      "expected": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 89.6,
+        "base": 87.8,
+        "target": 79.2
+      }
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "need": "云南民族大学数学与计算机科学学院，2027届想保研，目标国一，团队第二。",
+        "place": "1"
+      },
+      "expected": {
+        "event": "nuedc",
+        "rank": 1,
+        "score": 96,
+        "base": 87.8,
+        "target": 92
+      }
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "eventYear": "2027",
+        "maxHours": "3"
+      },
+      "expected": {
+        "event": "lanqiao",
+        "rank": null,
+        "score": null,
+        "base": 67.1,
+        "fit": "conflict"
+      }
+    },
+    {
+      "path": "/api/recommend",
+      "body": {
+        "eventYear": "2027",
+        "maxHours": "4"
+      },
+      "expected": {
+        "event": "lanqiao",
+        "rank": 1,
+        "base": 67.1,
+        "fit": "eligible"
+      }
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "全国大学生数学建模竞赛",
+        "employer": "腾讯",
+        "job": "后端"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "outcome",
+          "value": 1,
+          "unit": "个签约或入职案例",
+          "range": null
+        },
+        "confidence": 31,
+        "independent": 1
+      }
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "全国大学生数学建模竞赛",
+        "employer": "腾讯",
+        "job": "视觉设计"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "none",
+          "value": 0,
+          "unit": "条适用证据",
+          "range": null
+        },
+        "confidence": 0,
+        "independent": 0
+      }
+    },
+    {
+      "path": "/api/research",
+      "body": {
+        "track": "employment",
+        "event": "ICPC",
+        "employer": "华为"
+      },
+      "expected": {
+        "policyScore": null,
+        "measurement": {
+          "kind": "community",
+          "value": 1,
+          "unit": "条已收录自述",
+          "range": null
+        },
+        "confidence": 5,
+        "independent": 1
+      }
+    }
+  ]
+}

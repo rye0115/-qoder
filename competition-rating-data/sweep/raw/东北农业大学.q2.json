@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "东北农业大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"东北农业大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "2026年全国大学生数学建模竞赛东北农业大学获奖结果公示",
+          "url": "https://www.neau.edu.cn/info/1039/38716.htm",
+          "snippet": "2026年全国大学生数学建模竞赛于9月10日18时至9月13日20时举行，经全国大学生数学建模竞赛组委会和黑龙江赛区组委会评阅，东北农业大学获得国家二等 ...",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "第十七届全国大学生市场调查与分析大赛报名通知",
+          "url": "https://www.neau.edu.cn/info/1039/37991.htm",
+          "snippet": "报名截止日期 即日起至2026年10月26日24点。 … 可延到2026年11月10日。 … 六、赛事等级 我校认定该竞赛为C类竞赛。",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "关于举办“第八届东北农业大学大学生生命科学实验设计大赛”及参加“ ...",
+          "url": "https://www.neau.edu.cn/info/1039/37664.htm",
+          "snippet": "拟在2026年9月23日进行线上+线下培训，具体形式将在《第八届东北农业大学大学生生命科学实验设计大赛》通知群（QQ群号:1017868339）中通知。培训内容为 ...",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "中国农业大学学科竞赛级别认定（2026-2027年）. 序号. 竞赛级别. 竞赛名称. 类别 ... 中国农业大学大学生化学竞赛. 本科生. 中国农业大学. 139. 校级. 中国农业大学非数学 ...",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "2026年“百蝶杯”第十二届全国大学生物流仿真设计大赛 ...",
+          "url": "https://www.neau.edu.cn/info/1039/37732.htm",
+          "snippet": "报名材料请于2026年10月10日前发送至邮箱：529881164@qq.com。具体报名事项及赛事通知，请加入校赛QQ群：415352840。 根据省赛通知要求，所有参赛选手须于 ...",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "第十六届全国大学生市场调查与分析大赛东北农业大学获奖结果公示",
+          "url": "https://www.neau.edu.cn/info/1039/36298.htm",
+          "snippet": "近日，“正大杯”第十六届全国大学生市场调查与分析大赛结果正式公布。东北农业大学参赛团队表现突出，取得新突破，共计获得国家级三等奖12项、省级一等 ...",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "关于组织申报东北农业大学2026年大学生创新训练计划项目的通知",
+          "url": "https://www.neau.edu.cn/info/1039/33009.htm",
+          "snippet": "### [资源共享](https://www.neau.edu.cn/dddd/zygx.htm)\n#### 关于组织申报东北农业大学2026年大学生创新训练计划项目的通知\n学院通过中期考核对拟立项项目认定为A、B两个等级。",
+          "source": "www.neau.edu.cn"
+        },
+        {
+          "title": "荐关于举办第四届全国大学生职业规划大赛黑龙江赛区选拔赛暨 ...",
+          "url": "https://neau.bysjy.com.cn/detail/news?id=1849854&type_id=6522",
+          "snippet": "# 关于举办第四届全国大学生职业规划大赛黑龙江赛区选拔赛暨第十五届东北农业大学大学生职业规划大赛的通知\n校决赛每条赛道均设置一等奖、二等奖、三等奖、优秀指导教师奖。",
+          "source": "neau.bysjy.com.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.488,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.488
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:49:31.817Z",
+    "durationSeconds": 4.491
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "jingheng-competition-atlas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "竞衡 · 15 项赛事原版，部署到 Qoder Sites",
+  "scripts": {
+    "build": "node qoder-build.mjs",
+    "legacy:build": "node build.mjs",
+    "dev": "node dev-server.mjs",
+    "test": "node --test tests/ranking.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

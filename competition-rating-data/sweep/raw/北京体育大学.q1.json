@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京体育大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京体育大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "北京体育大学本科生学科竞赛管理办法",
+          "url": "https://jwc.bsu.edu.cn/docs/2025-12/4a0e98a48efd4837beed7daa99a39364.pdf",
+          "snippet": "第二章学科竞赛的分类与等级认定. 第三条竞赛的分类。本办法所指学科竞赛分为国家 ... 第十一条学生学科竞赛经费包括训练经费、比赛经费、. 奖励经费三类，实行分类管理。",
+          "source": "jwc.bsu.edu.cn"
+        },
+        {
+          "title": "防灾科技学院学科竞赛管理办法（修订）",
+          "url": "https://pjb.cidp.edu.cn/info/1085/1698.htm",
+          "snippet": "第九条按照高等教育学会发布的学科分类指导意见与学校的实际情况，依照竞赛规模、鼓励方向与重要程度将学科竞赛分为A类竞赛、B类竞赛与C类竞赛。A类竞赛 ...",
+          "source": "pjb.cidp.edu.cn"
+        },
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "根据我校“关于开展B类学科竞赛等级认定申报工作的通知”，经专家评审、综合审定等环节，现将郑州航院B类和C类学科竞赛竞赛项目评审结果予以公示，公示 ...",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "北方工业大学学科竞赛管理实施办法",
+          "url": "https://yjsy.ncut.edu.cn/20190527yjsjs.PDF",
+          "snippet": "（二）省部级A 类学科竞赛：指省（直辖市、自治区）级政. 府及其直属机构，或省（直辖市、自治区）级学会等重要学术团. 体主办并具有较大社会影响力的学科竞赛，以及国家级 ...",
+          "source": "yjsy.ncut.edu.cn"
+        },
+        {
+          "title": "本科生培养",
+          "url": "https://www.bsu.edu.cn/rcpy/index.htm",
+          "snippet": "截至目前，我校本科专业涵盖教育学、经济学、法学、文学、理学、工学、医学、管理学、艺术学9个学科门类16个专业类，共设置本科专业41个。 ... 体育协会管理（球迷管理方向） ...",
+          "source": "www.bsu.edu.cn"
+        },
+        {
+          "title": "北京交通大学本科生学科竞赛建设与管理办法",
+          "url": "https://mece.bjtu.edu.cn/cms/item/?cat=315",
+          "snippet": "北京交通大学 本科生学科竞赛建设与管理办法 为激发学生的创新思维，提高学生解决实际问题的能力， 活跃校园学术氛围，",
+          "source": "mece.bjtu.edu.cn"
+        },
+        {
+          "title": "根据《北京信息科技大学大学生学科竞赛管理办法》（校教",
+          "url": "https://jxgl.bistu.edu.cn/docs/2025-04/45952637ff4d451bbc4c1175796e382f.pdf",
+          "snippet": "竞赛最高级别. 竞赛类别. 01. 教务处. 中国国际“互联网+”大学生创新创业. 大赛. 国际级 ... B. 51 经济管理学院“尖烽时刻”全国商业模拟大赛. 国际级. B. 52 经济管理学院.",
+          "source": "jxgl.bistu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.615,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.615
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:45:50.591Z",
+    "durationSeconds": 3.618
+  }
+}

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>竞衡 · 赛事影响力量化台</title>
+  <meta name="description" content="用公开证据衡量赛事含金量：八个维度分别量化，给出升学与就业两条影响力指数，并保留证据链与不确定性。" />
+  <meta name="theme-color" content="#f5f1e8" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='4' fill='%231d1c18'/%3E%3Cpath d='M8 23V13h4v10zm6 0V9h4v14zm6 0V5h4v18z' fill='%23f5f1e8'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="./style.css" />
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-inner">
+      <a class="brand" href="#overview" data-view="overview">
+        <span class="brand-name">竞衡</span>
+        <span class="brand-sub">赛事影响力量化台</span>
+      </a>
+      <nav id="nav" aria-label="主导航">
+        <button type="button" data-view="overview" aria-current="page">研究</button>
+        <button type="button" data-view="board">榜单</button>
+        <button type="button" data-view="method">方法</button>
+      </nav>
+      <span class="mode" id="mode-chip">读取中</span>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="view-overview">
+      <div class="intro">
+        <p class="kicker">COMPETITION IMPACT INDEX</p>
+        <h1>一个奖项值多少，<br />取决于谁在用它。</h1>
+        <p class="lede">输入赛事，研究代理检索公开材料，按八个维度分别量化，输出升学与就业两条影响力指数。调低一个维度，总分就该下降；拿不出证据，就标为待核。</p>
+      </div>
+
+      <div class="workbench">
+        <aside class="panel form-panel">
+          <form id="research-form" novalidate>
+            <label class="field">赛事名称
+              <input id="f-name" name="name" list="archive-list" value="全国大学生数学建模竞赛" maxlength="80" autocomplete="off" required />
+              <datalist id="archive-list"></datalist>
+            </label>
+            <div class="row2">
+              <label class="field">年份
+                <input id="f-year" type="number" min="1990" max="2100" value="2025" />
+              </label>
+              <label class="field">组别
+                <select id="f-level">
+                  <option>本科</option>
+                  <option selected>本科 / 高职高专</option>
+                  <option>高职高专</option>
+                  <option>研究生</option>
+                  <option>中小学</option>
+                </select>
+              </label>
+            </div>
+            <label class="field">领域
+              <input id="f-field" value="数学建模" maxlength="40" />
+            </label>
+
+            <fieldset class="scope">
+              <legend>权重情景</legend>
+              <label><input type="radio" name="scope" value="postgrad" /> 升学优先</label>
+              <label><input type="radio" name="scope" value="balanced" checked /> 均衡</label>
+              <label><input type="radio" name="scope" value="career" /> 就业优先</label>
+            </fieldset>
+
+            <label class="field">同组样本数
+              <input id="f-cohort" type="number" min="0" max="200" value="1" />
+              <span class="hint">同年度、同人群、同领域满 20 项才生成分区</span>
+            </label>
+
+            <button class="primary" id="run-btn" type="submit">开始研究</button>
+            <p class="provider-note" id="provider-note"></p>
+          </form>
+
+          <details class="plan">
+            <summary>研究流程</summary>
+            <ol>
+              <li>解析条件，匹配已核验档案</li>
+              <li>生成检索计划，查目录、细则、招聘、通报</li>
+              <li>抓取页面并保存快照</li>
+              <li>抽取证据，排除自证与关联材料</li>
+              <li>八维打分，计算双指数与置信度</li>
+            </ol>
+          </details>
+        </aside>
+
+        <div class="canvas" id="canvas" aria-live="polite">
+          <div class="empty">
+            <p class="kicker">等待研究</p>
+            <p>选择左侧任一赛事开始。首次打开会载入一项已完成的完整研究，可直接查看证据链。</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="view-board" hidden>
+      <div class="page-head">
+        <p class="kicker">SAMPLE BOARD</p>
+        <h1>已研究赛事</h1>
+        <p class="lede">按综合分排序。证据覆盖不足六成的赛事不出分，只展示已完成的部分。</p>
+      </div>
+      <div id="board-body"></div>
+    </section>
+
+    <section id="view-method" hidden>
+      <div class="page-head">
+        <p class="kicker">METHOD</p>
+        <h1>怎么算，为什么这么算</h1>
+        <p class="lede">评分不是给赛事排座次，而是回答两个独立问题：它能否影响升学评价，能否影响招聘决策。</p>
+      </div>
+      <div id="method-body"></div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <span>竞衡 · 赛事影响力量化台</span>
+    <span>结论供核验，不替代本校推免细则与用人单位公告</span>
+  </footer>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>

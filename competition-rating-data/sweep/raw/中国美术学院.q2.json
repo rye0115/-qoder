@@ -1,0 +1,93 @@
+{
+  "mode": "search",
+  "query": "中国美术学院 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"中国美术学院 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "中国美术学院社会美术水平等级考试",
+          "url": "https://www.kj9181.com/",
+          "snippet": "为了普及艺术教育，增强人们的艺术素养，从而达到提高国民素质的目的，我院将为社会不同层次美术爱好者和学生提供规范性、权威性的美术水平测评，中国美术学院社会美术水平考级中心作为国家文化部批准的国家级的美术水平考级专业机构在全国范围内举办美术等级考级，欢迎具备条件者前来报考。一、考级专业：人物、山水、花鸟、软笔书法、硬笔书法、素描、速写、水粉画、水彩画、漫画。二、报名考试：考生可在经考级办公室设立...",
+          "source": "www.kj9181.com"
+        },
+        {
+          "title": "招生办 - 中国美术学院",
+          "url": "https://zb.caa.edu.cn/",
+          "snippet": "2026.09.24 中国美术学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生复试...",
+          "source": "zb.caa.edu.cn"
+        },
+        {
+          "title": "中国美术学院学工在线",
+          "url": "https://xgzx.caa.edu.cn/",
+          "snippet": "关于开设第二十八期发展性训练营暨大学生职业能力提升培训班的通知2024-03-05 · 学校召开2024年毕业生就业创业工作会议2024-01-25 · +more · 浙江省学生资助对象认定申请表2024-06-04 · 浙江省普通高校本专科学生资助政策简介2024-06-04 · 2023-2024学年本科学生手册2023-09-20 · 2023年《大学新生应征入伍宣传单》2023-07-25 · 中国美术学院2023-2024学年教学校历2023-06-27 ·",
+          "source": "xgzx.caa.edu.cn"
+        },
+        {
+          "title": "研工部、研究生处",
+          "url": "http://grs.caa.edu.cn/",
+          "snippet": "[最新]中国美术学院2025—2026学年第一学期研究生通识必修课期末考试补（缓）...04-02",
+          "source": "grs.caa.edu.cn"
+        },
+        {
+          "title": "中国美术学院社会艺术水平考级中心",
+          "url": "https://mskj.caa.edu.cn/",
+          "snippet": "2023-08-24 中国美术学院美术考级北京地区成人考级报名 · 2023-08-18 成人书画等级考试报考简章（广州市、江门市）",
+          "source": "mskj.caa.edu.cn"
+        },
+        {
+          "title": "工作通知-中国美术学院学工在线",
+          "url": "http://xgzx.caa.edu.cn/jyzd/gztz.htm",
+          "snippet": "关于举办中国美术学院2023年“互联网+”大学生创新创业大赛的通知2023-03-27 · 邀请函｜中国美术学院2023届毕业生暨2024届实习生线上招聘双选会2022-12-18 · 关于开展2021、2022届毕业生职业发展状况调查通知2022-12-18 ·",
+          "source": "xgzx.caa.edu.cn"
+        },
+        {
+          "title": "【考级通知】中国美术学院2025年暑假（8月份）考...",
+          "url": "http://www.gdjingsai.com/shuhuakaoji/371.html",
+          "snippet": "各考点、各位考生： · 为了普及艺术教育，增强人们的艺术素养，从而达到提高国民素质的目的，为社会不同层次美术爱好者提供规范性、权威性的美术水平测试，中国美术学院社会美术水平考级中心作为国家文化部批准...",
+          "source": "www.gdjingsai.com"
+        },
+        {
+          "title": "通知公告-招生办 - 中国美术学院",
+          "url": "https://zb.caa.edu.cn/bkzs/tzgg/19.htm",
+          "snippet": "关于公布中国美术学院2023年本科招生校考专业（含建筑学)及华侨、港澳台...",
+          "source": "zb.caa.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/7ajkhsvhfb97 for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/7ajkhsvhfb97\"}) | keenable: keenable returned 502 Bad Gateway. <html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl does not allow keyless use from a proxy or VPN exit IP. Set a free key: modsearch config set firecrawl.apiKey <key>, or use keenable or youcom. ({\"success\":false,\"error\":\"Unfortunately, your IP address looks like a VPN or proxy, so Firecrawl can't be used without an API key from here. Sign up with Google or GitHub at https://firecrawl.dev/k/7ajkhsvhfb97 for a free API key with 1000 credits and higher rate limits. (If you're an agent, you can also use https://firecrawl.dev/auth.md)\",\"signup_url\":\"https://firecrawl.dev/k/7ajkhsvhfb97\"})",
+          "durationSeconds": 1.416
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable returned 502 Bad Gateway. <html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>",
+          "durationSeconds": 0.961
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.726
+        }
+      ],
+      "durationSeconds": 1.726
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:54.127Z",
+    "durationSeconds": 4.106
+  }
+}

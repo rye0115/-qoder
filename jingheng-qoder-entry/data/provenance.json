@@ -1,0 +1,38 @@
+{
+  "note": "本应用运行时只读取 data/inputs 下的六份研究输入；原文件来自工作区 产品参考/输入数据，逐字节复制，未改写内容。",
+  "sourceDirectory": "产品参考/输入数据",
+  "copiedAt": "2026-11-24",
+  "files": [
+    {
+      "file": "admission-engineering.json",
+      "source": "产品参考/输入数据/admission-engineering.json",
+      "sha256": "c55df0f147b14a4844bff31caf212498b0651594d60e167e62789275148a999a"
+    },
+    {
+      "file": "admission-science.json",
+      "source": "产品参考/输入数据/admission-science.json",
+      "sha256": "405e5146c23694b5f80800ec803ebc482a7d4c9ca11492c1fede86d32ff316af"
+    },
+    {
+      "file": "catalog.json",
+      "source": "产品参考/输入数据/catalog.json",
+      "sha256": "db7d85d31549d6f21879acb3c5744b12791c0290b146ed688b199bcf8852d042"
+    },
+    {
+      "file": "competition-evidence.json",
+      "source": "产品参考/输入数据/competition-evidence.json",
+      "sha256": "80f7cabeb31dc9717c280b527a411c22d337ca7284ef8ce2da1a0993db353a3d"
+    },
+    {
+      "file": "employment-data.json",
+      "source": "产品参考/输入数据/employment-data.json",
+      "sha256": "b8c1129e2401548c60d8d8a9a0ac0eed91e1176140fbb601a32b52443cf6ee3d"
+    },
+    {
+      "file": "participation.json",
+      "source": "产品参考/输入数据/participation.json",
+      "sha256": "29f81147d6cc3a082e7aa7fe8e8bf147a80bcd5a92647e450fa4731c109e8f5f"
+    }
+  ],
+  "runtime": "六份输入在服务启动时载入；分数与证据均即时计算，验收样例仅由 scripts/acceptance.mjs 读取。"
+}

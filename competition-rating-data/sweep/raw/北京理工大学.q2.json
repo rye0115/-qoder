@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京理工大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京理工大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "学术论文、科技成果类项目积分评定细则-教学通知",
+          "url": "https://math.bit.edu.cn/rcpy/bkspy/jxtz/0801ef09291845a3a72ad6f321b7a0f4.htm",
+          "snippet": "学年第一学期“创新创业、社会实践、艺术实践”积分申报和认定的通知（通知链接https://jwb. ... 类实践积分，学生应依据《北京理工大学“创新创业、社会实践、 ...",
+          "source": "math.bit.edu.cn"
+        },
+        {
+          "title": "关于举办北京理工大学第二届校园文创产品设计大赛的通知",
+          "url": "https://bit.edu.cn/tzgg17/qttz/63d0516cf4ee49efa732a2ee118a46b7.htm",
+          "snippet": "... 大赛的通知. 关于举办北京理工大学第二届校园文创产品设计大赛的通知. 发布日期：2026-05-06. 为进一步弘扬和践行社会主义核心价值观，深化一流大学文化 ...",
+          "source": "bit.edu.cn"
+        },
+        {
+          "title": "关于开展北京理工大学第二十届“世纪杯”竞赛的预通知 - 自动化学院",
+          "url": "https://ac.bit.edu.cn/xsgz/cxcy/781d0cd3b03d47b4a0b0f202f9a32d13.htm",
+          "snippet": "参赛作品必须是距2023年6月1日前两年内完成的学生课外学术科技或社会实践活动成果，可分为个人作品和集体作品（含科技发明制作类作品、自然科学类学术论文 ...",
+          "source": "ac.bit.edu.cn"
+        },
+        {
+          "title": "管理学院2024年学科竞赛、学术论文、科技成果类素质教育积分评定标准",
+          "url": "https://som.bit.edu.cn/gbjxxm/bksjx/xxtgbks/c66b95757f1143fba1259c7485272ef6.htm",
+          "snippet": "根据教务部《关于2024-2025学年第一学期素质教育积分申报和认定的通知》，为进一步贯彻落实《北京理工大学素质教育积分管理办法（2023年11月修订）》 ...",
+          "source": "som.bit.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jw.beijing.gov.cn/gjc/tzgg_15688/",
+          "snippet": "关于举办2026年北京市大学生人文知识竞赛的通知; 2026-08-31 关于公示2026年北京市大学生广告艺术竞赛暨第十八届全国大学生广告艺术大赛（北京赛区）拟获奖名单的通知 ...",
+          "source": "jw.beijing.gov.cn"
+        },
+        {
+          "title": "北京理工大学挑战杯官网",
+          "url": "https://bit.tiaozhanbei.net/",
+          "snippet": "【通知公告】关于第十九届世纪杯竞赛获奖名单公示的通知 · 【通知公告】关于举办第十九届“世纪杯”学生创业竞赛金奖答辩的通知 · 【通知公告】关于举办第十九届“世纪杯”学生 ...",
+          "source": "bit.tiaozhanbei.net"
+        },
+        {
+          "title": "关于开展2024年立项校级大学生创新训练计划项目结题验收的通知",
+          "url": "https://www.bit.edu.cn/gbxxgk/gbgljg/xscxcysjzx/7108d77c08264dc287dd819145fd7cd1.htm",
+          "snippet": "北京理工大学创新创业积分申报和认定工作一般在秋季学期进行，2024年立项校级项目认定积分结果将同结项名单一同公布，请各位同学关注网站通知。 2.结项 ...",
+          "source": "www.bit.edu.cn"
+        },
+        {
+          "title": "北京理工大学",
+          "url": "https://bit.edu.cn/gbxxgk/gbgljg/xscxcysjzx/61b58d074f144ee0828189af64e635c6.htm",
+          "snippet": "1.在线报名（4月8日至5月15日）。参赛团队登录“北京大学生创新创业大赛”官网（http://bigsai.pkucy.org/apply/jcdc/#/login），进入报名页面报名参赛（ ...",
+          "source": "bit.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.48,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.48
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:43:57.698Z",
+    "durationSeconds": 3.483
+  }
+}

@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "nuedc",
+    "name": "全国大学生电子设计竞赛",
+    "aliases": [
+      "NUEDC",
+      "电赛"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科 / 高职高专",
+      "field": "电子信息",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 74.4,
+      "employer": 44,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 100,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 6 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录“全国大学生电子设计竞赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "组委会 · 命题要求（安徽大学存档）",
+        "url": "https://iec.ahu.edu.cn/_upload/article/files/c1/b6/54df75a641ca88e84eaf0dfc5b85/fa753ea7-8f3c-4340-a71a-338491ac39ae.pdf",
+        "domain": "iec.ahu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "设计报告与实际制作分别评定，作品要接受现场测试。"
+      },
+      {
+        "id": "E3",
+        "title": "组委会 · 全国评审实施过程",
+        "url": "https://www.nuedc-training.com.cn/index/news/details/new_id/333",
+        "domain": "www.nuedc-training.com.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "设计报告与实际制作分别评定，作品要接受现场测试。 有统一综合测评，一等奖候选队及抽调队伍参加全国复测。"
+      },
+      {
+        "id": "E4",
+        "title": "组委会 · 竞赛通知及国奖比例",
+        "url": "https://www.nuedc-training.com.cn/index/news/details/new_id/330",
+        "domain": "www.nuedc-training.com.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "赛区按实际参赛队数分组推荐，推荐比例不超过 10%；全国奖另有原则性上限。"
+      },
+      {
+        "id": "E5",
+        "title": "组委会 · 最终获奖及异议处理",
+        "url": "https://www.nuedc-training.com.cn/index/news/details/new_id/340",
+        "domain": "www.nuedc-training.com.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "compliance"
+        ],
+        "quote": "本届公布初评和最终结果，明确 8 月 22 至 28 日受理申诉。"
+      },
+      {
+        "id": "E6",
+        "title": "海南大学 · 推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+        "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+        "domain": "sice.hainanu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-05-07",
+        "dims": [
+          "university"
+        ],
+        "quote": "信息与通信工程学院：个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。（第七条；第八条项目序号4、5、6、13、15、19）"
+      },
+      {
+        "id": "E7",
+        "title": "南方科技大学 · 2027届自动化专业推免生遴选办法",
+        "url": "https://aim.sustech.edu.cn/Article-detail-id-1002-typeid-7.html",
+        "domain": "aim.sustech.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-05",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化与智能制造学院（自动化专业）：国家级前三等次的学术专长基础分依次为0.08、0.04、0.01，省级一等档为0.04。团队成员的实际分数还要依贡献分配。（第三部分第4项、附录3第1、2、4项）"
+      },
+      {
+        "id": "E8",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：一、二、三等奖最多分别计40、30、10分，未通过答辩得0分。（“竞赛获奖”（一）、（三）及附表1第2、3项）"
+      },
+      {
+        "id": "E9",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E10",
+        "title": "东北电力大学 · 学院推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
+        "url": "https://auto.neepu.edu.cn/info/1004/16945.htm",
+        "domain": "auto.neepu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-01",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化工程学院：A3在综合成绩中直接相加，国家级特等3分、一等2分、二等0.8分。（附录2（四）至（六）及国家级加分标准表）"
+      },
+      {
+        "id": "E11",
+        "title": "上海大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施方案",
+        "url": "https://sme.shu.edu.cn/info/1030/7622.htm",
+        "domain": "sme.shu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "微电子学院：个人基准0.10、0.07、0.04绩点。应用团队折半条款后依次为0.05、0.035、0.02。（第五类d、j与k）"
+      },
+      {
+        "id": "E12",
+        "title": "正浩创新 EcoFlow · 通用硬件工程师",
+        "url": "https://jobs.ecoflow.com/602892/m/position/7678913209302780223/detail",
+        "domain": "jobs.ecoflow.com",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2027",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：深圳、西安的正式岗位面向本科及以上毕业生，电赛获奖列为加分项。该岗位还要求电路设计、仿真及仪表使用能力。"
+      },
+      {
+        "id": "E13",
+        "title": "深圳市默贝克驱动技术有限公司 · 研发工程师 · 电力电子方向",
+        "url": "https://jlu.ncss.cn/student/jobs/CfaudQtT4VZrMJzD7CLaG/detail.html",
+        "domain": "jlu.ncss.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2027",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：面向硕士。该岗位将电赛获奖列为加分项，同时要求电力电子方向和相关硬件项目经验。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 9 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。"
+    ]
+  },
+  {
+    "id": "computer",
+    "name": "中国大学生计算机设计大赛",
+    "aliases": [],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科",
+      "field": "计算机",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 71.7,
+      "employer": 52,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 100,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 25 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录“中国大学生计算机设计大赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "组委会 · 决赛指南",
+        "url": "https://jsjds.blcu.edu.cn/info/1043/2444.htm",
+        "domain": "jsjds.blcu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "提交作品，入围国赛后要求作品作者到现场阐释并答辩。 国赛专家现场评审，组委会另行公布争议作品复核处理结果。"
+      },
+      {
+        "id": "E3",
+        "title": "组委会 · 申诉投诉处理结果",
+        "url": "https://jsjds.blcu.edu.cn/info/1042/2094.htm",
+        "domain": "jsjds.blcu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "国赛专家现场评审，组委会另行公布争议作品复核处理结果。 公示作品和获奖等级，公示文件列出了申诉系统、受理范围及截止日期。"
+      },
+      {
+        "id": "E4",
+        "title": "组委会 · 评审结果及申诉期限",
+        "url": "https://jsjds.blcu.edu.cn/info/1043/2424.htm",
+        "domain": "jsjds.blcu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "作品由校、省逐级上推，国赛入围数与全部初始参赛作品数的同口径比例待核。 公示作品和获奖等级，公示文件列出了申诉系统、受理范围及截止日期。"
+      },
+      {
+        "id": "E5",
+        "title": "海南大学 · 推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+        "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+        "domain": "sice.hainanu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-05-07",
+        "dims": [
+          "university"
+        ],
+        "quote": "信息与通信工程学院：个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。（第七条；第八条项目序号4、5、6、13、15、19）"
+      },
+      {
+        "id": "E6",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：国一上限20分，国二上限10分。还须经过按学科推荐、院内审议和审核答辩。（“竞赛获奖”（二）、（三）及附表2第1、6、8、12、27项）"
+      },
+      {
+        "id": "E7",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E8",
+        "title": "云南民族大学 · 数学与计算机科学学院2027年推免生工作实施细则公示",
+        "url": "https://web.ymu.edu.cn/sxyjsj/info/1051/4614.htm",
+        "domain": "web.ymu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-08-12",
+        "dims": [
+          "university"
+        ],
+        "quote": "数学与计算机科学学院：竞赛模块中，国家一、二、三等奖依次80、25、15分，省级依次10、8、5分。团队前三名再乘1、0.6、0.3，模块加权5%计入综合成绩。（附件2分值表B行，附件3的B类第5、6、14、15项）"
+      },
+      {
+        "id": "E9",
+        "title": "大连理工大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+        "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+        "domain": "fldpj.dlut.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-08",
+        "dims": [
+          "university"
+        ],
+        "quote": "公共基础学院：普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。（第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32）"
+      },
+      {
+        "id": "E10",
+        "title": "河北地质大学 · 河北地质大学2027年推免生推荐加分竞赛认定目录",
+        "url": "https://www.hgu.edu.cn/yzw/info/1102/2054.htm",
+        "domain": "www.hgu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "校级推免推荐：可作为赛事被校级推荐加分目录点名的证据。（校级认定目录第4、5、6、12、25、27、38项）"
+      },
+      {
+        "id": "E11",
+        "title": "石犀科技与众云网（联合校招） · 研发类及售前工程师",
+        "url": "https://job.xidian.edu.cn/attachment/xidian/ueditor/file/20250908/8189_%E7%9F%B3%E7%8A%80%E7%A7%91%E6%8A%80%26%E4%BC%97%E4%BA%91%E7%BD%912026%E7%A7%8B%E5%AD%A3%E6%A0%A1%E5%9B%AD%E6%8B%9B%E7%AE%80%E7%AB%A0.pdf",
+        "domain": "job.xidian.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2026",
+        "dims": [
+          "employer"
+        ],
+        "quote": "直通：只适用于宣讲现场的专属通道。达到奖级可减免笔试，直接进入面试。两家公司共同发布同一份简章，按一份招聘样本计。"
+      },
+      {
+        "id": "E12",
+        "title": "石犀科技与众云网（联合校招） · 研发类及售前工程师",
+        "url": "https://job.hust.edu.cn/zjob/2433944.htm",
+        "domain": "job.hust.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2027",
+        "dims": [
+          "employer"
+        ],
+        "quote": "直通：2027 届宣讲现场的研发、售前通道点名中国软件杯和中国大学生计算机设计大赛。学生达到奖级可减免笔试，直接进入面试。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 6 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。",
+      "企业条款中 1 家存在跨年重复招聘记录，已计入就业分。"
+    ]
+  },
+  {
+    "id": "robomaster",
+    "name": "RoboMaster 机甲大师赛",
+    "aliases": [
+      "RoboMaster",
+      "机甲大师赛"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科",
+      "field": "机器人",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": null,
+      "university": 70,
+      "employer": 44,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 67,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "组委会 · 2025 赛季规则公告",
+        "url": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1768",
+        "domain": "www.robomaster.com",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "参赛队自行制作不同兵种机器人，并展示其实际运行能力。 规则资料、技术考核办法与本届全国赛收官材料公开。"
+      },
+      {
+        "id": "E2",
+        "title": "组委会 · 完整形态技术评审流程",
+        "url": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1822",
+        "domain": "www.robomaster.com",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "参赛队自行制作不同兵种机器人，并展示其实际运行能力。 完整形态考核规定初审、增补评委复审及部分队伍的实时视频核验。 技术考核按排名分段晋级，已核实晋级名额，未取得全体有效队伍的同口径比例。 规则资料、技术考核办法与本届全国赛收官材料公开。"
+      },
+      {
+        "id": "E3",
+        "title": "组委会 · 全国赛收官公告",
+        "url": "https://www.robomaster.com/zh-CN/resource/pages/announcement/1858",
+        "domain": "www.robomaster.com",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "compliance"
+        ],
+        "quote": "规则资料、技术考核办法与本届全国赛收官材料公开。"
+      },
+      {
+        "id": "E4",
+        "title": "南方科技大学 · 2027届自动化专业推免生遴选办法",
+        "url": "https://aim.sustech.edu.cn/Article-detail-id-1002-typeid-7.html",
+        "domain": "aim.sustech.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-05",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化与智能制造学院（自动化专业）：国家级前三等次的学术专长基础分依次为0.08、0.04、0.01，省级一等档为0.04。团队成员的实际分数还要依贡献分配。（第三部分第4项、附录3第1、2、4项）"
+      },
+      {
+        "id": "E5",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：国一上限20分，国二上限10分。还须经过按学科推荐、院内审议和审核答辩。（“竞赛获奖”（二）、（三）及附表2第1、6、8、12、27项）"
+      },
+      {
+        "id": "E6",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E7",
+        "title": "大连理工大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+        "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+        "domain": "fldpj.dlut.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-08",
+        "dims": [
+          "university"
+        ],
+        "quote": "公共基础学院：普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。（第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32）"
+      },
+      {
+        "id": "E8",
+        "title": "河北地质大学 · 河北地质大学2027年推免生推荐加分竞赛认定目录",
+        "url": "https://www.hgu.edu.cn/yzw/info/1102/2054.htm",
+        "domain": "www.hgu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "校级推免推荐：可核验系列赛事纳入当届目录。目录没有列出各子赛或奖项的分值。（校级认定目录第19项及其备注）"
+      },
+      {
+        "id": "E9",
+        "title": "深圳思谋信息科技有限公司 · 机械工程师（机器人方向）",
+        "url": "https://www.career.zju.edu.cn/jyxt/sczp/zpztgl/ckZpgwXq.zf?zpxxbh=5E6AA3B5DA2EC78EE0653A68DD0E9B18",
+        "domain": "www.career.zju.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2026 年职位，毕业届别待核",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：深圳全职岗位，机器人赛事经验列为优先条件。还要求机械工程等相关专业及动手能力，具体毕业届别未披露。"
+      },
+      {
+        "id": "E10",
+        "title": "广州黑格智造信息科技有限公司 · 机械工程师",
+        "url": "https://career.hebut.edu.cn/correcruit/content/id/78853.html",
+        "domain": "career.hebut.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2025",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：广东机械研发岗位面向硕士及以上，RoboMaster 等工程赛事经历和高水平实验室项目背景均为优先条件。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 5 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。",
+      "RoboMaster 未见于 2025 版 84 项竞赛目录，官方准入待核。"
+    ]
+  },
+  {
+    "id": "lanqiao",
+    "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+    "aliases": [
+      "蓝桥杯"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科 / 高职高专",
+      "field": "软件与信息技术",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 71.7,
+      "employer": 42,
+      "rigor": 67,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 100,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 27 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录“蓝桥杯全国软件和信息技术专业人才大赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "组委会 · 软件类赛事规则（天津科技大学存档）",
+        "url": "https://ai.tust.edu.cn/docs/2024-10/084249b2f1a74bf1a514bc17c824054c.pdf",
+        "domain": "ai.tust.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "独立完成程序设计题并提交程序供评测。 规则说明程序评测和成绩计算方式，组委会提供成绩复查入口。 省赛一等奖获得全国总决赛资格，省赛奖项比例标注为参考值。 组委会公布奖项与复查方式，规则明确初评结果公布后的投诉反馈期限。"
+      },
+      {
+        "id": "E3",
+        "title": "组委会 · 软件与电子赛获奖及复查通知",
+        "url": "https://x-static.lanqiao.cn/upload/202504/courseimg/cfcf230b-46f5-4d69-9acb-dba61c17a5c9.pdf",
+        "domain": "x-static.lanqiao.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "规则说明程序评测和成绩计算方式，组委会提供成绩复查入口。 组委会公布奖项与复查方式，规则明确初评结果公布后的投诉反馈期限。"
+      },
+      {
+        "id": "E4",
+        "title": "海南大学 · 推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+        "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+        "domain": "sice.hainanu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-05-07",
+        "dims": [
+          "university"
+        ],
+        "quote": "信息与通信工程学院：个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。（第七条；第八条项目序号4、5、6、13、15、19）"
+      },
+      {
+        "id": "E5",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：国一上限20分，国二上限10分。还须经过按学科推荐、院内审议和审核答辩。（“竞赛获奖”（二）、（三）及附表2第1、6、8、12、27项）"
+      },
+      {
+        "id": "E6",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E7",
+        "title": "云南民族大学 · 数学与计算机科学学院2027年推免生工作实施细则公示",
+        "url": "https://web.ymu.edu.cn/sxyjsj/info/1051/4614.htm",
+        "domain": "web.ymu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-08-12",
+        "dims": [
+          "university"
+        ],
+        "quote": "数学与计算机科学学院：竞赛模块中，国家一、二、三等奖依次15、10、8分，省级依次6、4、3分。前三名按1、0.6、0.3折算后，随模块以5%计入综合成绩。（附件2分值表C行，附件3的C类第5、9项）"
+      },
+      {
+        "id": "E8",
+        "title": "大连理工大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+        "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+        "domain": "fldpj.dlut.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-08",
+        "dims": [
+          "university"
+        ],
+        "quote": "公共基础学院：普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。（第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32）"
+      },
+      {
+        "id": "E9",
+        "title": "河北地质大学 · 河北地质大学2027年推免生推荐加分竞赛认定目录",
+        "url": "https://www.hgu.edu.cn/yzw/info/1102/2054.htm",
+        "domain": "www.hgu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "校级推免推荐：可作为赛事被校级推荐加分目录点名的证据。（校级认定目录第4、5、6、12、25、27、38项）"
+      },
+      {
+        "id": "E10",
+        "title": "十八刻数智科技（海南）有限公司 · 初级算法工程师",
+        "url": "https://www.zhaopin.com/jobdetail/CCL1526243450J40908404503.htm",
+        "domain": "www.zhaopin.com",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2025",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：编程竞赛经历列在岗位加分项中，未要求奖牌。与同一岗位的平台比赛获奖条款分别展示。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 6 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。"
+    ]
+  },
+  {
+    "id": "software",
+    "name": "“中国软件杯”大学生软件设计大赛",
+    "aliases": [
+      "中国软件杯",
+      "中国软件杯大学生软件设计大赛"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科",
+      "field": "软件",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 70,
+      "employer": 47,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 67,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 38 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录““中国软件杯”大学生软件设计大赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "江苏省工信厅 · 本届赛题、晋级及获奖统计",
+        "url": "https://gxt.jiangsu.gov.cn/art/2025/9/1/art_6282_11632587.html",
+        "domain": "gxt.jiangsu.gov.cn",
+        "grade": "A",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "企业提出实际需求，队伍完成软件方案、展示功能并现场答辩。 同届 5604 支参赛队中 379 支晋级决赛，晋级比例约 6.76%。 主管部门公开参赛、入围和各奖级队数，参赛校另有本校团队获奖结果。"
+      },
+      {
+        "id": "E3",
+        "title": "北京信息科技大学 · 总决赛项目展示和现场答辩",
+        "url": "https://news.bistu.edu.cn/kjxs/b6ab5f688e4c45db8454409b5a35f456.html",
+        "domain": "news.bistu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "企业提出实际需求，队伍完成软件方案、展示功能并现场答辩。 参赛院校记录了网络评审、现场评审及总决赛答辩。"
+      },
+      {
+        "id": "E4",
+        "title": "暨南大学 · 参赛项目及评审经过",
+        "url": "https://sz.jnu.edu.cn/2025/0908/c10976a842153/page.htm",
+        "domain": "sz.jnu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "参赛院校记录了网络评审、现场评审及总决赛答辩。 主管部门公开参赛、入围和各奖级队数，参赛校另有本校团队获奖结果。"
+      },
+      {
+        "id": "E5",
+        "title": "海南大学 · 推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+        "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+        "domain": "sice.hainanu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-05-07",
+        "dims": [
+          "university"
+        ],
+        "quote": "信息与通信工程学院：个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。（第七条；第八条项目序号4、5、6、13、15、19）"
+      },
+      {
+        "id": "E6",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：国一上限20分，国二上限10分。还须经过按学科推荐、院内审议和审核答辩。（“竞赛获奖”（二）、（三）及附表2第1、6、8、12、27项）"
+      },
+      {
+        "id": "E7",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E8",
+        "title": "大连理工大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+        "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+        "domain": "fldpj.dlut.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-08",
+        "dims": [
+          "university"
+        ],
+        "quote": "公共基础学院：普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。（第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32）"
+      },
+      {
+        "id": "E9",
+        "title": "河北地质大学 · 河北地质大学2027年推免生推荐加分竞赛认定目录",
+        "url": "https://www.hgu.edu.cn/yzw/info/1102/2054.htm",
+        "domain": "www.hgu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "校级推免推荐：可作为赛事被校级推荐加分目录点名的证据。（校级认定目录第4、5、6、12、25、27、38项）"
+      },
+      {
+        "id": "E10",
+        "title": "石犀科技与众云网（联合校招） · 研发类及售前工程师",
+        "url": "https://job.hust.edu.cn/zjob/2433944.htm",
+        "domain": "job.hust.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2027",
+        "dims": [
+          "employer"
+        ],
+        "quote": "直通：2027 届宣讲现场的研发、售前通道点名中国软件杯和中国大学生计算机设计大赛。学生达到奖级可减免笔试，直接进入面试。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 5 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。"
+    ]
+  },
+  {
+    "id": "mati",
+    "name": "码蹄杯",
+    "aliases": [
+      "码蹄杯全国大学生程序设计大赛"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科 / 高职高专",
+      "field": "程序设计",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": null,
+      "university": null,
+      "employer": 47,
+      "rigor": 67,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 33,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "汕头大学 · 比赛方式及获奖结果",
+        "url": "https://www.stu.edu.cn/info/1086/44476.htm",
+        "domain": "www.stu.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "以算法和程序设计解题，提交源代码。 院校记载程序须通过题目测试数据方能获得该题分数。 有参赛校公开的获奖结果，完整公示和申诉程序待核。"
+      },
+      {
+        "id": "E2",
+        "title": "广州理工学院 · 省赛晋级与全国赛结果",
+        "url": "https://www.gzist.edu.cn/info/1092/21184.htm",
+        "domain": "www.gzist.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "院校记录了队员经省赛晋级全国总决赛的经过。 有参赛校公开的获奖结果，完整公示和申诉程序待核。"
+      },
+      {
+        "id": "E3",
+        "title": "石犀科技与众云网（联合校招） · 研发类及售前工程师",
+        "url": "https://job.xidian.edu.cn/attachment/xidian/ueditor/file/20250908/8189_%E7%9F%B3%E7%8A%80%E7%A7%91%E6%8A%80%26%E4%BC%97%E4%BA%91%E7%BD%912026%E7%A7%8B%E5%AD%A3%E6%A0%A1%E5%9B%AD%E6%8B%9B%E7%AE%80%E7%AB%A0.pdf",
+        "domain": "job.xidian.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2026",
+        "dims": [
+          "employer"
+        ],
+        "quote": "直通：只适用于宣讲现场的专属通道。达到奖级可减免笔试，直接进入面试。两家公司共同发布同一份简章，按一份招聘样本计。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 0 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。",
+      "84 项目录中仅有“码蹄杯全国职业院校程序设计大赛”，与大学生版是否同一赛事待核。"
+    ]
+  },
+  {
+    "id": "sanchuang",
+    "name": "全国大学生电子商务“创新、创意及创业”挑战赛",
+    "aliases": [
+      "三创赛"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科 / 高职高专 / 研究生",
+      "field": "电子商务",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 72.9,
+      "employer": 52,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 67,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 12 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录“全国大学生电子商务“创新、创意及创业”挑战赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "竞组委 · 第十五届竞赛规则（西南政法大学存档）",
+        "url": "https://www.swupl.edu.cn/docs/2025-01/e82b4a2b7c5d4635a12b6b2d763024fe.pdf",
+        "domain": "www.swupl.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "项目须向评委演示并回答提问；本届参赛团队披露了项目展示与最终获奖。 国赛有小组评审和终极赛，评审表归档，拟获奖名单还须核实。 从校赛经省赛选拔至国赛，未使用某一学校的参赛数估计全国晋级率。 竞赛规则、国赛公示安排和已发生的常规赛获奖结果均可查阅。"
+      },
+      {
+        "id": "E3",
+        "title": "中南民族大学 · 常规赛国赛参赛及获奖记录",
+        "url": "https://www.scuec.edu.cn/cxcysj/info/1003/1411.htm",
+        "domain": "www.scuec.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "项目须向评委演示并回答提问；本届参赛团队披露了项目展示与最终获奖。 竞赛规则、国赛公示安排和已发生的常规赛获奖结果均可查阅。"
+      },
+      {
+        "id": "E4",
+        "title": "第十五届报名通知与时间表（上海工程技术大学）",
+        "url": "https://jcxy.sues.edu.cn/38/9e/c26024a276638/page.htm",
+        "domain": "jcxy.sues.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "从校赛经省赛选拔至国赛，未使用某一学校的参赛数估计全国晋级率。 竞赛规则、国赛公示安排和已发生的常规赛获奖结果均可查阅。"
+      },
+      {
+        "id": "E5",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E6",
+        "title": "东北电力大学 · 学院推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
+        "url": "https://auto.neepu.edu.cn/info/1004/16945.htm",
+        "domain": "auto.neepu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-01",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化工程学院：A3在综合成绩中直接相加，国家级特等3分、一等2分、二等0.8分。（附录2（四）至（六）及国家级加分标准表）"
+      },
+      {
+        "id": "E7",
+        "title": "广东财经大学 · 推荐2027届优秀应届本科毕业生免试攻读硕士研究生工作实施细则",
+        "url": "https://gsgs.gdufe.edu.cn/2026/0827/c4208a242216/page.htm",
+        "domain": "gsgs.gdufe.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-08-27",
+        "dims": [
+          "university"
+        ],
+        "quote": "工商管理学院（粤商学院、创新创业学院）：三创赛列入学院第三类竞赛，可按学校相应标准在科研潜质部分计分。该院网页未展示此类的逐奖级分值。（科研潜质（三）1、三类竞赛表第2项）"
+      },
+      {
+        "id": "E8",
+        "title": "云南民族大学 · 数学与计算机科学学院2027年推免生工作实施细则公示",
+        "url": "https://web.ymu.edu.cn/sxyjsj/info/1051/4614.htm",
+        "domain": "web.ymu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-08-12",
+        "dims": [
+          "university"
+        ],
+        "quote": "数学与计算机科学学院：竞赛模块中，国家一、二、三等奖依次80、25、15分，省级依次10、8、5分。团队前三名再乘1、0.6、0.3，模块加权5%计入综合成绩。（附件2分值表B行，附件3的B类第5、6、14、15项）"
+      },
+      {
+        "id": "E9",
+        "title": "华中农业大学 · 外国语学院2027年推荐优秀应届本科毕业生免试攻读研究生推荐工作方案",
+        "url": "https://fld.hzau.edu.cn/info/1070/15421.htm",
+        "domain": "fld.hzau.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-05",
+        "dims": [
+          "university"
+        ],
+        "quote": "外国语学院：学科竞赛项上限5分。全国第一名团队基准3分，省级第一名团队基准2分。团队前三位由基准分分别乘0.5、0.3、0.2。（四（二）3“学科竞赛”及名单第4项）"
+      },
+      {
+        "id": "E10",
+        "title": "大连理工大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+        "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+        "domain": "fldpj.dlut.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-08",
+        "dims": [
+          "university"
+        ],
+        "quote": "公共基础学院：普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。（第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32）"
+      },
+      {
+        "id": "E11",
+        "title": "石犀科技与众云网（联合校招） · 销售经理",
+        "url": "https://job.xidian.edu.cn/attachment/xidian/ueditor/file/20250908/8189_%E7%9F%B3%E7%8A%80%E7%A7%91%E6%8A%80%26%E4%BC%97%E4%BA%91%E7%BD%912026%E7%A7%8B%E5%AD%A3%E6%A0%A1%E5%9B%AD%E6%8B%9B%E7%AE%80%E7%AB%A0.pdf",
+        "domain": "job.xidian.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2026",
+        "dims": [
+          "employer"
+        ],
+        "quote": "直通：三创赛达到指定奖级，可在宣讲现场走销售岗专属通道，减免笔试、直通面试。两个届别分别有原文可查。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 7 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。",
+      "企业条款中 1 家存在跨年重复招聘记录，已计入就业分。"
+    ]
+  },
+  {
+    "id": "cumcm",
+    "name": "全国大学生数学建模竞赛",
+    "aliases": [
+      "CUMCM"
+    ],
+    "meta": {
+      "host": "待核",
+      "founded": null,
+      "level": "本科 / 高职高专",
+      "field": "数学建模",
+      "cadence": "待核"
+    },
+    "origin": "import",
+    "updatedAt": "2026-11-23",
+    "coverageNote": "导入早期研究数据：84 项目录、9 项赛事证据、15 份推免细则、16 条招聘记录",
+    "queries": [],
+    "scores": {
+      "official": 85,
+      "university": 75.8,
+      "employer": 47,
+      "rigor": 100,
+      "scarcity": null,
+      "longevity": null,
+      "compliance": 100,
+      "accessibility": null
+    },
+    "scarcity": null,
+    "evidence": [
+      {
+        "id": "E1",
+        "title": "全国普通高校大学生竞赛分析报告（2025）竞赛目录 · 第 5 项",
+        "url": "https://www.cahe.edu.cn/site/content/17082.html",
+        "domain": "www.cahe.edu.cn",
+        "grade": "A",
+        "kind": "catalog",
+        "publishedAt": "",
+        "dims": [
+          "official"
+        ],
+        "quote": "收录“全国大学生数学建模竞赛”。84 项目录只表示入选门槛，目录内不再区分名次。"
+      },
+      {
+        "id": "E2",
+        "title": "组委会 · 竞赛章程",
+        "url": "https://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html",
+        "domain": "www.mcm.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor",
+          "compliance"
+        ],
+        "quote": "论文须说明模型假设、求解、计算机实现及结果检验。 赛区按分配名额上送优秀答卷，再由全国组委会评审。 章程明确公示和书面异议制度，本届正式获奖名单可查。"
+      },
+      {
+        "id": "E3",
+        "title": "组委会 · 2025 年赛区评阅规范",
+        "url": "https://www.mcm.edu.cn/html_cn/node/011a3fefdb4951a8cb595400f44ec3df.html",
+        "domain": "www.mcm.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "rigor"
+        ],
+        "quote": "评阅意见分歧较大时组织复议，赛区确定结果前需组织答辩。 赛区按分配名额上送优秀答卷，再由全国组委会评审。"
+      },
+      {
+        "id": "E4",
+        "title": "组委会 · 2025 年正式获奖名单",
+        "url": "https://www.mcm.edu.cn/html_cn/node/f1241bf39c38153b57bdb27125fa2d72.html",
+        "domain": "www.mcm.edu.cn",
+        "grade": "B",
+        "kind": "organizer",
+        "publishedAt": "",
+        "dims": [
+          "compliance"
+        ],
+        "quote": "章程明确公示和书面异议制度，本届正式获奖名单可查。"
+      },
+      {
+        "id": "E5",
+        "title": "海南大学 · 推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+        "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+        "domain": "sice.hainanu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-05-07",
+        "dims": [
+          "university"
+        ],
+        "quote": "信息与通信工程学院：个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。（第七条；第八条项目序号4、5、6、13、15、19）"
+      },
+      {
+        "id": "E6",
+        "title": "南方科技大学 · 2027届自动化专业推免生遴选办法",
+        "url": "https://aim.sustech.edu.cn/Article-detail-id-1002-typeid-7.html",
+        "domain": "aim.sustech.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-05",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化与智能制造学院（自动化专业）：国家级前三等次的学术专长基础分依次为0.08、0.04、0.01，省级一等档为0.04。团队成员的实际分数还要依贡献分配。（第三部分第4项、附录3第1、2、4项）"
+      },
+      {
+        "id": "E7",
+        "title": "山东大学 · 2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+        "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+        "domain": "www.sc.sdu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-02",
+        "dims": [
+          "university"
+        ],
+        "quote": "软件学院：一、二、三等奖最多分别计40、30、10分，未通过答辩得0分。（“竞赛获奖”（一）、（三）及附表1第2、3项）"
+      },
+      {
+        "id": "E8",
+        "title": "天津大学 · 2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+        "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+        "domain": "qiushi.tju.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-09",
+        "dims": [
+          "university"
+        ],
+        "quote": "未来技术学院：目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。（优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注）"
+      },
+      {
+        "id": "E9",
+        "title": "东北电力大学 · 学院推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
+        "url": "https://auto.neepu.edu.cn/info/1004/16945.htm",
+        "domain": "auto.neepu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-01",
+        "dims": [
+          "university"
+        ],
+        "quote": "自动化工程学院：A3在综合成绩中直接相加，国家级特等3分、一等2分、二等0.8分。（附录2（四）至（六）及国家级加分标准表）"
+      },
+      {
+        "id": "E10",
+        "title": "上海大学 · 2027年推荐优秀应届本科毕业生免试攻读研究生工作实施方案",
+        "url": "https://sme.shu.edu.cn/info/1030/7622.htm",
+        "domain": "sme.shu.edu.cn",
+        "grade": "B",
+        "kind": "admission",
+        "publishedAt": "2026-09-04",
+        "dims": [
+          "university"
+        ],
+        "quote": "微电子学院：国内赛个人基准0.07、0.04绩点，依团队口径分别计0.035、0.02。（第五类g、j及k）"
+      },
+      {
+        "id": "E11",
+        "title": "湛江科技学院 · 计算机工程学院数学教师",
+        "url": "https://www.zjkju.edu.cn/__local/5/13/C4/16AC32D2D5FACBF0EDF083A2583_9E332209_6BCB6.pdf",
+        "domain": "www.zjkju.edu.cn",
+        "grade": "B",
+        "kind": "employment",
+        "publishedAt": "2024",
+        "dims": [
+          "employer"
+        ],
+        "quote": "优先：两年招聘文件的数学岗位均点名数模国赛获奖者优先。2025 年公告同时认可全国大学生数学竞赛，应用数学或基础数学方向优先。"
+      }
+    ],
+    "excluded": [],
+    "conflicts": [],
+    "gaps": [
+      "奖项稀缺：未取得同届、同组国奖数与有效参赛数，稀缺维暂不打分。",
+      "历史稳定：未取得创办年份与连续举办记录，历史维暂不打分。",
+      "可及性：未取得报名费、器材与强制培训成本，可及性暂不打分。",
+      "高校采信只覆盖 12 所定向样本学校，不能外推为全国采信率。",
+      "企业采信只统计独立招聘方公开岗位，合作与赞助关系不计入。",
+      "企业条款中 1 家存在跨年重复招聘记录，已计入就业分。"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京师范大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京师范大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于南京师范大学本科生学科竞赛成果数据常态化填报的通知",
+          "url": "https://jwc.njnu.edu.cn/info/1050/13610.htm",
+          "snippet": "学生近三年（2022年1月1日之后）参加并获得省级及以上等级奖励的所有竞赛成果均需填报，不局限于《南京师范大学本科生创新创业实践成果和学分认定办法》 ...",
+          "source": "jwc.njnu.edu.cn"
+        },
+        {
+          "title": "关于举办第十三届“挑战杯”中国大学生创业计划竞赛 ...",
+          "url": "https://dky.njnu.edu.cn/info/1103/5776.htm",
+          "snippet": "补充通知更新了报名要求、联系方式与附件共计三处内容，其余内容同六月发布的《关于举办第十三届“挑战杯”中国大学生创业计划竞赛南京师范大学选拔赛的通知》 ...",
+          "source": "dky.njnu.edu.cn"
+        },
+        {
+          "title": "关于报名参加2026年全国大学生电子设计竞赛专题竞赛的通知-菁林网",
+          "url": "http://jwc.njnu.edu.cn/info/1050/14890.htm",
+          "snippet": "... 通知》，为做好我校参赛组织工作，现组织我校2026年江苏省大学生电子设计竞赛报名事宜，具体通知详见学校事务中心-双创教育平台南京师范大学教务处2026年5月25日...",
+          "source": "jwc.njnu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "对学科竞赛进行等级认定，是评价竞赛活动效果的方法，也是制定竞赛经费预算、对获奖学生和指导教师成果认定，以及教学评奖评优和制定激励政策的基本依据。",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "南京邮电大学研究生学科竞赛管理办法",
+          "url": "https://pg.njupt.edu.cn/_upload/article/files/d4/f0/a9565c83414dac727b27f843c283/a927cf1d-0df9-4299-a0ef-dedcb18ef8ca.pdf",
+          "snippet": "第一章竞赛等级与分类. 第一条为促进竞赛活动管理工作的规范化、科学化、制度. 化，学校对竞赛活动实行分级分类管理。竞赛分级分类遵循以下. 基本原则：.",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "关于做好2025年本科生校长特别奖学金评审工作的通知",
+          "url": "https://hy.njnu.edu.cn/info/1024/11503.htm",
+          "snippet": "3.成绩要求：在校期间学业成绩（除博雅课以外的所有课程成绩）平均分在85分以上，且所有科目单科成绩不低于75分(艺体专业学生单科成绩不低于70分)，综合 ...",
+          "source": "hy.njnu.edu.cn"
+        },
+        {
+          "title": "南京师范大学",
+          "url": "https://www.tiaozhanbei.net/d1629/",
+          "snippet": "挑战杯是挑战杯全国大学生系列科技学术竞赛的简称，是由共青团中央、中国科协、教育部和全国学联共同主办的全国性的大学生课外学术实践竞赛，竞赛官方网站为www.tiaozhanbei ...",
+          "source": "www.tiaozhanbei.net"
+        },
+        {
+          "title": "全国大学生工业设计大赛 - 大学生竞赛决策与情报平台",
+          "url": "https://wuswj.com/competitions/68?edition_id=41",
+          "snippet": "报名、赛制及校内安排可能发生变化，请以赛事官方及所在学校最新通知为准。 查看我的学校通知与认定. 我的学校. 全部学校 ...",
+          "source": "wuswj.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.152,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.152
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:45.185Z",
+    "durationSeconds": 3.155
+  }
+}

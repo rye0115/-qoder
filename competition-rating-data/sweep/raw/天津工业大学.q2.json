@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "天津工业大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"天津工业大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "通知公告 - 教务处- 天津工业大学",
+          "url": "https://jwc.tiangong.edu.cn/1328/list7.htm",
+          "snippet": "通知公告 · 1 关于举办天津工业大学中国国际大学生创新大赛（2025） 暨天津赛区选拔赛的预通知 · 2 关于2025年上半年全国大学英语四、六级口语考试的相关通知 · 3 关于启动 ...",
+          "source": "jwc.tiangong.edu.cn"
+        },
+        {
+          "title": "关于举办2026年（第十二届）全国大学生统计建模大赛天津工业大学校 ...",
+          "url": "https://jwc.tiangong.edu.cn/2026/0312/c1328a112975/page.htm",
+          "snippet": "5月17日前，各学校按照名额数选拔推荐队伍进入省赛（各校队伍数量咨询所在省赛承办校）。最终推荐队伍指派一人登录全国大学生统计建模大赛官网(网址： ...",
+          "source": "jwc.tiangong.edu.cn"
+        },
+        {
+          "title": "关于组织参加2026年第九届天津市大学生信息技术“新工科”工程实践 ...",
+          "url": "https://jwc.tiangong.edu.cn/2026/0828/c1328a116941/page.htm",
+          "snippet": "竞赛分为初赛、复赛、决赛三个阶段进行。 （一）学校审核. 2026年9月10日前，请各参赛队员加入天津工业大学新工科竞赛QQ群，后续所有通知将在群内发布。",
+          "source": "jwc.tiangong.edu.cn"
+        },
+        {
+          "title": "学科竞赛",
+          "url": "http://jw.tust.edu.cn/zlgl/xxygz/index4.html",
+          "snippet": "【竞赛通知】关于举办第五届“微瑞杯”全国大学生化学实验创新设计大赛校内选拔赛的通知 · 【竞赛通知】关于举办天津科技大学2024年全国大学生广告艺术大赛校赛选拔赛的通知.",
+          "source": "jw.tust.edu.cn"
+        },
+        {
+          "title": "通知公告 - 药学院- 天津工业大学",
+          "url": "https://yx.tiangong.edu.cn/7905/list.htm",
+          "snippet": "通知公告 · 关于组织2023 年“高教社杯”大学生“用外语讲好中国故事”优秀短视频大赛天津工业大学校赛的通知 2023-02-17 · 关于2022-2023学年春学期本科生选课工作的通知 2023- ...",
+          "source": "yx.tiangong.edu.cn"
+        },
+        {
+          "title": "“2026年全国大学生先进成图技术与产品信息建模创新大赛天津赛区竞赛 ...",
+          "url": "https://me.tju.edu.cn/info/1041/52491.htm",
+          "snippet": "“2026年全国大学生先进成图技术与产品信息建模创新大赛天津赛区竞赛”获奖通知. 2026-06-15. 由天津市教育委员会主办，天津大学、天津仁爱学院和天津市图学学会共同承办 ...",
+          "source": "me.tju.edu.cn"
+        },
+        {
+          "title": "广东工业大学大学生竞赛级别细则",
+          "url": "https://jwc.gdut.edu.cn/__local/6/DF/8F/035C9A52197BF0E506FBEC00F41_E5636438_EB351.pdf",
+          "snippet": "新增. 学校认定的竞赛项目由各教学单位向教务处递交相关申请材料。经学校本. 科教学指导委员会在审核资料等基础上,结合学科分布和社会需求,确定.",
+          "source": "jwc.gdut.edu.cn"
+        },
+        {
+          "title": "对我校大学生竞赛指导目录进行重新修订",
+          "url": "https://wenfa.hebut.edu.cn/docs/2026-07/43660f1cf138403c9b24a68d41bc999b.pdf",
+          "snippet": "根据有关部委文件精神，结合我校实际，对我校大学生竞赛. 指导目录进行重新修订，现予以印发。 河北工业大学. 2024 年5 月12 日. Page 2. -2-.",
+          "source": "wenfa.hebut.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.478,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.478
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:47:07.246Z",
+    "durationSeconds": 3.482
+  }
+}

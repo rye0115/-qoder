@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "华东师范大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"华东师范大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于公布《2025-2026年华东师范大学本科生重要学科竞赛和学术活动名单 ...",
+          "url": "http://www.cxcy.ecnu.edu.cn/85/80/c18355a689536/page.htm",
+          "snippet": "牵头单位的赛事联系人负责起草校内通知、发起并组织学生报名、选拔、参赛等事项。若报名项目和参赛学生数量多，可组织校内选拔赛。 学校鼓励学生参加各种 ...",
+          "source": "www.cxcy.ecnu.edu.cn"
+        },
+        {
+          "title": "本科创新创业教育网 - 华东师范大学",
+          "url": "http://www.cxcy.ecnu.edu.cn/",
+          "snippet": "网站首页 · 新闻动态 · 通知公告 · 公示公告 · 大创项目 · 国创项目 · 上创项目 · 大夏项目 · 学科竞赛 · 重要竞赛清单 · A类竞赛 · 竞赛通知.",
+          "source": "www.cxcy.ecnu.edu.cn"
+        },
+        {
+          "title": "校级 - 传播学院- 华东师范大学",
+          "url": "https://comm.ecnu.edu.cn/_upload/article/files/4c/b2/9c4b4a8844c5b3ffaf3db5c73a7a/ff8a6284-e8ba-4a1f-abda-db5608df95d5.xlsx",
+          "snippet": "美国大学生数学建模竞赛, 每年一次, 美国数学及其应用联合会. 38, 国家级, A类, 全国大学生数学竞赛总决赛, 原：全国大学生数学竞赛, 每年一次, 中国数学会, 全校各院系（ ...",
+          "source": "comm.ecnu.edu.cn"
+        },
+        {
+          "title": "学科竞赛 - 本科创新创业教育网",
+          "url": "http://www.cxcy.ecnu.edu.cn/18354/list.htm",
+          "snippet": "关于组织参加第十七届全国大学生市场调查与分析大赛的通知 · 2026两岸新锐设计竞赛·华灿奖华东师范大学校内选拔报送通知 · 关于组织报名第十八届全国大学生数学竞赛暨“高教社 ...",
+          "source": "www.cxcy.ecnu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "关于公布大学生学科竞赛项目级别认定结果的通知 · 1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "华东师大学子斩获第十六届全国大学生数学竞赛全国一等奖",
+          "url": "https://www.ecnu.edu.cn/info/1094/69296.htm",
+          "snippet": "本次竞赛共设置数学类高年级、数学类低年级和非数学A类、非数学B类4个组别，全国1223所高校逾32万名学生参赛。经层层选拔，最终352所高校的1200余名学生 ...",
+          "source": "www.ecnu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年大学生能力提升项目评选的通知 - 学生资助- 华东师范大学",
+          "url": "https://zizhu.ecnu.edu.cn/97/9e/c41428a759710/page.htm",
+          "snippet": "1.在学生工作部网站（https://xsgzb.ecnu.edu.cn/main.htm），点击左上角“首页”菜单弹出的“信息系统”，登录后在“奖助浏览”中，选择要申请的项目（如能力 ...",
+          "source": "zizhu.ecnu.edu.cn"
+        },
+        {
+          "title": "学生学科竞赛 - 信息公开- 华东理工大学",
+          "url": "https://xxgk.ecust.edu.cn/xsxkjsqk/list.htm",
+          "snippet": "学校认定的竞赛级别及名录 · 华东理工大学学科竞赛级别认定名录2026-10-28. 赛事通知 · 获奖与表彰 · 华东理工大学在中国国际大学生创新大赛（2025）的获奖项目2026-10-28 ...",
+          "source": "xxgk.ecust.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.392,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.392
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:50:30.021Z",
+    "durationSeconds": 4.396
+  }
+}

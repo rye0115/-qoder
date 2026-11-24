@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "内蒙古大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"内蒙古大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "学生活动",
+          "url": "https://ccs.imu.edu.cn/xshd.htm",
+          "snippet": "我院学生在“2024 年中国大学生程序设计竞赛全国邀请赛（长春） 、“2024年中国大学生程序设计竞赛全国邀请赛（东北）” 竞赛中获得佳绩. 详情+ · 04-30 2024. “青创小课堂 ...",
+          "source": "ccs.imu.edu.cn"
+        },
+        {
+          "title": "关于举办中国国际大学生创新大赛（2025）院内选拔赛的通知",
+          "url": "https://kyc.imuchuangye.cn/zscq/info/599.html",
+          "snippet": "... 大学生创新大赛（2025）院内选拔赛，现将有关事项通知如下：. 一、参赛对象及要求. 1.内蒙古大学创业学院在校生或毕业五年内校友。 2.大赛以团队为单位 ...",
+          "source": "kyc.imuchuangye.cn"
+        },
+        {
+          "title": "内蒙古工业大学大学生竞赛管理细则（试行）",
+          "url": "https://dczx.imut.edu.cn/__local/1/F5/FA/150D2135289CF45D683ECE02422_ED480E35_3A5EF.pdf",
+          "snippet": "（二）大创中心根据《内蒙古工业大学学科竞赛项目目录》（见. 附件）对赛事承办申请进行审核，并与教学单位联合发布赛事通知。 ... 第十条学校根据竞赛级别、获奖等级，对 ...",
+          "source": "dczx.imut.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://www.imu.edu.cn/tzgg.htm",
+          "snippet": "通知公告 · 别再侥幸！ · 权威发布| 内蒙古大学2027年硕士研究生招生简章2026-10-08 · 清朗网络净云端——关于规范文明使用网络语言的倡议2026-09-14 · 暴雨天气，这份安全指南请 ...",
+          "source": "www.imu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。同时学科竞赛获奖等级认定条件 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于2025秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/19615.html",
+          "snippet": "学生的修读院系或竞赛归属单位需要对学生申报的竞赛成果进行审核认定，确保成果情况属实；审核截止时间为2025年12月1日。竞赛归属学院上报的成果数据不 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的 ...",
+          "url": "https://jgxy.cug.edu.cn/info/1133/10732.htm",
+          "snippet": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的通知 ... 全院师生：. 根据上一年度各项竞赛的发生情况及相关政策，经意见征集和研究论证 ...",
+          "source": "jgxy.cug.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jjglzhsyzx.imu.edu.cn/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1289",
+          "snippet": "“正大杯”第十五届全国大学生市调大赛校赛于2024年9月28日正式启动。现将大赛有关事宜通知如下：一、组织机构主办单位：中国商业统计学会冠名单位：正大 ...",
+          "source": "jjglzhsyzx.imu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.926,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.926
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:48:05.530Z",
+    "durationSeconds": 3.929
+  }
+}

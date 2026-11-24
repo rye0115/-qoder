@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "东北师范大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"东北师范大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于印发《东北师范大学本科生学科竞赛管理办法》 的通知",
+          "url": "https://publish.nenu.edu.cn/__local/D/2F/98/1BDE95D146668EDE9E3B6FDB3D3_BA0DF45E_4DF3E.pdf",
+          "snippet": "关于印发《东北师范大学本科生学科竞赛管理办法》. 的通知. 各学院（部 ... 大学生. 的学科竞赛，其竞赛级别认定等同于国家级；. 2.国家级学科竞赛 ...",
+          "source": "publish.nenu.edu.cn"
+        },
+        {
+          "title": "东北师范大学本科生学科竞赛管理办法 - 教务处",
+          "url": "https://jwc.nenu.edu.cn/info/2494/6818.htm",
+          "snippet": "... 学生获奖认定范围以当年公布为准。 第十七条依据《东北师范大学本科生学科竞赛项目表》进行等级认定。项目表以外的其他学科竞赛由各学院(部)教务委员会认定并报学校审核。",
+          "source": "jwc.nenu.edu.cn"
+        },
+        {
+          "title": "我校学子在第十一届全国大学生生命科学竞赛中再创佳绩",
+          "url": "https://www.nenu.edu.cn/info/4881/288391.htm",
+          "snippet": "近日，第十一届全国大学生生命科学竞赛落下帷幕。我校师生团队凭借扎实的专业基础、严谨的科研思维和突出的创新实践能力，斩获国家级奖项33项，其中一 ...",
+          "source": "www.nenu.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科教学工作第二批次认定的通知 - 教务处",
+          "url": "https://jwc.nenu.edu.cn/info/1085/14604.htm",
+          "snippet": "认定时间 根据2026年度专业技术职务评聘工作开展情况，2026年度本科教学工作第二批次认定时间为2026年9月17日—9月22日。 … 《东北师范大学本科生学科竞赛项目表(2026)》（附 ...",
+          "source": "jwc.nenu.edu.cn"
+        },
+        {
+          "title": "【东北师范大学】——文学院,保研",
+          "url": "https://m.saikr.com/a/602844",
+          "snippet": "考生需要登录网址：https://yz.chsi.com.cn/tm填报院校和专业志愿。学院会通过上述系统发送复试和待录取通知，请收到通知的考生在规定时间内登录系统确认 ...",
+          "source": "m.saikr.com"
+        },
+        {
+          "title": "转发《第十三届全国大学生数学竞赛报名的通知》",
+          "url": "https://jwc.dufe.edu.cn/content_54075.html",
+          "snippet": "一、参赛对象. 大学本科二年级或二年级以上的在校大学生。竞赛分为非数学专业组和数学专业组(含数学与应用数学、信息与计算科学专业的学生)。 · 二、竞赛 ...",
+          "source": "jwc.dufe.edu.cn"
+        },
+        {
+          "title": "东北师范大学心理学院研究生国家奖学金评审实施细则",
+          "url": "https://psy.nenu.edu.cn/__local/2/16/32/AB202AFED94D27722D61D253079_06F2CD66_1DA81.pdf",
+          "snippet": "根据《东北师范大学学生奖办法》《东北师范大学研究生国家奖学金评审办. 法》，以及历年奖学金评定实践，特制定心理学院研究生国家奖学金评审实施细.",
+          "source": "psy.nenu.edu.cn"
+        },
+        {
+          "title": "关于发布《东北大学秦皇岛分校学生创新创业竞赛星级分类表（2026年 ...",
+          "url": "https://cxcyzx.neuq.edu.cn/info/1055/5857.htm",
+          "snippet": "此类赛道的加分、奖励等认定情况，将于竞赛结束后，根据竞赛主办单位、组织规模、获奖高校层次等情况，学校创新创业教育指导委员会进行认定后发布。 附件：东北大学秦皇岛 ...",
+          "source": "cxcyzx.neuq.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 5.792,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 5.792
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:49:10.809Z",
+    "durationSeconds": 5.795
+  }
+}

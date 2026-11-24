@@ -1,0 +1,95 @@
+{
+  "mode": "search",
+  "query": "山东科技大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"山东科技大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于征求本科生学科竞赛赛事分级名单意见的通...",
+          "url": "https://jwc.wh.sdu.edu.cn/info/1035/10142.htm",
+          "snippet": "现将本科生院《山东大学大学生（本科）重要学科竞赛赛事分级名单（讨论稿）》下发，并提出如下要求： · 1、请各学院根据各自学部、学科特点，对学校认定的国际性、全国性及省部级竞赛A、B、C 类未能包含学院本科...",
+          "source": "jwc.wh.sdu.edu.cn",
+          "published_at": "2021-03-02T00:00:00"
+        },
+        {
+          "title": "— 1 — 共青团山东省委 山 东 省 教 育 厅 ...",
+          "url": "https://cxcy.dzu.edu.cn/__local/2/75/BD/5E6CDF460D7F1382C7B1B41FA1F_0F82F86D_63BBA.pdf",
+          "snippet": "第十三届“挑战杯”山东省大学生创业计划竞赛 · 名额分配表 · 一、普通高校 · 学校 · 名额 · 学校 · 名额 · 山东大学 · 20 · 中国海洋大学 · 15 · 山东科技大学 · 20 · 中国石油大学（华东） ·",
+          "source": "cxcy.dzu.edu.cn"
+        },
+        {
+          "title": "Sdast",
+          "url": "https://smart.sdast.org.cn/portal/dxskjjTz",
+          "snippet": "2026/09 关于举办山东省大学生科技赛事——山东省大学生“数字+”创新创业大赛的通知 ... 2026/08 关于举办山东省大学生科技赛事 ——山东省大学生乡村环境与能源应用创新设计大赛的通知",
+          "source": "smart.sdast.org.cn"
+        },
+        {
+          "title": "2024年学生科技创新竞赛类别等级认定名单-山东科...",
+          "url": "https://gc.sdust.edu.cn/info/1158/6177.htm",
+          "snippet": "版权所有：山东科技大学测绘与空间信息学院 · 测绘工程国家级实验教学示范中心 睿飞无人机培训学校 北海试验场 · 同济大学 · 武汉大学 · 复旦大学 · 上海交通大学 · 西安交通大学 · 哈尔滨工业大学 ·",
+          "source": "gc.sdust.edu.cn"
+        },
+        {
+          "title": "竞赛通知 - 全国大学生竞赛山东赛区组委会",
+          "url": "http://www.dxsjs.sdu.edu.cn/jstz.htm",
+          "snippet": "关于举办2026年TI杯全国大学生电子设计竞赛山东赛区师资培训...各有关高校：为提高全国大学生电子设计竞赛山东赛区指导教师的理论和实践水平，现面向全省各高校举办2026年“TI杯”全国大学生电子设计竞赛山东赛区骨干教师师资培训及2025年度全国电赛山东赛区优秀颁奖典礼。现将有关事项通知如下：一、组织单位指导单位：山东省教育厅高教处主办单位：全国大学生电子设计竞赛山东赛区组织委员会 承办单位： 山东管理学院、山东大学 百科荣创(山东)科技发展有限公司支持单位：山东跃骏智能科技...",
+          "source": "www.dxsjs.sdu.edu.cn"
+        },
+        {
+          "title": "关于举办第十九届“挑战杯”山东大学大学生课外...",
+          "url": "https://ic.sdu.edu.cn/info/1018/4093.htm",
+          "snippet": "为深入贯彻落实党的二十届三中全会精神，贯彻落实全国教育大会精神、学校第十五次党代会精神，加快构建“学在山大、快乐成长”特色育人体系，引导和激励学生加强实践创新，不断提高综合素养，经研究，决定开展...",
+          "source": "ic.sdu.edu.cn",
+          "published_at": "2025-01-21T00:00:00"
+        },
+        {
+          "title": "山东科技大学 教务处",
+          "url": "https://jwc.sdust.edu.cn/",
+          "snippet": "Copyright © 2019 山东科技大学 山东省青岛市黄岛区前湾港路579号 联系电话：0532-86057071 邮政编码：266590",
+          "source": "jwc.sdust.edu.cn"
+        },
+        {
+          "title": "奖学金-山东科技大学资源学院",
+          "url": "https://zyxy.sdust.edu.cn/rcpy/jxj.htm",
+          "snippet": "注：若学业成绩中是按照优秀、良好、中、及格、不及格进行等级打分的科目，可以进行折算打分：优秀 95，良好 85，中 75，及格65。 ... A类仅指“创青春”大学生课外学术科技作品竞赛、“挑战杯”大学生创业设计竞赛、中国“互联网+”大学生创新创业大赛，B类指专门面向研究生举办的比赛，或学科专业领域内面向从业人员的高水平竞赛，C类指其他面向大学生开展的各类竞赛。",
+          "source": "zyxy.sdust.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/f8qx33f3efsr\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53372,\"signup_url\":\"https://firecrawl.dev/k/f8qx33f3efsr\"} | keenable: keenable returned 502 Bad Gateway. <html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/f8qx33f3efsr\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53372,\"signup_url\":\"https://firecrawl.dev/k/f8qx33f3efsr\"}",
+          "durationSeconds": 1.51
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable returned 502 Bad Gateway. <html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>",
+          "durationSeconds": 1.048
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.79
+        }
+      ],
+      "durationSeconds": 1.79
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T11:05:11.771Z",
+    "durationSeconds": 4.352
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "上海大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"上海大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "学科竞赛管理办法 - 研究生处- 上海工程技术大学",
+          "url": "https://ge.sues.edu.cn/00/fc/c21175a196860/page.htm",
+          "snippet": "第三条 学科竞赛管理委员会负责组织对A类竞赛项目的认定（结果见附件），并对竞赛级别实行年度复审、动态调整和更新。B类竞赛项目根据具体情况由相关职能 ...",
+          "source": "ge.sues.edu.cn"
+        },
+        {
+          "title": "上海师范大学本科学科竞赛管理办法 - 教务处",
+          "url": "https://jwc.shnu.edu.cn/62/08/c17118a745992/page.htm",
+          "snippet": "4.A类：代表学科的顶级水平，一般是国家级别及以上。 5.B类：代表学科的较高水平，一般是省级级别及以上。 ... 我校本科生学科竞赛活动级别、类别的认定按 ...",
+          "source": "jwc.shnu.edu.cn"
+        },
+        {
+          "title": "华东理工大学文件",
+          "url": "https://cxcy.ecust.edu.cn/_upload/article/files/07/70/4f1501964f819df353d0400bc9a5/0d170cb3-a2ea-4dd1-bd57-7ae2c93a6f39.pdf",
+          "snippet": "分类原则：A 类主要参考中国高等教育学会、教育部学位管理与研究生教. 育司等机构定期发布的信息，B 类为我校相关学科、专业重点参与的国际. 和全国赛事。",
+          "source": "cxcy.ecust.edu.cn"
+        },
+        {
+          "title": "关于印发修订后的《上海海事大学大学生学科竞赛管理办法》的通知",
+          "url": "https://sem.shmtu.edu.cn/_upload/article/files/0e/c0/5e76a7c54a4598989984b7af440b/0ec34730-7d64-4fa9-8f07-0e53d39102be.pdf",
+          "snippet": "根据竞赛的知名度和影响力等因素，以及高校参与情. 况，学校将竞赛划分为A、B、C、D、E、F 六个类别。每年. 初公布当年学校大学生竞赛分类表。 A 类：列入 ...",
+          "source": "sem.shmtu.edu.cn"
+        },
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "... 学科竞赛分为A、B、C 三类，. 具体见《南京中医药大学高水平大学生学科竞赛项目目录》（附. 件1）。 Page 4. - 4 -. 第八条A 类竞赛项目相对固定，由学校指定；B 类、C 类 ...",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "非学历项目",
+          "url": "https://apply.shu.edu.cn/program/index?language=zh&category_id=19",
+          "snippet": "联系我们 · 立即申请. 课程项目. 学科门类齐全的学历项目与非学历项目. 本科项目. 工学 · 人文社科 · 经济管理类 · 艺术类 · 理学 · 其他类. 硕士研究生项目.",
+          "source": "apply.shu.edu.cn"
+        },
+        {
+          "title": "南京工业大学生学科竞赛和创新创业实践活动管理办法",
+          "url": "https://fzxy.njtech.edu.cn/info/1019/3329.htm",
+          "snippet": "备注：1.本目录1-53项为全国普通高校学科竞赛排行榜的竞赛活动，每年根据全国普通高校学科竞赛评估结果动态调整。C类竞赛根据主办单位级别、赛事规模、 ...",
+          "source": "fzxy.njtech.edu.cn"
+        },
+        {
+          "title": "关于印发《中南大学本科生学科竞赛管理办法》的通知",
+          "url": "https://bksy.csu.edu.cn/info/1168/3379.htm",
+          "snippet": "大学生学科竞赛分为国际级、国家级、省级和校级学科竞赛四个层次：. 1.国际级学科竞赛:指联合国教科文组织或其他国际学术团体组织的世界性学科竞赛。",
+          "source": "bksy.csu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.658,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.658
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:51:09.883Z",
+    "durationSeconds": 3.661
+  }
+}

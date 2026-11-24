@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "对外经济贸易大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"对外经济贸易大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于印发《对外经济贸易大学本科生学术、 学科竞赛管理办法（试行）》的 ...",
+          "url": "https://iss.uibe.edu.cn/AdminUI/UploadFiles/files/202309101109399010.pdf",
+          "snippet": "（2） 拟定、撰写竞赛通知，做好竞赛宣传、动员、组织、. 报名、培训 ... 学校根据竞赛项目级别，结合竞赛影响力、学生受益面、历年获. 奖质量与 ...",
+          "source": "iss.uibe.edu.cn"
+        },
+        {
+          "title": "彩杯”竞赛暨2028年“挑战杯”系列竞赛主体赛校内选拔赛通知",
+          "url": "https://sfs.cueb.edu.cn/tzgg/9926944d0c6e4947884afd8683afe497.htm",
+          "snippet": "获奖学生在评奖评优、研究生推免等方面按学校相关规定给予认定。完赛学生在第二课堂学分、综合素质测评等方面按学校相关规定给予认定。",
+          "source": "sfs.cueb.edu.cn"
+        },
+        {
+          "title": "国际商学院2025-2026学年本科学生奖学金评定工作...",
+          "url": "http://bs.uibe.edu.cn/News/ViewNews.aspx?NewsId=18207",
+          "snippet": "为激励学生奋发成才，引导学生全面成长，根据对外经济贸易大学关于本科生综合素质评价及评奖评优等文件规定，国际商学院2025-2026学年各类本科生奖学金、 ...",
+          "source": "bs.uibe.edu.cn"
+        },
+        {
+          "title": "2024年政府管理学院创新创业、社会实践与学科、学术竞赛获奖情况公示",
+          "url": "https://schpa.uibe.edu.cn/tzgg4/45cd0c91db9040a7ac91b1d7fd1506f9.htm",
+          "snippet": "通知公告. 2024年政府管理学院创新创业、社会实践与学科、学术竞赛获奖情况公示. 日期：2024-11-20 | 访问量：. 2024年政府管理学院创新创业、社会实践与学科、学术 ...",
+          "source": "schpa.uibe.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jw.beijing.gov.cn/gjc/tzgg_15688/",
+          "snippet": "关于举办2027年第十四届北京市大学生工程实践与创新能力竞赛暨第十届中国大学生工程实践与创新能力大赛省级复赛的通知 · 关于举办第十七届北京市大学生英语演讲竞赛的通知 ...",
+          "source": "jw.beijing.gov.cn"
+        },
+        {
+          "title": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的 ...",
+          "url": "https://jgxy.cug.edu.cn/info/1133/10732.htm",
+          "snippet": "关于发布《经济管理学院学生竞赛级别认定办法》（2024年9月修订）的通知 ... 全院师生：. 根据上一年度各项竞赛的发生情况及相关政策，经意见征集和研究论证 ...",
+          "source": "jgxy.cug.edu.cn"
+        },
+        {
+          "title": "关于做好2022年度大学生竞赛活动级别认定工作的通知 - 教务处",
+          "url": "https://aao.nuaa.edu.cn/2022/0225/c19103a346622/page.htm",
+          "snippet": "竞赛负责老师或学院管理员可在竞赛管理系统中（https://ipm.nuaa.edu.cn/cm/）登记申请竞赛级别认定（详见附件2、3），竞赛校内负责单位审核提交至学校。",
+          "source": "aao.nuaa.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。",
+          "source": "jwch.fzu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.275,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.275
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:45:32.691Z",
+    "durationSeconds": 3.278
+  }
+}

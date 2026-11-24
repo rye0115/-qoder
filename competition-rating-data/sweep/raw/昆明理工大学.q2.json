@@ -1,0 +1,94 @@
+{
+  "mode": "search",
+  "query": "昆明理工大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"昆明理工大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "昆明理工大学实现全国普通高校大学生竞赛榜单（...",
+          "url": "https://www.kust.edu.cn/info/1011/5773.htm",
+          "snippet": "版权所有©昆明理工大学 滇ICP备05001246号-1 滇公网安备53011402000430号 All Rights Reserved © Kunming University of Science and Technology",
+          "source": "www.kust.edu.cn"
+        },
+        {
+          "title": "昆明理工大学",
+          "url": "https://www.kmust.edu.cn/",
+          "snippet": "关于第十五届“挑战杯”中国大学生创业计划竞赛拟推荐参赛作品的公示 2026-06-26 · 关于招标采购信息发布网址变更的通知 2024-07-01 · 昆明理工大学ChemDraw专用软件采购项目单一来源采购成交结果公告 2024-06-28",
+          "source": "www.kmust.edu.cn"
+        },
+        {
+          "title": "昆明理工大学关于印发《本科生学科竞赛管理办...",
+          "url": "https://jdxy.kust.edu.cn/info/1200/2153.htm",
+          "snippet": "当前位置： 首页 > 本科生教育 > 教学规章制度 > 正文 · 发布日期：2024-02-26 浏览量：",
+          "source": "jdxy.kust.edu.cn"
+        },
+        {
+          "title": "昆明理工大学在全国竞赛中获得9项一等奖 - 云南频道",
+          "url": "http://yn.people.com.cn/n2/2025/0813/c372456-41320522.html",
+          "snippet": "据介绍，全国大学生节能减排社会实践与科技竞赛是一项具有导向性、示范性和群众性的全国大学生竞赛，旨在激发当代大学生的青春活力、创新实践能力。昆明理工大学曾于2014年承办第七届赛事，并于2022年5月发起首届云南省大学生节能减排社会实践与科技竞赛，秘书处常设昆明理工大学。",
+          "source": "yn.people.com.cn",
+          "published_at": "2025-08-13T05:41:26"
+        },
+        {
+          "title": "昆明理工大学关于印发《本科生学科竞赛管理办...",
+          "url": "https://jdxy.kmust.edu.cn/info/1200/2153.htm",
+          "snippet": "当前位置： 首页 > 本科生教育 > 教学规章制度 > 正文 · 发布日期：2024-02-26 浏览量：",
+          "source": "jdxy.kmust.edu.cn"
+        },
+        {
+          "title": "目录",
+          "url": "https://www.kmust.edu.cn/20240105.pdf",
+          "snippet": "一是新型学院建设。昆明理工大学入选首批“国家级创新创业学院建设单位”，云南省共 · 有2 所高校入选国家级创新创业学院建设单位、2 所高校认定为国家级创新创业教育实践基地",
+          "source": "www.kmust.edu.cn"
+        },
+        {
+          "title": "信息工程与自动化学院关于研究生各类奖学金评选...",
+          "url": "https://xzy.kmust.edu.cn/info/1114/3597.htm",
+          "snippet": "Copyright@2012昆明理工大学信息工程与自动化学院 · 联系电话：0871-65916596 · 邮箱：xzxy@kmust.edu.cn · 邮编：650504 · 地址 ：云南省昆明市呈贡新区景明南路727号（昆明理工大学信自楼） ·",
+          "source": "xzy.kmust.edu.cn"
+        },
+        {
+          "title": "高校竞赛目录与认定指南—查询学校公开竞赛清单...",
+          "url": "https://jingsaitongzhi.com/universities",
+          "snippet": "辽宁省目录大连理工大学白俄罗斯国立大学联合学院科技创新类推荐竞赛列表查看公开清单 ... 湖南省目录关于公布湖南大学大学生A类学科竞赛的通知-湖南大学 教务处查看公开清单",
+          "source": "jingsaitongzhi.com"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/jczd1k7bvh94\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53499,\"signup_url\":\"https://firecrawl.dev/k/jczd1k7bvh94\"} | keenable: keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/jczd1k7bvh94\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53499,\"signup_url\":\"https://firecrawl.dev/k/jczd1k7bvh94\"}",
+          "durationSeconds": 1.524
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+          "durationSeconds": 10.08
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 2.165
+        }
+      ],
+      "durationSeconds": 2.165
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T11:03:13.783Z",
+    "durationSeconds": 13.772
+  }
+}

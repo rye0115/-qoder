@@ -1,0 +1,321 @@
+[
+  {
+    "school": "海南大学",
+    "unit": "信息与通信工程学院",
+    "cohort": 2027,
+    "published": "2026-05-07",
+    "url": "https://sice.hainanu.edu.cn/info/1025/10333.htm",
+    "title": "推荐2027年应届优秀本科毕业生免试攻读硕士学位研究生工作实施细则",
+    "status": "final",
+    "locator": "第五、七、八条；第八条学科竞赛表",
+    "notes": "适用2023级电子信息工程、通信工程、人工智能、智能科学与技术。普通申请另须满足本专业前40%、学分及外语等条件。同类竞赛原则上取一项。",
+    "clauses": [
+      {
+        "events": [
+          "icpc",
+          "cumcm",
+          "nuedc",
+          "computer",
+          "lanqiao",
+          "software"
+        ],
+        "mechanism": "points",
+        "requirement": "专业相关的全国赛，国际赛事参照执行；须达前三个奖励等次，团队成员均为本科生，申请人为主力成员。优秀奖和鼓励奖除外。",
+        "effect": "个人前三个等次对应0.15、0.10、0.05；团队第一位同个人，第二、三位对应0.12、0.08、0.05。等级按赛事设置核对，证书与获奖文件是认定依据。",
+        "locator": "第七条；第八条项目序号4、5、6、13、15、19",
+        "places": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "corroboration": {
+      "url": "https://sice.hainanu.edu.cn/info/1025/10763.htm",
+      "title": "2027届推免生加分结果公示",
+      "events": [
+        "lanqiao",
+        "software",
+        "cumcm",
+        "computer"
+      ],
+      "note": "同届审核表列蓝桥杯个人三等奖0.05、软件杯个人二等奖0.10。另有数模国二排名第一计0.10、计算机设计大赛三等奖团队成员计0.05的审核记录。"
+    }
+  },
+  {
+    "school": "南方科技大学",
+    "unit": "自动化与智能制造学院（自动化专业）",
+    "cohort": 2027,
+    "published": "2026-09-05",
+    "url": "https://aim.sustech.edu.cn/Article-detail-id-1002-typeid-7.html",
+    "title": "2027届自动化专业推免生遴选办法",
+    "status": "final",
+    "locator": "第三部分第4项、第四部分、附录3",
+    "notes": "文件自公布日起执行，自动化专业内排名。团队按实际贡献分配，区域赛按省级标准，最高奖为特等奖或金奖时各档依序对应。",
+    "clauses": [
+      {
+        "events": [
+          "nuedc",
+          "cumcm",
+          "robomaster",
+          "robocon"
+        ],
+        "mechanism": "points",
+        "requirement": "附录列名竞赛，国家级达到前三个奖项等次，省级须达到一等档；团队仅贡献前三位的核心成员可获得分值，另须通过审核。",
+        "effect": "国家级前三等次的学术专长基础分依次为0.08、0.04、0.01，省级一等档为0.04。团队成员的实际分数还要依贡献分配。",
+        "locator": "第三部分第4项、附录3第1、2、4项",
+        "places": [
+          1,
+          2,
+          3
+        ]
+      }
+    ],
+    "corroboration": {
+      "url": "https://aim.sustech.edu.cn/Article-detail-id-1006-typeid-7.html",
+      "title": "2027届学术专长鉴定结果公示",
+      "events": [
+        "robomaster",
+        "cumcm"
+      ],
+      "note": "同校同届公示第5、8项列机甲大师超级对抗赛核心成员，评分0.027；第7项列数模省一核心成员，评分0.013。"
+    }
+  },
+  {
+    "school": "山东大学",
+    "unit": "软件学院",
+    "cohort": 2027,
+    "published": "2026-09-02",
+    "url": "https://www.sc.sdu.edu.cn/info/1017/6069.htm",
+    "title": "2023级推荐优秀应届本科毕业生免试攻读研究生突破提升素养赋分细则",
+    "status": "final",
+    "locator": "第三部分“竞赛获奖”、附表1至3",
+    "notes": "仅限软件学院2023级推免。下列均为竞赛赋分上限，须审核答辩通过，具体分数看创新难度、发展潜力、答辩表现。",
+    "clauses": [
+      {
+        "events": [
+          "nuedc",
+          "cumcm"
+        ],
+        "mechanism": "points",
+        "requirement": "以山东大学名义参赛，竞赛与专业相关，获奖截至2026年8月31日。团体主力通常为前三位，前三位有研究生时本科生可顺延至总排名第五。 A级全国赛，一至三等奖（金、银、铜奖）。",
+        "effect": "一、二、三等奖最多分别计40、30、10分，未通过答辩得0分。",
+        "locator": "“竞赛获奖”（一）、（三）及附表1第2、3项",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3"
+        ]
+      },
+      {
+        "events": [
+          "robomaster",
+          "robocon",
+          "computer",
+          "lanqiao",
+          "software",
+          "icpc"
+        ],
+        "mechanism": "points",
+        "requirement": "以山东大学名义参赛，竞赛与专业相关，获奖截至2026年8月31日。团体主力通常为前三位，前三位有研究生时本科生可顺延至总排名第五。 A−级全国赛，须国一或国二（金奖或银奖）。",
+        "effect": "国一上限20分，国二上限10分。还须经过按学科推荐、院内审议和审核答辩。",
+        "locator": "“竞赛获奖”（二）、（三）及附表2第1、6、8、12、27项",
+        "awards": [
+          "nat1",
+          "nat2"
+        ]
+      }
+    ]
+  },
+  {
+    "school": "天津大学",
+    "unit": "未来技术学院",
+    "cohort": 2027,
+    "published": "2026-09-09",
+    "url": "https://qiushi.tju.edu.cn/info/1052/4374.htm",
+    "title": "2027年推荐优秀应届本科毕业生免试攻读硕士学位研究生实施细则",
+    "status": "final",
+    "locator": "竞赛加分列表、加分标准及备注",
+    "notes": "学院将同类加分取最高项，所有优秀加分合计最多3分。团体项目涉及贡献分配，未公布顺位须全员签字确认。",
+    "clauses": [
+      {
+        "events": [
+          "icpc",
+          "cumcm",
+          "nuedc",
+          "sanchuang",
+          "computer",
+          "robomaster",
+          "robocon",
+          "lanqiao",
+          "software"
+        ],
+        "mechanism": "points",
+        "requirement": "作为主力参加专业相关的全国赛，对应赛事最高、第二或第三奖励档；国际赛事认定参照国内标准。",
+        "effect": "目录中这些项目适用“其他学科竞赛”三档1、0.8、0.5分。二人团队按6:4分配；三人团队按5:3:2。四人以上的成员系数另见备注。",
+        "locator": "优秀加分第5项、赛事表第5/6/8/15/22/26/37/39项及表后备注"
+      }
+    ]
+  },
+  {
+    "school": "大连理工大学",
+    "unit": "公共基础学院",
+    "cohort": 2027,
+    "published": "2026-09-08",
+    "url": "https://fldpj.dlut.edu.cn/info/1147/7786.htm",
+    "title": "2027年推荐优秀应届本科毕业生免试攻读研究生工作实施办法",
+    "status": "final",
+    "locator": "第三部分第（二）项第2款、申请流程、竞赛目录附件",
+    "notes": "本院普通类名额涉及运动康复和商务英语，须满足其他基本条件。须提交团队排序说明，现场答辩。",
+    "clauses": [
+      {
+        "events": [
+          "icpc",
+          "cumcm",
+          "nuedc",
+          "sanchuang",
+          "computer",
+          "robomaster",
+          "robocon",
+          "lanqiao",
+          "software"
+        ],
+        "mechanism": "route",
+        "requirement": "作为主力参加与学业相关的目录内全国赛，获得三等奖或更高奖励；国际赛事须达到国内同等或更高标准。",
+        "effect": "普通申请的成绩门槛为专业前40%。满足该竞赛条件者可在专业前50%范围内申请，进入后续资格审核与排名。",
+        "locator": "第三部分（二）2（1）、第五部分（三）与附录赛事序号4、5、6、12、17、21、30、32",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3"
+        ]
+      }
+    ]
+  },
+  {
+    "school": "东北电力大学",
+    "unit": "自动化工程学院",
+    "cohort": 2027,
+    "published": "2026-09-01",
+    "url": "https://auto.neepu.edu.cn/info/1004/16945.htm",
+    "title": "学院推荐优秀应届本科毕业生免试攻读研究生工作实施细则",
+    "status": "final",
+    "locator": "第四部分申请条件、第五部分第4条、附录2",
+    "notes": "须按专业审核并参加公开答辩。竞赛在综合测评和A3之间去重；不同竞赛A3加分合计不超过5分。",
+    "clauses": [
+      {
+        "events": [
+          "cumcm",
+          "nuedc",
+          "sanchuang"
+        ],
+        "mechanism": "points",
+        "requirement": "学院附录2所列赛事，同一赛事取最高奖。计分表列国家级特等、一等及二等。",
+        "effect": "A3在综合成绩中直接相加，国家级特等3分、一等2分、二等0.8分。",
+        "locator": "附录2（四）至（六）及国家级加分标准表",
+        "awards": [
+          "nat1",
+          "nat2"
+        ],
+        "values": {
+          "nat1": 2,
+          "nat2": 0.8
+        },
+        "scaleMax": 3
+      },
+      {
+        "events": [
+          "cumcm",
+          "nuedc",
+          "sanchuang"
+        ],
+        "mechanism": "route",
+        "requirement": "作为主力参加学校认定、与学业相关的竞赛，取得国家级一等或二等奖。",
+        "effect": "平时平均学分绩点和综合测评排名均须在专业前20%，国一可放宽至30%，国二可放宽至25%，还需满足其他申请条件。",
+        "locator": "第四部分申请条件第1项及附录2（四）至（六）",
+        "awards": [
+          "nat1",
+          "nat2"
+        ]
+      }
+    ]
+  },
+  {
+    "school": "广东财经大学",
+    "unit": "工商管理学院（粤商学院、创新创业学院）",
+    "cohort": 2027,
+    "published": "2026-08-27",
+    "url": "https://gsgs.gdufe.edu.cn/2026/0827/c4208a242216/page.htm",
+    "title": "推荐2027届优秀应届本科毕业生免试攻读硕士研究生工作实施细则",
+    "status": "final",
+    "locator": "科研潜质第1项、三类竞赛名单第2项",
+    "notes": "科研潜质由科研成果和竞赛组成，两项合计封顶100分。竞赛多项取最高。",
+    "clauses": [
+      {
+        "events": [
+          "sanchuang"
+        ],
+        "mechanism": "points",
+        "requirement": "专业相关的全国赛，申请人为主力成员，获得三等奖或以上。",
+        "effect": "三创赛列入学院第三类竞赛，可按学校相应标准在科研潜质部分计分。该院网页未展示此类的逐奖级分值。",
+        "locator": "科研潜质（三）1、三类竞赛表第2项",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3"
+        ]
+      }
+    ]
+  },
+  {
+    "school": "上海大学",
+    "unit": "微电子学院",
+    "cohort": 2027,
+    "published": "2026-09-04",
+    "url": "https://sme.shu.edu.cn/info/1030/7622.htm",
+    "title": "2027年推荐优秀应届本科毕业生免试攻读研究生工作实施方案",
+    "status": "final",
+    "locator": "第五部分第2项、第五类竞赛d/g/j/k",
+    "notes": "微电子科学与工程专业。竞赛项上限0.25绩点，同类取最高，团队获奖一律折半，并审核获奖证书与实际贡献。",
+    "clauses": [
+      {
+        "events": [
+          "nuedc"
+        ],
+        "mechanism": "points",
+        "requirement": "全国赛一至三等奖，独立或团队主力。电赛属于团队竞赛，按团队口径计算。",
+        "effect": "个人基准0.10、0.07、0.04绩点。应用团队折半条款后依次为0.05、0.035、0.02。",
+        "locator": "第五类d、j与k",
+        "awards": [
+          "nat1",
+          "nat2",
+          "nat3"
+        ],
+        "values": {
+          "nat1": 0.05,
+          "nat2": 0.035,
+          "nat3": 0.02
+        },
+        "scaleMax": 0.25
+      },
+      {
+        "events": [
+          "cumcm"
+        ],
+        "mechanism": "points",
+        "requirement": "国内全国赛一等奖或二等奖，团队主力。",
+        "effect": "国内赛个人基准0.07、0.04绩点，依团队口径分别计0.035、0.02。",
+        "locator": "第五类g、j及k",
+        "awards": [
+          "nat1",
+          "nat2"
+        ],
+        "values": {
+          "nat1": 0.035,
+          "nat2": 0.02
+        },
+        "scaleMax": 0.25
+      }
+    ]
+  }
+]

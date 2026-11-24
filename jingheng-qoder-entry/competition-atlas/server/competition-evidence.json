@@ -1,0 +1,50 @@
+{
+  "reviewed":"2026-11-22",
+  "events":{
+    "nuedc":{
+      "scope":"2025 年全国大学生电子设计竞赛，本科与高职高专组通用流程",
+      "sources":[["组委会 · 竞赛通知及国奖比例","https://www.nuedc-training.com.cn/index/news/details/new_id/330"],["组委会 · 全国评审实施过程","https://www.nuedc-training.com.cn/index/news/details/new_id/333"],["组委会 · 最终获奖及异议处理","https://www.nuedc-training.com.cn/index/news/details/new_id/340"],["组委会 · 命题要求（安徽大学存档）","https://iec.ahu.edu.cn/_upload/article/files/c1/b6/54df75a641ca88e84eaf0dfc5b85/fa753ea7-8f3c-4340-a71a-338491ac39ae.pdf"]],
+      "facts":{"task":[3,"设计报告与实际制作分别评定，作品要接受现场测试。",3,1],"review":[3,"有统一综合测评，一等奖候选队及抽调队伍参加全国复测。",1],"selection":[3,"赛区按实际参赛队数分组推荐，推荐比例不超过 10%；全国奖另有原则性上限。",0],"disclosure":[3,"本届公布初评和最终结果，明确 8 月 22 至 28 日受理申诉。",2]}
+    },
+    "computer":{
+      "scope":"2025 年第十八届，省级赛上推至全国决赛的作品",
+      "sources":[["组委会 · 决赛指南","https://jsjds.blcu.edu.cn/info/1043/2444.htm"],["组委会 · 评审结果及申诉期限","https://jsjds.blcu.edu.cn/info/1043/2424.htm"],["组委会 · 申诉投诉处理结果","https://jsjds.blcu.edu.cn/info/1042/2094.htm"]],
+      "facts":{"task":[3,"提交作品，入围国赛后要求作品作者到现场阐释并答辩。",0],"review":[3,"国赛专家现场评审，组委会另行公布争议作品复核处理结果。",0,2],"selection":[2,"作品由校、省逐级上推，国赛入围数与全部初始参赛作品数的同口径比例待核。",1],"disclosure":[3,"公示作品和获奖等级，公示文件列出了申诉系统、受理范围及截止日期。",1,2]}
+    },
+    "robomaster":{
+      "scope":"2025 机甲大师超级对抗赛；其他子赛项的赛制须另核",
+      "sources":[["组委会 · 2025 赛季规则公告","https://www.robomaster.com/zh-CN/resource/pages/announcement/1768"],["组委会 · 完整形态技术评审流程","https://www.robomaster.com/zh-CN/resource/pages/announcement/1822"],["组委会 · 全国赛收官公告","https://www.robomaster.com/zh-CN/resource/pages/announcement/1858"]],
+      "facts":{"task":[3,"参赛队自行制作不同兵种机器人，并展示其实际运行能力。",0,1],"review":[3,"完整形态考核规定初审、增补评委复审及部分队伍的实时视频核验。",1],"selection":[2,"技术考核按排名分段晋级，已核实晋级名额，未取得全体有效队伍的同口径比例。",1],"disclosure":[2,"规则资料、技术考核办法与本届全国赛收官材料公开。",0,1,2]}
+    },
+    "lanqiao":{
+      "scope":"2025 年第十六届个人赛软件类；不涵盖其他组别",
+      "sources":[["组委会 · 软件类赛事规则（天津科技大学存档）","https://ai.tust.edu.cn/docs/2024-10/084249b2f1a74bf1a514bc17c824054c.pdf"],["组委会 · 软件与电子赛获奖及复查通知","https://x-static.lanqiao.cn/upload/202504/courseimg/cfcf230b-46f5-4d69-9acb-dba61c17a5c9.pdf"]],
+      "facts":{"task":[2,"独立完成程序设计题并提交程序供评测。",0],"review":[2,"规则说明程序评测和成绩计算方式，组委会提供成绩复查入口。",0,1],"selection":[2,"省赛一等奖获得全国总决赛资格，省赛奖项比例标注为参考值。",0],"disclosure":[3,"组委会公布奖项与复查方式，规则明确初评结果公布后的投诉反馈期限。",0,1]}
+    },
+    "software":{
+      "scope":"2025 年第十四届中国软件杯，全国组委会公布的全部参赛队口径",
+      "sources":[["江苏省工信厅 · 本届赛题、晋级及获奖统计","https://gxt.jiangsu.gov.cn/art/2025/9/1/art_6282_11632587.html"],["暨南大学 · 参赛项目及评审经过","https://sz.jnu.edu.cn/2025/0908/c10976a842153/page.htm"],["北京信息科技大学 · 总决赛项目展示和现场答辩","https://news.bistu.edu.cn/kjxs/b6ab5f688e4c45db8454409b5a35f456.html"]],
+      "facts":{"task":[3,"企业提出实际需求，队伍完成软件方案、展示功能并现场答辩。",0,2],"review":[3,"参赛院校记录了网络评审、现场评审及总决赛答辩。",1,2],"selection":[3,"同届 5604 支参赛队中 379 支晋级决赛，晋级比例约 6.76%。",0],"disclosure":[2,"主管部门公开参赛、入围和各奖级队数，参赛校另有本校团队获奖结果。",0,1]}
+    },
+    "mati":{
+      "scope":"2025 年第七届，本科院校赛道",
+      "sources":[["汕头大学 · 比赛方式及获奖结果","https://www.stu.edu.cn/info/1086/44476.htm"],["广州理工学院 · 省赛晋级与全国赛结果","https://www.gzist.edu.cn/info/1092/21184.htm"]],
+      "facts":{"task":[2,"以算法和程序设计解题，提交源代码。",0],"review":[2,"院校记载程序须通过题目测试数据方能获得该题分数。",0],"selection":[2,"院校记录了队员经省赛晋级全国总决赛的经过。",1],"disclosure":[1,"有参赛校公开的获奖结果，完整公示和申诉程序待核。",0,1]}
+    },
+    "sanchuang":{
+      "scope":"2025 年第十五届常规赛",
+      "sources":[["竞组委 · 第十五届竞赛规则（西南政法大学存档）","https://www.swupl.edu.cn/docs/2025-01/e82b4a2b7c5d4635a12b6b2d763024fe.pdf"],["第十五届报名通知与时间表（上海工程技术大学）","https://jcxy.sues.edu.cn/38/9e/c26024a276638/page.htm"],["中南民族大学 · 常规赛国赛参赛及获奖记录","https://www.scuec.edu.cn/cxcysj/info/1003/1411.htm"]],
+      "facts":{"task":[3,"项目须向评委演示并回答提问；本届参赛团队披露了项目展示与最终获奖。",0,2],"review":[3,"国赛有小组评审和终极赛，评审表归档，拟获奖名单还须核实。",0],"selection":[2,"从校赛经省赛选拔至国赛，未使用某一学校的参赛数估计全国晋级率。",0,1],"disclosure":[2,"竞赛规则、国赛公示安排和已发生的常规赛获奖结果均可查阅。",0,1,2]}
+    },
+    "cumcm":{
+      "scope":"2025 年全国大学生数学建模竞赛",
+      "sources":[["组委会 · 竞赛章程","https://www.mcm.edu.cn/html_cn/block/44e92058f537729c6b6a62a3662ee417.html"],["组委会 · 2025 年赛区评阅规范","https://www.mcm.edu.cn/html_cn/node/011a3fefdb4951a8cb595400f44ec3df.html"],["组委会 · 2025 年正式获奖名单","https://www.mcm.edu.cn/html_cn/node/f1241bf39c38153b57bdb27125fa2d72.html"]],
+      "facts":{"task":[3,"论文须说明模型假设、求解、计算机实现及结果检验。",0],"review":[3,"评阅意见分歧较大时组织复议，赛区确定结果前需组织答辩。",1],"selection":[2,"赛区按分配名额上送优秀答卷，再由全国组委会评审。",0,1],"disclosure":[3,"章程明确公示和书面异议制度，本届正式获奖名单可查。",0,2]}
+    },
+    "leetcode":{
+      "scope":"LeetCode 周赛系列，公开竞赛排名规则",
+      "sources":[["LeetCode · 竞赛排名与罚时规则","https://support.leetcode.com/hc/en-us/articles/360011883834-How-does-the-ranking-work-in-a-contest"],["LeetCode · 排名页及违规复查","https://support.leetcode.com/hc/en-us/articles/7962266478227-How-do-I-report-a-user-for-a-contest-violation"]],
+      "facts":{"task":[2,"以编程解题取得题目分数。",0],"review":[2,"按正确提交、完成时间与错误提交次数计分，平台定期审核违规报告。",0,1],"selection":[1,"单场按得分和时间排名，当前证据未给出全国级逐级晋级机制。",0],"disclosure":[2,"公布排名规则，用户可进入具体场次排名页并提交违规报告。",0,1]}
+    }
+  }
+}

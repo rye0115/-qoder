@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中国音乐学院 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中国音乐学院 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "https://kjzx.ccmusic.edu.cn/kjdt/704a51761b7e42c08...",
+          "url": "https://kjzx.ccmusic.edu.cn/kjdt/704a51761b7e42c0803f0ea4705f4ddd.htm",
+          "snippet": "No information is available for this page.",
+          "source": "kjzx.ccmusic.edu.cn"
+        },
+        {
+          "title": "附表2学科竞赛获奖等级认定标准(本科生、研究生)",
+          "url": "https://www.scribd.com/document/914325840/%E9%99%84%E8%A1%A82%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E8%8E%B7%E5%A5%96%E7%AD%89%E7%BA%A7%E8%AE%A4%E5%AE%9A%E6%A0%87%E5%87%86-%E6%9C%AC%E7%A7%91%E7%94%9F-%E7%A0%94%E7%A9%B6%E7%94%9F-1-1",
+          "snippet": "附表2. 学科竞赛获奖等级认定标准(本科生、研究生) 序号竞赛名称主办单位竞赛类别 1 中国国际大学生创新大赛教育部国家级A 类“挑战杯”全国大学生课外学术科技作品竞赛",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "免试直推优秀学生参加比赛与展演管理办法（试行）-武汉音乐学院_钢琴系",
+          "url": "https://piano.whcm.edu.cn/info/1105/2900.htm",
+          "snippet": "申请学生须自行提交与本人比赛、展演成绩相关的支撑材料，包括但不限于获奖证书、比赛结果公示、主办方通知、成绩单或其他能够证明成绩层级、名次及比赛 ...",
+          "source": "piano.whcm.edu.cn"
+        },
+        {
+          "title": "中国传媒大学科研、教学、创作项目及成果的认定与评价办法（修订）",
+          "url": "https://research.cuc.edu.cn/_upload/article/files/ba/fb/3933383243a0ae84d66890395087/8f03c730-3f39-4707-ab6e-64e491addbcf.pdf",
+          "snippet": "专业. 指导. 获奖. 教师. 指导. 学生. 竞赛. 获奖. A 类. 分/项. 5. 1. 申请此类分值时需提供相应证明材料，有. 教师指导奖证书的成果直接进入会评，无教师. 指导奖证书的 ...",
+          "source": "research.cuc.edu.cn"
+        },
+        {
+          "title": "双创工作通知",
+          "url": "https://jdx.dzu.edu.cn/__local/D/AB/C4/2674B3A9E8DD0FD05D00AF9F10E_186ECDDA_7C3EF.pdf",
+          "snippet": "其中：体育类竞赛根据国家级、省级奖项认定，不按名次奖认定；美. 术、音乐类竞赛入围奖根据国家级、省级级别予以认定。 （4）学生参加“其他类竞赛”获得的选修学分每年度 ...",
+          "source": "jdx.dzu.edu.cn"
+        },
+        {
+          "title": "未来设计师·全国高校数字艺术设计大赛 - 大学生竞赛决策与情报平台",
+          "url": "https://wuswj.com/competitions/43?edition_id=105",
+          "snippet": "报名状态：报名已截止 赛事阶段：赛事已结束 报名、赛制及校内安排可能发生变化，请以赛事官方及所在学校最新通知为准。",
+          "source": "wuswj.com"
+        },
+        {
+          "title": "2025年大学生高质量学科竞赛汇总（附竞赛官网及报名时间）",
+          "url": "http://www.czzht.com/index.php?c=content&a=show&id=57362",
+          "snippet": "由共青团中央、中国科协、教育部和全国学联共同主办的全国性的大学生课外学术实践竞赛。 报名：偶数年举行“小挑”，奇数年举行“大挑”。2025年是“大挑”。",
+          "source": "www.czzht.com"
+        },
+        {
+          "title": "各部门： 《南京师范大学中北学院竞赛分级及学分认定办法》经",
+          "url": "http://jwc.nnudy.edu.cn/DFS//file/2022/04/07/202204071351522481ljzdf.pdf",
+          "snippet": "开展大学生竞赛是高校培养具有创新精神和实践能力的. 高素质人才的一种重要途径，为进一步规范我院大学生竞赛的. 组织管理工作，推进我院创新创业教育 ...",
+          "source": "jwc.nnudy.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.313,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.313
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:46:06.336Z",
+    "durationSeconds": 3.316
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "东北林业大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"东北林业大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "【实践科】关于2024-2025-1学期本科生创新创业学分认定的通知",
+          "url": "https://bksy.nefu.edu.cn/info/1022/3278.htm",
+          "snippet": "2.教务系统学生发起申请时间为2024年12月9日至2024年12月16日，请符合申报条件的学生按时在教务系统提交申请。",
+          "source": "bksy.nefu.edu.cn"
+        },
+        {
+          "title": "【教务科】关于《东北林业大学推荐应届本科毕业生免试攻读研究生 ...",
+          "url": "https://bksy.nefu.edu.cn/info/1021/2715.htm",
+          "snippet": "对于在实践中发现竞赛质量、获奖难度等与相应级别不匹配的竞赛项目，各单位可在充分论证后，向学校申请升级、降级或除名。",
+          "source": "bksy.nefu.edu.cn"
+        },
+        {
+          "title": "关于举办东北林业大学第十一届“成栋杯”大学生创新竞赛的通知",
+          "url": "https://www.nefu.edu.cn/old/info/1003/20537.htm",
+          "snippet": "关于举办东北林业大学第十一届“成栋杯”大学生创新竞赛的通知 · 一、赛事安排. 本次大赛总体举办时间为2025年10月至2026年1月，下设两项主体赛事： · 二、奖励办法. 大赛设金 ...",
+          "source": "www.nefu.edu.cn"
+        },
+        {
+          "title": "附件3： 学科竞赛类别及其标准分值",
+          "url": "https://linxue.njfu.edu.cn/DFS//file/2025/09/03/202509031953337469dds4w.pdf",
+          "snippet": "学生在《南京林业. 大学大学生学科竞赛目录》所列同一竞赛项目中获多个奖项的，按最高级别计算。 对于设有特等奖的竞赛，特等奖按一等奖计算，一等奖按二 ...",
+          "source": "linxue.njfu.edu.cn"
+        },
+        {
+          "title": "第十七届全国大学生数学竞赛黑龙江赛区预选赛东北林业大学分赛区",
+          "url": "https://www.saikr.com/vse/cmathc/nefu/2025",
+          "snippet": "本届竞赛初赛暂定于2025年11月8日(星期六)上午9:00-11:30举行，如有变动另行通知;决赛预计于2026年3月底或4月在四川大学和成都理工大学举行，决赛的具体时间与地点将在2026 ...",
+          "source": "www.saikr.com"
+        },
+        {
+          "title": "关于开展东北林业大学第十三届“挑战杯”课外学术作品竞赛活动的通知",
+          "url": "https://www.tiaozhanbei.net/article/7817/",
+          "snippet": "3.申报作品须符合《东北林业大学第十三届“挑战杯”大学生课外学术科技作品竞赛作品申报具体要求》（见附件2）；哲学社会科学类参赛作品题目须参考《第十三 ...",
+          "source": "www.tiaozhanbei.net"
+        },
+        {
+          "title": "关于召开第十二届全国大学生机械创新设计大赛解读会的通知",
+          "url": "https://www.nefu.edu.cn/info/1758/215700.htm",
+          "snippet": "报告题目：第十二届全国大赛数字孪生设计挑战赛的任务、竞赛流程和优秀作品分享报告人：西安交通大学王晶教授时间：2026年11月12日（周四） ...",
+          "source": "www.nefu.edu.cn"
+        },
+        {
+          "title": "东北林业大学2015年高水平运动队招生简章",
+          "url": "https://gaokao.chsi.com.cn/gkxx/gspydy/jz/201503/20150311/1433122248.html",
+          "snippet": "3、现场确认. 请考生本人携带身份证、运动员等级证书、比赛秩序册和成绩册原件，于2015年3月27日8:00-17:00到学校招生就业指导处(综合办公楼203室)进行 ...",
+          "source": "gaokao.chsi.com.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.181,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.181
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:49:38.404Z",
+    "durationSeconds": 3.184
+  }
+}

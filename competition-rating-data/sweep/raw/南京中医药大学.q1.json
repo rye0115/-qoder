@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京中医药大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京中医药大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "结合学校学科专业特色，将我校的学科竞赛分为A、B、C 三类， 具体见《南京中医药大学高水平大学生学科竞赛项目目录》（附 件1）。",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "山东中医药大学大学生学科竞赛管理办法（修订）",
+          "url": "https://cxcyxy.sdutcm.edu.cn/info/1078/1465.htm",
+          "snippet": "A类：指中国高等教育学会学科竞赛 … B类：指除A＋类、A类的其它具有全球或全国影响的比赛，以及中国国际大学生创新大赛/“挑战杯”中国大学生创业计划竞赛/ … ...",
+          "source": "cxcyxy.sdutcm.edu.cn"
+        },
+        {
+          "title": "关于做好2020年度学科竞赛组织与管理工作的通知 - 教务处",
+          "url": "http://jwc.njucm.edu.cn/2020/0513/c3870a63787/page.htm",
+          "snippet": "各级各类学科竞赛采用项目制管理，请项目负责人从“南京中医药大学学科竞赛管理系统”（网址：http://sjjx.njucm.edu.cn/xkjs/）填报校级赛事方案或省级以上赛 ...",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "南京工业大学生学科竞赛和创新创业实践活动管理办法",
+          "url": "https://fzxy.njtech.edu.cn/info/1019/3329.htm",
+          "snippet": "备注：1.本目录1-53项为全国普通高校学科竞赛排行榜的竞赛活动，每年根据全国普通高校学科竞赛评估结果动态调整。C类竞赛根据主办单位级别、赛事规模、 ...",
+          "source": "fzxy.njtech.edu.cn"
+        },
+        {
+          "title": "南京邮电大学研究生学科竞赛管理办法",
+          "url": "https://pg.njupt.edu.cn/_upload/article/files/d4/f0/a9565c83414dac727b27f843c283/a927cf1d-0df9-4299-a0ef-dedcb18ef8ca.pdf",
+          "snippet": "竞赛奖励范围仅限于我校当年竞赛等级目录中所列A 类、B. 类、C 类赛事，其他竞赛获奖学校不予奖励。学生和指导教师在. 同一年度同类竞赛获多个等级奖的按最高等级奖励。",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "下载专区- 学科竞赛管理系统",
+          "url": "https://cxcy.njucm.edu.cn/js/XKJS/NJUCM/DownloadData",
+          "snippet": "南京中医药大学 学科竞赛管理系统. 南京中医药大学 学科竞赛管理系统. 首页 · 通知公告 · 新闻动态 · 竞赛宣传 · 成果展示 · 下载专区 · 登录. 下载专区. 首页; 下载专区.",
+          "source": "cxcy.njucm.edu.cn"
+        },
+        {
+          "title": "附件3： 学科竞赛类别及其标准分值",
+          "url": "https://linxue.njfu.edu.cn/DFS//file/2025/09/03/202509031953337469dds4w.pdf",
+          "snippet": "学生在《南京林业. 大学大学生学科竞赛目录》所列同一竞赛项目中获多个奖项的，按最高级别计算。 对于设有特等奖的竞赛，特等奖按一等奖计算，一等奖按二 ...",
+          "source": "linxue.njfu.edu.cn"
+        },
+        {
+          "title": "教字〔2025〕2号中国科学技术大学本科生学科竞赛管理办法",
+          "url": "https://www.teach.ustc.edu.cn/wp-content/uploads/2025/01/%E6%95%99%E5%AD%97%E3%80%942025%E3%80%952%E5%8F%B7-%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95.pdf",
+          "snippet": "通过明确不同等级的竞赛范围，学校为学生提供参与多层. 次、多领域的学科竞赛的机会，不断提升学生的学术水平和综合. 素质。 四、奖励认定和支持. （一）教师工作量认定.",
+          "source": "www.teach.ustc.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.342,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.342
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:28.101Z",
+    "durationSeconds": 3.346
+  }
+}

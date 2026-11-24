@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京邮电大学 学科竞赛 分级目录 A类 B类 管理办法",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京邮电大学 学科竞赛 分级目录 A类 B类 管理办法\". Read items for the sources.",
+      "items": [
+        {
+          "title": "南京邮电大学研究生学科竞赛管理办法",
+          "url": "https://pg.njupt.edu.cn/_upload/article/files/d4/f0/a9565c83414dac727b27f843c283/a927cf1d-0df9-4299-a0ef-dedcb18ef8ca.pdf",
+          "snippet": "竞赛奖励范围仅限于我校当年竞赛等级目录中所列A 类、B. 类、C 类赛事，其他竞赛获奖学校不予奖励。学生和指导教师在. 同一年度同类竞赛获多个等级奖的按最高等级奖励。",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "南京邮电大学本科生创新创业竞赛管理规定",
+          "url": "https://cxcy.njupt.edu.cn/2022/0712/c15489a224092/page.htm",
+          "snippet": "创新创业竞赛分为国家级、省级、校级三个级别及A类、B类、C类三个类别，类别认定依据《南京邮电大学大学生创新创业竞赛项目认定及分类目录（试行）》划分 ...",
+          "source": "cxcy.njupt.edu.cn"
+        },
+        {
+          "title": "南京邮电大学通达学院学生创新创业竞赛管理规定（试行）",
+          "url": "https://www.nytdc.edu.cn/dqgcxy/2022/0420/c1114a26409/page.htm",
+          "snippet": "B类竞赛：与我院学科专业相关并入选“中国高校创新人才培养暨创新创业竞赛评估” 指标体系，但未列入A类的竞赛项目列入B类；体现学院电子信息特色的全国 ...",
+          "source": "www.nytdc.edu.cn"
+        },
+        {
+          "title": "校研发〔2026〕10号关于发布《南京邮电大学研究生学科竞赛管理办法 ...",
+          "url": "https://pg.njupt.edu.cn/2026/0702/c1062a305725/page.htm",
+          "snippet": "校研发〔2026〕10号关于发布《南京邮电大学研究生学科竞赛管理办法》的通知. 来源： 研究生院 发表时间： 2026-07-02 浏览次数： 2961. Thumbnails Document Outline",
+          "source": "pg.njupt.edu.cn"
+        },
+        {
+          "title": "南京邮电大学本科生学科竞赛管理规定（试行）",
+          "url": "https://bc.njupt.edu.cn/2016/0229/c7616a83318/page.htm",
+          "snippet": "1．成立学科竞赛工作小组，将学科竞赛纳入本单位日常教学工作；竞赛前一学期可以以公共任选课的形式组织相关竞赛课程培训工作。 · 2．确定相对稳定的竞赛 ...",
+          "source": "bc.njupt.edu.cn"
+        },
+        {
+          "title": "南京邮电大学大学生创新创业竞赛项目认定及分类",
+          "url": "https://bhs.njupt.edu.cn/2025/0915/c4833a288747/page.htm",
+          "snippet": "南京邮电大学大学生创新创业竞赛项目认定及分类目录（修订）序号竞赛名称分类负责部门1 中国国际大学生创新大赛A类创新创业教育学院；教务处2 “挑战杯”全国大学生 ...",
+          "source": "bhs.njupt.edu.cn"
+        },
+        {
+          "title": "学校规章 - 创新创业教育学院- 南京邮电大学",
+          "url": "https://cxcy.njupt.edu.cn/15489/list.htm",
+          "snippet": "南京邮电大学大学生创新创业竞赛项目认定及分类目录（修订） 2025-01-10 ; 创新创业竞赛指导教师奖励办法 2021-11-11 ; 南京邮电大学教师教学能力提升实施办法 2020-12-01 ...",
+          "source": "cxcy.njupt.edu.cn"
+        },
+        {
+          "title": "学科竞赛 - 本科生院- 南京邮电大学",
+          "url": "https://jwc.njupt.edu.cn/1565/list.htm",
+          "snippet": "南京邮电大学本科生学科竞赛管理规定. 2013-01-23 · 南京邮电大学校级学科竞赛申请表. 2013-01-23 · 南京邮电大学省级以上学科竞赛申请表. 2013-01-22 · 学科竞赛获奖统计表.",
+          "source": "jwc.njupt.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.213,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.213
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:51:44.247Z",
+    "durationSeconds": 3.216
+  }
+}

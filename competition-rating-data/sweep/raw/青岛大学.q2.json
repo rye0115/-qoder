@@ -1,0 +1,95 @@
+{
+  "mode": "search",
+  "query": "青岛大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "You.com returned 8 ranked result(s) for \"青岛大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "—1— 青理工校发〔2022〕67 号 青岛理工大学 ...",
+          "url": "https://chuangye.qut.edu.cn/__local/7/B6/5B/BFD15BF3F5497845B54940219D4_AC7AAA99_5E788.pdf",
+          "snippet": "在不同级别竞赛中获奖，获奖团队均按最高获奖等级进行一次性 · 经费支持。竞赛经费支持范围仅限于学校当年度认定竞赛，未认 · 定的其他竞赛不予支持。 · 第十六条 经费支持 · 1.在三大赛中，获得国家级特等奖（金奖/单项奖）项目团 ·",
+          "source": "chuangye.qut.edu.cn",
+          "published_at": "2022-10-04T00:00:00"
+        },
+        {
+          "title": "青大教字（2014）24号关于印发《青岛大学大学生学...",
+          "url": "https://ty.qdu.edu.cn/info/1235/2569.htm",
+          "snippet": "青岛大学体育学院 地址：青岛市市南区宁夏路308号 电话：0532-85953080 邮编：266071",
+          "source": "ty.qdu.edu.cn"
+        },
+        {
+          "title": "关于2024年学科竞赛有关工作的通知-青岛大学教务处",
+          "url": "https://jwc.qdu.edu.cn/info/1009/5377.htm",
+          "snippet": "Copyright© 青岛大学教务处 All Rights Reserved.",
+          "source": "jwc.qdu.edu.cn"
+        },
+        {
+          "title": "【赛事信息】关于组织2025年中国大学生计算机设...",
+          "url": "https://jwc.qdu.edu.cn/info/1009/5811.htm",
+          "snippet": "Copyright© 青岛大学教务处 All Rights Reserved.",
+          "source": "jwc.qdu.edu.cn",
+          "published_at": "2025-04-08T00:00:00"
+        },
+        {
+          "title": "— 1 — 青岛科技大学党委学生工作部 学生工作处...",
+          "url": "http://xjpg.qust.edu.cn/__local/8/26/47/6FC2A002543365E35D23C1FDB70_2E96D9D0_37E5F3.pdf",
+          "snippet": "+”大学生创新创 · 业大赛） · A · 国 · 家 · 级 · 创新创业教育学院 · https://cy.ncss.cn/ 该竞赛如有山东省赛 · 或区域赛，级别按省级 · 进行认定，类别不变， · 以竞赛获奖证书或官 · 方文件为准 ·",
+          "source": "xjpg.qust.edu.cn"
+        },
+        {
+          "title": "青岛科技大学大学生学科竞赛认定一览表-青岛科...",
+          "url": "https://hysw.qust.edu.cn/info/1196/3134.htm",
+          "snippet": "作者： 时间：2019-03-04 点击数： · 中国“互联网+”大学生创新创业大赛",
+          "source": "hysw.qust.edu.cn"
+        },
+        {
+          "title": "【竞赛信息】关于举办2025年大学生光电设计科技...",
+          "url": "https://jwc.qdu.edu.cn/info/1009/5916.htm",
+          "snippet": "Copyright© 青岛大学教务处 All Rights Reserved.",
+          "source": "jwc.qdu.edu.cn"
+        },
+        {
+          "title": "教务通知-青岛大学教务处",
+          "url": "https://jwc.qdu.edu.cn/jwtz/77.htm",
+          "snippet": "2025-04-25 【赛事信息】关于组织学生参加山东省大学生数学建模竞赛的通知 · 2025-04-24 【赛事信息】关于公布第30届中国日报社 “21世纪杯”全国英语演讲比赛校园选拔赛入围决赛名单的通知 · 首页上页1...1011121314...88下页尾页 第/88页 跳转 · 校内链接 大学主页/ 党政部门/ 学院学部/ 图书馆/ 档案馆/ 智慧校园/ 旧版回顾 · Copyright© 青岛大学教务处 All Rights Reserved.",
+          "source": "jwc.qdu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "youcom",
+      "status": "ok",
+      "warnings": [
+        "Fell back to youcom after: firecrawl: firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/f8qx33f3efsr\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53364,\"signup_url\":\"https://firecrawl.dev/k/f8qx33f3efsr\"} | keenable: keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+        "You.com returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": false,
+          "error": "firecrawl returned 429 Too Many Requests. {\"success\":false,\"error\":\"You've hit Firecrawl's keyless free tier rate limit. To continue now, create a free API key at https://firecrawl.dev/k/f8qx33f3efsr\\n\\nThen authenticate with:\\nAuthorization: [redacted],\"reason\":\"credits\",\"retry_after_seconds\":53364,\"signup_url\":\"https://firecrawl.dev/k/f8qx33f3efsr\"}",
+          "durationSeconds": 1.644
+        },
+        {
+          "engine": "keenable",
+          "ok": false,
+          "error": "keenable request failed: fetch failed; cause: Connect Timeout Error (attempted address: api.keenable.ai:443, timeout: 10000ms)",
+          "durationSeconds": 10.581
+        },
+        {
+          "engine": "youcom",
+          "ok": true,
+          "durationSeconds": 1.91
+        }
+      ],
+      "durationSeconds": 1.91
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T11:05:29.565Z",
+    "durationSeconds": 14.138
+  }
+}

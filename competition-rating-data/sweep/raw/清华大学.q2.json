@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "清华大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"清华大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "科技赛事",
+          "url": "https://www.tsinghua.edu.cn/xtw/info/1014/1115.htm",
+          "snippet": "各级各类科技创新赛事，是激发学生学术科技兴趣、锻炼科技创新素养、培育优秀项目和拔尖创新人才的重要平台。 … 公众号 010-62786244 twinfo@tsinghua.edu.cn",
+          "source": "www.tsinghua.edu.cn"
+        },
+        {
+          "title": "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/20690.html",
+          "snippet": "学生的修读院系或竞赛归属单位需要对学生申报的竞赛成果进行审核认定，确保成果情况属实；审核截止时间为2026年12月3日。竞赛归属学院上报的成果数据不 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "GIX创新大赛",
+          "url": "https://gix.tsinghua.edu.cn/hd/GIXcxds.htm",
+          "snippet": "全球创新体验营的招生对象是学业优秀、有志于投身信息学科相关交叉领域研究的高一或高二学生，具有基本的英语听说交流能力，在学科竞赛中取得优异成绩或拥有科创和发明成果 ...",
+          "source": "gix.tsinghua.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "关于公布大学生学科竞赛项目级别认定结果的通知 · 1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "关于B类和C类学科竞赛等级认定的公示 发布时间：2024-04-10 … 联系人：周秋霜，电话：0371-61912758。 B 全国大学生市场调查与分析",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "附表2学科竞赛获奖等级认定标准(本科生、研究生)",
+          "url": "https://www.scribd.com/document/914325840/%E9%99%84%E8%A1%A82%E5%AD%A6%E7%A7%91%E7%AB%9E%E8%B5%9B%E8%8E%B7%E5%A5%96%E7%AD%89%E7%BA%A7%E8%AE%A4%E5%AE%9A%E6%A0%87%E5%87%86-%E6%9C%AC%E7%A7%91%E7%94%9F-%E7%A0%94%E7%A9%B6%E7%94%9F-1-1",
+          "snippet": "附表2. 学科竞赛获奖等级认定标准(本科生、研究生) 序号竞赛名称主办单位竞赛类别 1 中国国际大学生创新大赛教育部国家级A 类“挑战杯”全国大学生课外学术科技作品竞赛",
+          "source": "www.scribd.com"
+        },
+        {
+          "title": "学科竞赛等级分类示例",
+          "url": "https://jwc.shnu.edu.cn/92/2f/c17086a430639/page.htm",
+          "snippet": "|  |  |\n|-|-|\n| 10 | 上海市大学生“创造杯”大赛 |",
+          "source": "jwc.shnu.edu.cn"
+        },
+        {
+          "title": "清华大学2025年竞赛类保送生招生简章",
+          "url": "https://join-tsinghua.edu.cn/info/1006/1977.htm",
+          "snippet": "报名网址：https://admission.join-tsinghua.edu.cn， … 联系方式 咨询电话：（010）62770334, 62782051 传真：（010）62782061 邮箱：zsb@tsinghua.edu.cn … ...",
+          "source": "join-tsinghua.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.522,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.522
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:43:36.842Z",
+    "durationSeconds": 4.526
+  }
+}

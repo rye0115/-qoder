@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "郑州大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"郑州大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "郑州大学教务部- 通知公告",
+          "url": "https://www5.zzu.edu.cn/jwc/index/tzgg/109.htm",
+          "snippet": "通知公告 · 关于开展2023-2024年度校级一流课程、公共艺术课程结项认定工作的通知 · 关于开展“一院一特色、一班一品牌”本科拔尖学生实验班建设项目申报工作的通知 · 关于公布 ...",
+          "source": "www5.zzu.edu.cn"
+        },
+        {
+          "title": "关于组织我校学生参加2026年第十八届全国大学生数学竞赛的报名通知",
+          "url": "https://www5.zzu.edu.cn/math/info/1168/5406.htm",
+          "snippet": "1．电脑端：登录https://pay2.v.zzu.edu.cn/fbxysf；. 2．手机端：微信关注\"郑州大学资产与财务部\"公众号，依次点击\"业务办理—学生缴费— ...",
+          "source": "www5.zzu.edu.cn"
+        },
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "根据我校“关于开展B类学科竞赛等级认定申报工作的通知”，经专家评审、综合审定等环节，现将郑州航院B类和C类学科竞赛竞赛项目评审结果予以公示，公示 ...",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "教务部- 学科竞赛",
+          "url": "https://www5.zzu.edu.cn/jwc/sjjx/xkjs/16.htm",
+          "snippet": "新闻快递 通知公告 服务指南 · 部门概况 · 组织架构 科室职责 联系我们 · 专业建设 ... 郑州大学第六届“恒宇杯”大学生金相技能大赛暨第十届全国大... 2021-04-25. 建党 ...",
+          "source": "www5.zzu.edu.cn"
+        },
+        {
+          "title": "关于大学生参加学科竞赛奖励认定的说明-教务处 - 郑州师范学院",
+          "url": "https://jwc.zznu.edu.cn/info/1251/24071.htm",
+          "snippet": "有关事项通知如下： ... 我校学科竞赛管理办法规定学科竞赛级别分为校、市、省、国家、国际五个级别，个别不能明确界定级别的竞赛项目由教务处判定。",
+          "source": "jwc.zznu.edu.cn"
+        },
+        {
+          "title": "关于举办中国国际大学生创新大赛（2026）校赛决赛的通知",
+          "url": "https://www5.zzu.edu.cn/jwc/info/1282/5140.htm",
+          "snippet": "请各参赛团队负责人于6月12日中午12:00前扫描下方二维码，完成参赛信息填报。务必保证填报信息真实、准确、完整，逾期未填报视为自动放弃参赛资格。",
+          "source": "www5.zzu.edu.cn"
+        },
+        {
+          "title": "关于举办2026年（第十二届）全国大学生统计建模大赛 ...",
+          "url": "https://www.zzu.edu.cn/info/1442/87853.htm",
+          "snippet": "关于本次竞赛的后续通知将在微信群和校内网站进行发布。校赛联系人：卢老师，联系电话：0371-67739499。",
+          "source": "www.zzu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "自公布之日起所认定的大学生学科竞赛项目级别，将作为本科生参加学科竞赛申请课程免修或学分认定和指导教师绩效计算依据。同时学科竞赛获奖等级认定条件 ...",
+          "source": "jwch.fzu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.29,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.29
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:54:22.144Z",
+    "durationSeconds": 3.293
+  }
+}

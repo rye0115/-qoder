@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "南京中医药大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"南京中医药大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "南京中医药大学高水平大学生学科竞赛组织管理办法",
+          "url": "https://gra.njucm.edu.cn/_upload/article/files/ab/08/40f18b9d45c295eeec300d965704/05d8ddc3-7100-45b1-8203-295134d5f71f.pdf",
+          "snippet": "参照《江苏省普通高校本专科生学科竞赛等级认定实施办法》，. 结合学校学科专业特色，将我校的学科竞赛分为A、B、C 三类，. 具体见《南京中医药大学高水平大学生学科竞赛 ...",
+          "source": "gra.njucm.edu.cn"
+        },
+        {
+          "title": "关于举办中国国际大学生创新大赛（2026）南京中医药大学校赛的通知",
+          "url": "https://jwc.njucm.edu.cn/2026/0330/c3870a166817/page.htm",
+          "snippet": "关于举办中国国际大学生创新大赛（2026）南京中医药大学校赛的通知 · 1.团队物质奖励：一等奖奖金1000元，二等奖奖金500元，三等奖奖金300元，并发放相应的 ...",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "关于开展2025年中国国际大学生创新大赛南京中医药大学重点项目立项 ...",
+          "url": "https://jwc.njucm.edu.cn/2025/0114/c4498a151960/page.htm",
+          "snippet": "关于开展2025年中国国际大学生创新大赛南京中医药大学重点项目立项申报的通知 · 1.项目申报：即日起——2025年3月16日。 · 2.立项评审：2025年3月17日——2025年 ...",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "关于开展2026年度本科生学科竞赛等级认定和经费预算申报工作的通知",
+          "url": "https://jw.nju.edu.cn/bc/dc/c26263a834780/page.htm",
+          "snippet": "请相关院系、单位重视此项工作，参照以上竞赛等级认定的条件以及南京大学本科生学科竞赛等级认定一览表（2025年版），对于竞赛认定情况进行更新与补充,并 ...",
+          "source": "jw.nju.edu.cn"
+        },
+        {
+          "title": "关于举办中国国际大学生创新大赛（2025）南京中医药大学校赛的通知",
+          "url": "https://jwc.njucm.edu.cn/2025/0523/c4498a156001/page.htm",
+          "snippet": "关于举办中国国际大学生创新大赛（2025）南京中医药大学校赛的通知 · 一、大赛主题. 我敢闯，我会创。 · 二、大赛内容. 包括高教主赛道、“青年红色筑梦之旅” ...",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "关于举办2026年南京中医药大学医学创新大赛暨第十二届全国大学生医学 ...",
+          "url": "https://jwc.njucm.edu.cn/2026/0307/c3870a166142/page.htm",
+          "snippet": "为选拔南京中医药大学优秀团队，现将有关事项通知如下：. 一、竞赛宗旨 ... 第十二届全国大学生医学创新大赛暨“一带一路”国际竞赛第一轮通知.pdf.",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "关于举办2025年南京中医药大学医学创新大赛暨第十一届全国大学生医学 ...",
+          "url": "https://jwc.njucm.edu.cn/2025/0119/c3870a152096/page.htm",
+          "snippet": "1．报名：参加学校初赛的团队及作品数量不限。 · 2．校赛时间另行通知。 · 3．形式：网络评审、现场答辩。",
+          "source": "jwc.njucm.edu.cn"
+        },
+        {
+          "title": "教育部关于公布中国国际大学生创新大赛（2025）获奖名单的通知",
+          "url": "http://www.moe.gov.cn/srcsite/A08/s7056/202602/t20260227_1429516.html",
+          "snippet": "经专家评审、项目公示、大赛监委会核查，共产生获奖项目4729个（详见附件）。现将获奖结果公布如下。 一、高教主赛道：冠军1名、亚军1名、季军4名，金奖 ...",
+          "source": "www.moe.gov.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.343,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.343
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:52:32.758Z",
+    "durationSeconds": 4.346
+  }
+}

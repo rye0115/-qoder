@@ -1,0 +1,15 @@
+{
+  "name": "jingheng-studyhack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "竞衡 · 大学生学科竞赛价值评估与证据研究",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node scripts/acceptance.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

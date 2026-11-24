@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "河南大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"河南大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "根据我校“关于开展B类学科竞赛等级认定申报工作的通知”，经专家评审、综合审定等环节，现将郑州航院B类和C类学科竞赛竞赛项目评审结果予以公示，公示 ...",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "关于公布大学生学科竞赛项目级别认定结果的通知 · 1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "关于大学生参加学科竞赛奖励认定的说明-教务处 - 郑州师范学院",
+          "url": "https://jwc.zznu.edu.cn/info/1251/24071.htm",
+          "snippet": "对大学生参加学科竞赛项目进行备案及认定。 … 学科竞赛级别分为校、市、省、国家、国际五个级别，个别不能明确界定级别的竞赛项目由教务处判定。",
+          "source": "jwc.zznu.edu.cn"
+        },
+        {
+          "title": "学科竞赛等级分类示例",
+          "url": "https://jwc.shnu.edu.cn/92/2f/c17086a430639/page.htm",
+          "snippet": "|  |  |\n|-|-|\n| A1级： |\n\nA2级:",
+          "source": "jwc.shnu.edu.cn"
+        },
+        {
+          "title": "分级认定申请 - 教务处- 南京航空航天大学",
+          "url": "https://aao.nuaa.edu.cn/8173/list.htm",
+          "snippet": "新增竞赛级别认定申请。如竞赛未认定级别，请填写《南京航空航天大学大学生新增竞赛级别认定申请表》（文件见附件2），描述竞赛信息和我校近年参赛情况，以及其他参赛高校 ...",
+          "source": "aao.nuaa.edu.cn"
+        },
+        {
+          "title": "中国农业大学学科竞赛级别认定（2026-2027年）",
+          "url": "https://cpp.cau.edu.cn/module/download/downfile.jsp?classid=0&filename=8aeda09df1714f1f96d7a5d7daf2ff33.pdf",
+          "snippet": "竞赛级别. 竞赛名称. 类别. 主办单位. 138. 校级. 中国农业大学大学生化学竞赛. 本科生. 中国农业大学. 139. 校级. 中国农业大学非数学专业高等数学竞赛. 本科生. 中国农业 ...",
+          "source": "cpp.cau.edu.cn"
+        },
+        {
+          "title": "NETCCS通知| 各高校竞赛认定情况汇总（持续更新）",
+          "url": "https://new.saikr.com/c/nd/47796",
+          "snippet": "- 竞赛",
+          "source": "new.saikr.com"
+        },
+        {
+          "title": "河南省高等学校大学生竞赛管理服务中心",
+          "url": "https://jsgl.htu.edu.cn/",
+          "snippet": "关于征集2025年河南省本科高等学校大学生学科竞赛项目的通知01-13关于公布2024年河南省高等学校大学生学科竞赛省级竞赛项目的通知06-02普通高校大学生计算机竞赛指数 ...",
+          "source": "jsgl.htu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 4.8,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 4.8
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:54:31.534Z",
+    "durationSeconds": 4.803
+  }
+}

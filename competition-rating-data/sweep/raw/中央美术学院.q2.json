@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "中央美术学院 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"中央美术学院 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "新闻动态-中央美术学院",
+          "url": "https://www.cafa.edu.cn/sp/news/",
+          "snippet": "通知公告 MORE · 中央美术学院博士后流动站2026年招聘 ... 关于2026年度公开招聘拟聘用人员的公示 · 关于我校推2个项目参加第十五届“挑战杯”中国大学生创业计划竞赛的公示 ...",
+          "source": "www.cafa.edu.cn"
+        },
+        {
+          "title": "4金17银27铜，中央美院在创新大赛再获佳绩！",
+          "url": "https://www.cafa.edu.cn/st/2025/90133171.htm",
+          "snippet": "近日 2025中国国际大学生创新大赛北京赛区圆满落幕中央美术学院共获奖项48项一等奖4项二等奖17项三等奖27项再创历年新高连续五年获得突破蝉联三 ...",
+          "source": "www.cafa.edu.cn"
+        },
+        {
+          "title": "美术学院召开2025年度学科竞赛获奖等级认定会",
+          "url": "https://www.scuec.edu.cn/art/info/1040/4545.htm",
+          "snippet": "本次会议通过对学科竞赛目录的审慎认定，理顺了学院学科竞赛的管理流程，明确了各专业备赛的主攻方向。未来，美术学院将继续坚持“以赛促教、以赛促学、以 ...",
+          "source": "www.scuec.edu.cn"
+        },
+        {
+          "title": "关于公布中国美术学院大学生学科竞赛基地的通知 - 国美青年",
+          "url": "https://gmqn.caa.edu.cn/info/1026/1327.htm",
+          "snippet": "各单位：经教学单位申报、学校相关部门审核认定，现将我校第一批大学生学科竞赛基地及承办校内赛项情况公布如下： 序号基地名称承办校内赛事名称1 ...",
+          "source": "gmqn.caa.edu.cn"
+        },
+        {
+          "title": "挑战杯，中央美院一等奖+1",
+          "url": "https://www.cafa.edu.cn/st/2026/90133793.htm",
+          "snippet": "赛事共吸引全国2700余所高校、300余万名大学生参赛，约1900个项目晋级全国终审决赛。 中央美术学院首次登上全国终审决赛舞台，经过展位问询、现场答辩、 ...",
+          "source": "www.cafa.edu.cn"
+        },
+        {
+          "title": "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/20690.html",
+          "snippet": "学生的修读院系或竞赛归属单位需要对学生申报的竞赛成果进行审核认定，确保成果情况属实；审核截止时间为2026年12月3日。竞赛归属学院上报的成果数据不 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "关于公布大学生学科竞赛项目级别认定结果的通知 · 1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "新闻动态-中央美术学院",
+          "url": "https://www.cafa.edu.cn/sp/nl/?ci=902",
+          "snippet": "中央美术学院博士后流动站2026年招聘公告. 2026.10.20 ; 中央美术学院学校办公室派遣岗位公开招聘公告. 2026.10.19 ; 关于2026年度公开招聘拟聘用人员的公示（第二批）.",
+          "source": "www.cafa.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 6.182,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 6.182
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:46:18.877Z",
+    "durationSeconds": 6.185
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mode": "search",
+  "query": "北京体育大学 大学生竞赛 等级认定 通知",
+  "url": null,
+  "results": [
+    {
+      "summary": "Firecrawl returned 8 ranked result(s) for \"北京体育大学 大学生竞赛 等级认定 通知\". Read items for the sources.",
+      "items": [
+        {
+          "title": "北京体育大学本科生学科竞赛管理办法",
+          "url": "https://jwc.bsu.edu.cn/docs/2025-12/4a0e98a48efd4837beed7daa99a39364.pdf",
+          "snippet": "第四条竞赛的等级认定。由教育部举办的比赛认定为. 国家级，由北京市教委举办的 ... 第八条学校设立本科生竞赛一般业绩津贴奖励，将根. 据竞赛级别、获奖等级，对参赛学生、 ...",
+          "source": "jwc.bsu.edu.cn"
+        },
+        {
+          "title": "北京体育大学",
+          "url": "https://www.bsu.edu.cn/",
+          "snippet": "本科生培养 · 研究生培养 · 联合培养 · 留学生培养 · 港澳台侨生 · 博士后 · 继续教育冬奥培训 · 附属竞技体校 · 科学研究 · 训练竞赛 · 招生就业 · 合作交流.",
+          "source": "www.bsu.edu.cn"
+        },
+        {
+          "title": "关于提交2024年认定的学科竞赛年度总结及启动 ...",
+          "url": "https://jxgl.bistu.edu.cn/jwtz/9f023e76d26d4ea19ccf0a4d514f1601.htm",
+          "snippet": "关于提交2024年认定的学科竞赛年度总结及启动学科竞赛认定名单（2025-2027年）申报工作的通知 · 每项申报的竞赛需指定1名竞赛负责教师，负责竞赛的承办任务 ...",
+          "source": "jxgl.bistu.edu.cn"
+        },
+        {
+          "title": "关于B类和C类学科竞赛等级认定的公示 - 创新创业中心",
+          "url": "https://sczx.zua.edu.cn/info/1087/3642.htm",
+          "snippet": "关于B类和C类学科竞赛等级认定的公示 发布时间：2024-04-10 … 联系人：周秋霜，电话：0371-61912758。",
+          "source": "sczx.zua.edu.cn"
+        },
+        {
+          "title": "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知",
+          "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/20690.html",
+          "snippet": "学生的修读院系或竞赛归属单位需要对学生申报的竞赛成果进行审核认定，确保成果情况属实；审核截止时间为2026年12月3日。竞赛归属学院上报的成果数据不 ...",
+          "source": "www.teach.ustc.edu.cn"
+        },
+        {
+          "title": "学科竞赛|关于举办2020年北京体育大学计算机设计大赛暨中国大学生 ...",
+          "url": "https://jwc.bsu.edu.cn/tztg/e2e09aae94434aa1bd012f1391499d2b.htm",
+          "snippet": "现将参赛方式通知如下，请各学院协助做好学生报名工作。 一、参赛形式. （一）我校在校 ...",
+          "source": "jwc.bsu.edu.cn"
+        },
+        {
+          "title": "关于公布大学生学科竞赛项目级别认定结果的通知",
+          "url": "https://jwch.fzu.edu.cn/info/1039/11833.htm",
+          "snippet": "关于公布大学生学科竞赛项目级别认定结果的通知 · 1.学科竞赛的获奖级别的认定，以竞赛主办单位颁发的证书或文件为依据。 · 2.申请时均需提供参赛项目获奖 ...",
+          "source": "jwch.fzu.edu.cn"
+        },
+        {
+          "title": "通知公告",
+          "url": "https://jwc.bsu.edu.cn/tztg/index4.htm",
+          "snippet": "2020-07-08 学科竞赛|关于参加2020年北京市大学生数字媒体设计大赛的通知 · 2020-07 ... 认定的补充通知 · 2020-03-11 教学质量|关于开展北京体育大学本科在线教学 ...",
+          "source": "jwc.bsu.edu.cn"
+        }
+      ],
+      "uncertainty": [],
+      "source": "web",
+      "requestedSource": "web",
+      "engine": "firecrawl",
+      "status": "ok",
+      "warnings": [
+        "Firecrawl search returns ranked results without an LLM summary, so the summary is mechanical: read items directly for the evidence."
+      ],
+      "attempts": [
+        {
+          "engine": "firecrawl",
+          "ok": true,
+          "durationSeconds": 3.275,
+          "credits": 2
+        }
+      ],
+      "durationSeconds": 3.275
+    }
+  ],
+  "meta": {
+    "generatedAt": "2026-11-21T10:45:54.166Z",
+    "durationSeconds": 3.278
+  }
+}
